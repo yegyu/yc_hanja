@@ -1,6 +1,7 @@
 [
     {
         "week": 1,
+        "primary_words":"요한계시록3장1~2절",
         "front_hanja_list": [
             {
                 "hanja": "河",
@@ -72,6 +73,8 @@
     },
     {
         "week": 2,
+
+        "primary_words":"요한계시록3장3~4절",
         "front_hanja_list": [
             {
                 "hanja": "河",
@@ -143,6 +146,7 @@
     },
     {
         "week": 3,
+        "primary_words":"요한계시록3장5~6절",
         "front_hanja_list": [
             {
                 "hanja": "河",
