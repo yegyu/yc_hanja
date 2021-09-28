@@ -69,5 +69,147 @@
             "救贖",
             "救援"
         ]
+    },
+    {
+        "week": 2,
+        "front_hanja_list": [
+            {
+                "hanja": "河",
+                "name": "하늘 천",
+                "count": 4,
+                "draw_list": [],
+                "sub_hanja": "大"
+            },
+            {
+                "hanja": "地",
+                "name": "땅 지",
+                "count": 12,
+                "draw_list": [],
+                "sub_hanja": "土"
+            },
+            {
+                "hanja": "創",
+                "name": "비로소 창",
+                "count": 10,
+                "draw_list": [],
+                "sub_hanja": "川"
+            },
+            {
+                "hanja": "造",
+                "name": "지을조",
+                "count": 14,
+                "draw_list": [],
+                "sub_hanja": "告"
+            }
+        ],
+        "questions": [
+            {
+                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
+                "a": "하나님이십니다."
+            },
+            {
+                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
+                "a": "하나님이십니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "태초에 하나님이 천지를 창조하시니라",
+                "where": "창세기1장1절"
+            },
+            "child_afternoon": {
+                "words": "영혼을 거스려 싸우는 육체의 정욕을 제어하라",
+                "where": "베드로전서2장11절"
+            },
+            "youth_afternoon": {
+                "words": "낮추는 자는 높아지리라",
+                "where": "마태복음23장12절"
+            },
+            "adult": {
+                "words": "낮추는 자(者)는 높아지리라",
+                "where": "마태복음23장12절"
+            }
+        },
+        "back_hanja_list": [
+            "創造",
+            "戰爭",
+            "救贖",
+            "救援",
+            "創造",
+            "戰爭",
+            "救贖",
+            "救援"
+        ]
+    },
+    {
+        "week": 3,
+        "front_hanja_list": [
+            {
+                "hanja": "河",
+                "name": "하늘 천",
+                "count": 4,
+                "draw_list": [],
+                "sub_hanja": "大"
+            },
+            {
+                "hanja": "地",
+                "name": "땅 지",
+                "count": 12,
+                "draw_list": [],
+                "sub_hanja": "土"
+            },
+            {
+                "hanja": "創",
+                "name": "비로소 창",
+                "count": 10,
+                "draw_list": [],
+                "sub_hanja": "川"
+            },
+            {
+                "hanja": "造",
+                "name": "지을조",
+                "count": 14,
+                "draw_list": [],
+                "sub_hanja": "告"
+            }
+        ],
+        "questions": [
+            {
+                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
+                "a": "하나님이십니다."
+            },
+            {
+                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
+                "a": "하나님이십니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "태초에 하나님이 천지를 창조하시니라",
+                "where": "창세기1장1절"
+            },
+            "child_afternoon": {
+                "words": "영혼을 거스려 싸우는 육체의 정욕을 제어하라",
+                "where": "베드로전서2장11절"
+            },
+            "youth_afternoon": {
+                "words": "낮추는 자는 높아지리라",
+                "where": "마태복음23장12절"
+            },
+            "adult": {
+                "words": "낮추는 자(者)는 높아지리라",
+                "where": "마태복음23장12절"
+            }
+        },
+        "back_hanja_list": [
+            "創造",
+            "戰爭",
+            "救贖",
+            "救援",
+            "創造",
+            "戰爭",
+            "救贖",
+            "救援"
+        ]
     }
 ]
