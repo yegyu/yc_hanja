@@ -1,219 +1,253 @@
 [
     {
         "week": 1,
-        "primary_words":"요한계시록3장1~2절",
+        "main_words": "요한계시록3장1-2절",
+        "voca_list": [
+            {
+                "hanja": "子孫",
+                "mean": "아들과 손자 (후손)"
+            },
+            {
+                "hanja": "世系",
+                "mean": "조상으로부터 내려오는 계통(족보)"
+            }
+        ],
         "front_hanja_list": [
             {
-                "hanja": "河",
-                "name": "하늘 천",
+                "hanja": "子",
+                "name": "아들   자",
                 "count": 4,
-                "draw_list": [],
-                "sub_hanja": "大"
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-03.svg"
+                ],
+                "sub": "子 (아들자, 3획)",
+                "sub_hanja": "子",
+                "sub_name": "아들자"
             },
             {
-                "hanja": "地",
-                "name": "땅 지",
-                "count": 12,
-                "draw_list": [],
-                "sub_hanja": "土"
+                "hanja": "孫",
+                "name": "손자 손",
+                "sub": "子 (아들자, 3획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-10.svg"
+                ]
             },
             {
-                "hanja": "創",
-                "name": "비로소 창",
-                "count": 10,
-                "draw_list": [],
-                "sub_hanja": "川"
+                "hanja": "世",
+                "name": "인간 세/대 세",
+                "sub": "一 (한일, 1획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-05.svg"
+                ]
             },
             {
-                "hanja": "造",
-                "name": "지을조",
-                "count": 14,
-                "draw_list": [],
-                "sub_hanja": "告"
+                "hanja": "系",
+                "name": "맬 계",
+                "sub": "糸 [纟,糹] (실사, 6획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-07.svg"
+                ]
             }
         ],
         "questions": [
             {
-                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
-                "a": "하나님이십니다."
+                "q": "예수 그리스도의 조상(祖上)은 누구이신가?",
+                "a": "아브라함과 다윗입니다."
             },
             {
-                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
-                "a": "하나님이십니다."
+                "q": "아브라함과 다윗에게 주신 언약(言約)은 무엇인가?",
+                "a": "그 자손 중에서 한 왕이 나온다는 것입니다."
+            },
+            {
+                "q": "마태는 어떤 사람이었는가?",
+                "a": "세리였습니다."
             }
         ],
         "yojeol": {
             "morning": {
-                "words": "태초에 하나님이 천지를 창조하시니라",
-                "where": "창세기1장1절"
+                "words": "아브라함이 이삭을 낳고 이삭은 야곱을 낳고 야곱은 유다와 그의 형제를 낳고",
+                "where": "마태복음 2장 2절"
             },
             "child_afternoon": {
-                "words": "영혼을 거스려 싸우는 육체의 정욕을 제어하라",
-                "where": "베드로전서2장11절"
+                "words": "내가 너희에게 분부한 모든 것을 가르쳐 지키게 하라",
+                "where": "마태복음 28장 20절"
             },
             "youth_afternoon": {
-                "words": "낮추는 자는 높아지리라",
-                "where": "마태복음23장12절"
+                "words": "시험에 들지 않게 깨어 있어 기도하라 마음에는 원이로되 육신이 약하도다 하시고",
+                "where": "마가복음 14장 38절"
             },
             "adult": {
-                "words": "낮추는 자(者)는 높아지리라",
-                "where": "마태복음23장12절"
+                "words": "이 복음(福音)은 하나님이 선지자(先知者)들로 말미암아 그의 아들에 관(關)하여 성경(聖經)에 미리 약속(約束)하신 것이라",
+                "where": "로마서 2장 2절"
             }
         },
         "back_hanja_list": [
-            "創造",
-            "戰爭",
-            "救贖",
-            "救援",
-            "創造",
-            "戰爭",
-            "救贖",
-            "救援"
+            "子孫",
+            "世系",
+            "責望",
+            "懲戒",
+            "支派",
+            "孫子",
+            "指名",
+            "充滿",
+            "天地",
+            "平安",
+            "安息",
+            "工巧",
+            "永遠",
+            "會幕",
+            "智慧",
+            "聰明"
         ]
     },
     {
-        "week": 2,
-
-        "primary_words":"요한계시록3장3~4절",
+        "week": 1,
+        "main_words": "요한계시록3장1-2절",
+        "voca_list": [
+            {
+                "hanja": "子孫",
+                "mean": "아들과 손자 (후손)"
+            },
+            {
+                "hanja": "世系",
+                "mean": "조상으로부터 내려오는 계통(족보)"
+            }
+        ],
         "front_hanja_list": [
             {
-                "hanja": "河",
-                "name": "하늘 천",
+                "hanja": "子",
+                "name": "아들자",
                 "count": 4,
-                "draw_list": [],
-                "sub_hanja": "大"
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-03.svg"
+                ],
+                "sub": "子 (아들자, 3획)",
+                "sub_hanja": "子",
+                "sub_name": "아들자"
             },
             {
-                "hanja": "地",
-                "name": "땅 지",
-                "count": 12,
-                "draw_list": [],
-                "sub_hanja": "土"
+                "hanja": "孫",
+                "name": "손자 손",
+                "sub": "子 (아들자, 3획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-10.svg"
+                ]
             },
             {
-                "hanja": "創",
-                "name": "비로소 창",
-                "count": 10,
-                "draw_list": [],
-                "sub_hanja": "川"
+                "hanja": "世",
+                "name": "인간 세/대 세",
+                "sub": "一 (한일, 1획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E16-05.svg"
+                ]
             },
             {
-                "hanja": "造",
-                "name": "지을조",
-                "count": 14,
-                "draw_list": [],
-                "sub_hanja": "告"
+                "hanja": "系",
+                "name": "맬 계",
+                "sub": "糸 [纟,糹] (실사, 6획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CFB-07.svg"
+                ]
             }
         ],
         "questions": [
             {
-                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
-                "a": "하나님이십니다."
+                "q": "예수 그리스도의 조상(祖上)은 누구이신가?",
+                "a": "아브라함과 다윗입니다."
             },
             {
-                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
-                "a": "하나님이십니다."
+                "q": "아브라함과 다윗에게 주신 언약(言約)은 무엇인가?",
+                "a": "그 자손 중에서 한 왕이 나온다는 것입니다."
+            },
+            {
+                "q": "마태는 어떤 사람이었는가?",
+                "a": "세리였습니다."
             }
         ],
         "yojeol": {
             "morning": {
-                "words": "태초에 하나님이 천지를 창조하시니라",
-                "where": "창세기1장1절"
+                "words": "아브라함이 이삭을 낳고 이삭은 야곱을 낳고 야곱은 유다와 그의 형제를 낳고",
+                "where": "마태복음 2장 2절"
             },
             "child_afternoon": {
-                "words": "영혼을 거스려 싸우는 육체의 정욕을 제어하라",
-                "where": "베드로전서2장11절"
+                "words": "내가 너희에게 분부한 모든 것을 가르쳐 지키게 하라",
+                "where": "마태복음 28장 20절"
             },
             "youth_afternoon": {
-                "words": "낮추는 자는 높아지리라",
-                "where": "마태복음23장12절"
+                "words": "시험에 들지 않게 깨어 있어 기도하라 마음에는 원이로되 육신이 약하도다 하시고",
+                "where": "마가복음 14장 38절"
             },
             "adult": {
-                "words": "낮추는 자(者)는 높아지리라",
-                "where": "마태복음23장12절"
+                "words": "이 복음(福音)은 하나님이 선지자(先知者)들로 말미암아 그의 아들에 관(關)하여 성경(聖經)에 미리 약속(約束)하신 것이라",
+                "where": "로마서 2장 2절"
             }
         },
         "back_hanja_list": [
-            "創造",
-            "戰爭",
-            "救贖",
-            "救援",
-            "創造",
-            "戰爭",
-            "救贖",
-            "救援"
-        ]
-    },
-    {
-        "week": 3,
-        "primary_words":"요한계시록3장5~6절",
-        "front_hanja_list": [
-            {
-                "hanja": "河",
-                "name": "하늘 천",
-                "count": 4,
-                "draw_list": [],
-                "sub_hanja": "大"
-            },
-            {
-                "hanja": "地",
-                "name": "땅 지",
-                "count": 12,
-                "draw_list": [],
-                "sub_hanja": "土"
-            },
-            {
-                "hanja": "創",
-                "name": "비로소 창",
-                "count": 10,
-                "draw_list": [],
-                "sub_hanja": "川"
-            },
-            {
-                "hanja": "造",
-                "name": "지을조",
-                "count": 14,
-                "draw_list": [],
-                "sub_hanja": "告"
-            }
-        ],
-        "questions": [
-            {
-                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
-                "a": "하나님이십니다."
-            },
-            {
-                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
-                "a": "하나님이십니다."
-            }
-        ],
-        "yojeol": {
-            "morning": {
-                "words": "태초에 하나님이 천지를 창조하시니라",
-                "where": "창세기1장1절"
-            },
-            "child_afternoon": {
-                "words": "영혼을 거스려 싸우는 육체의 정욕을 제어하라",
-                "where": "베드로전서2장11절"
-            },
-            "youth_afternoon": {
-                "words": "낮추는 자는 높아지리라",
-                "where": "마태복음23장12절"
-            },
-            "adult": {
-                "words": "낮추는 자(者)는 높아지리라",
-                "where": "마태복음23장12절"
-            }
-        },
-        "back_hanja_list": [
-            "創造",
-            "戰爭",
-            "救贖",
-            "救援",
-            "創造",
-            "戰爭",
-            "救贖",
-            "救援"
+            "子孫",
+            "世系",
+            "責望",
+            "懲戒",
+            "支派",
+            "孫子",
+            "指名",
+            "充滿",
+            "天地",
+            "平安",
+            "安息",
+            "工巧",
+            "永遠",
+            "會幕",
+            "智慧",
+            "聰明"
         ]
     }
+    
 ]
