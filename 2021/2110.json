@@ -379,5 +379,135 @@
             "智慧",
             "聰明"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 1장 2-5절",
+        "voca_list": [
+            {
+                "hanja": "祖上",
+                "mean": "한 집안이나 한 민족의 옛 어른들"
+            },
+            {
+                "hanja": "異邦",
+                "mean": "다른 나라"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "祖",
+                "name": "할아버지 조/조상 조",
+                "sub": "礻 [示,𥘅] (보일시변, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7956-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7956-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7956-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7956-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7956-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7956-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7956-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7956-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7956-09.svg"
+                ]
+            },
+            {
+                "hanja": "上",
+                "name": "윗 상",
+                "sub": "一 (한일, 1획)",
+                "count": "3획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E0A-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E0A-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E0A-03.svg"
+                ]
+            },
+            {
+                "hanja": "異",
+                "name": "다를 이(리)",
+                "sub": "田 (밭전, 5획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-11.svg"
+                ]
+            },
+            {
+                "hanja": "邦",
+                "name": "나라 방",
+                "sub": "⻏ [邑] (우부방, 3획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-07.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "믿음의 조상(祖上)으로 예수님 계보(系譜)에 들어간 사람은 누구인가?",
+                "a": "아브라함입니다."
+            },
+            {
+                "q": "이방(異邦) 여자(女子)들로서 예수님 계보(系譜)에 들어간 사람들은 누구인가?",
+                "a": "다말, 랍합, 롯입니다."
+            },
+            {
+                "q": "하나님은 구원(救援) 사업(事業)에 의인(義人)들만 쓰시는가?",
+                "a": "아닙니다. 죄인들도 쓰십니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "다윗은 우리야의 아내에게서 솔로몬을 낳고",
+                "where": "마태복음 1장 6절"
+            },
+            "child_afternoon": {
+                "words": "내가 너희에게 분부한 모든 것을 가르쳐 지키게 하라",
+                "where": "마태복음 28장 20절"
+            },
+            "youth_afternoon": {
+                "words": "시험에 들지 않게 깨어 있어 기도하라 마음에는 원이로되 육신이 약하도다 하시고",
+                "where": "마가복음 14장 38절"
+            },
+            "adult": {
+                "words": "네 씨로 말미암아 천하(天下) 만민(萬民)이 복(福)을 얻으리니 이는 네가 나의 말을 준행(遵行)하였음이니라",
+                "where": "창세기 22장 18절",
+                "answer": "로마서 1장 2절"
+            }
+        },
+        "back_hanja_list": [
+            "출애굽기 32장",
+            "祖上",
+            "異邦",
+            "子孫",
+            "世系",
+            "形像",
+            "公布",
+            "兩面",
+            "重罪",
+            "陣中 ",
+            "大怒 ",
+            "往來 ",
+            "當身",
+            "記憶 ",
+            "怨讐 ",
+            "使者 ",
+            "報應"
+        ]
     }
 ]
