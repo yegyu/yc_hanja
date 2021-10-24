@@ -509,5 +509,129 @@
             "使者 ",
             "報應"
         ]
+    },
+    {
+        "week": 5,
+        "main_words": "마태복음 1장 6-17절",
+        "voca_list": [
+            {
+                "hanja": "犯罪",
+                "mean": "죄를 저지름"
+            },
+            {
+                "hanja": "列王",
+                "mean": "왕들"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "犯",
+                "name": "범할 범",
+                "sub": "犭 [犬] (개사슴록변, 3획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72AF-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72AF-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72AF-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72AF-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72AF-05.svg"
+                ]
+            },
+            {
+                "hanja": "罪",
+                "name": "허물 죄",
+                "sub": "罒 [网,㓁,罓,𦉪,𦉫] (그물망머리, 5획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-13.svg"
+                ]
+            },
+            {
+                "hanja": "列",
+                "name": "벌일 열(렬)",
+                "sub": "刂 [刀,⺈] (선칼도방, 2획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F99C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F99C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F99C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F99C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F99C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F99C-06.svg"
+                ]
+            },
+            {
+                "hanja": "王",
+                "name": "임금 왕",
+                "sub": "𤣩 [玉] (구슬옥변, 4획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/738B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/738B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/738B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/738B-04.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "다윗 왕(王)의 부인(夫人)이 되어 솔로몬을 낳은 사람은 누구인가?",
+                "a": "우리야의 아내입니다."
+            },
+            {
+                "q": "아브라함부터 예수님까지는 몇 대(代)라고 하였는가?",
+                "a": "사십이대 입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "마리아가 요셉과 정혼하고 동거하기 전에 성령으로 잉태된 것이 나타났더니",
+                "where": "마태복음 1장 18절"
+            },
+            "child_afternoon": {
+                "words": "내가 너희에게 분부한 모든 것을 가르쳐 지키게 하라",
+                "where": "마태복음 28장 20절"
+            },
+            "youth_afternoon": {
+                "words": "시험에 들지 않게 깨어 있어 기도하라 마음에는 원이로되 육신이 약하도다 하시고",
+                "where": "마가복음 14장 38절"
+            },
+            "adult": {
+                "words": "네 씨로 말미암아 천하(天下) 만민(萬民)이 복(福)을 얻으리니 이는 네가 나의 말을 준행(遵行)하였음이니라",
+                "where": "창세기 22장 18절",
+                "answer": "창세기 22장 18절"
+            }
+        },
+        "back_hanja_list": [
+            "출애굽기 32장",
+            "祖上",
+            "異邦",
+            "子孫",
+            "世系",
+            "形像",
+            "公布",
+            "兩面",
+            "重罪",
+            "陣中 ",
+            "大怒 ",
+            "往來 ",
+            "當身",
+            "記憶 ",
+            "怨讐 ",
+            "使者 ",
+            "報應"
+        ]
     }
 ]
