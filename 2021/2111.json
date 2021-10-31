@@ -1,0 +1,139 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 1장 18-20절",
+        "voca_list": [
+            {
+                "hanja": "聖靈",
+                "mean": "하나님의 거룩한 영(삼위일체 하나님의 한 위격)"
+            },
+            {
+                "hanja": "孕胎",
+                "mean": "아이를 뱀"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "聖",
+                "name": "거룩할 성",
+                "sub": "耳 (귀이, 6획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-13.svg"
+                ]
+            },
+            {
+                "hanja": "靈",
+                "name": "신령 령(영)",
+                "sub": "雨 (비우, 8획)",
+                "count": "24획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-19.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-20.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-24.svg"
+                ]
+            },
+            {
+                "hanja": "孕",
+                "name": "아이 밸 잉",
+                "sub": "子 (아들자, 3획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B55-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B55-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B55-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B55-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B55-05.svg"
+                ]
+            },
+            {
+                "hanja": "胎",
+                "name": "아이 밸 태",
+                "sub": "⺼ [肉] (육달월, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/80CE-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/80CE-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/80CE-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/80CE-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/80CE-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/80CE-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/80CE-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/80CE-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/80CE-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "처녀(處女) 마리아가 잉태(孕胎)하게 된 것은 무엇으로 인한 것인가?",
+                "a": "성령으로 인한 것입니다."
+            },
+            {
+                "q": "남편(男便) 요셉은 어떻게 하려 하였는가?",
+                "a": "가만히 끊고자 하였습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "아들을 낳으리니 이름을 예수라 하라 이는 그가 자기 백성을 저희 죄에서 구원할 자이심이라",
+                "where": "마태복음 1장 21절"
+            },
+            "child_afternoon": {
+                "words": "하나님의 아들 예수 그리스도 복음의 시작이라",
+                "where": "마가복음 1장 1절"
+            },
+            "youth_afternoon": {
+                "words": "",
+                "where": ""
+            },
+            "adult": {
+                "words": "말씀이 육신(肉身)이 되어 우리 가운데 거(居)하시매 우리가 그 영광(榮光)을 보니 아버지의 독생자(獨生子)의 영광(榮光)이요 은혜(恩惠)와 진리(眞理)가 충만(充滿)하더라",
+                "where": "요한복음 1장 14절",
+                "answer": "요한계시록 22장 16절"
+            }
+        },
+        "back_hanja_list": [
+            "출애굽기 33장",
+            "聖靈",
+            "孕胎",
+            "犯罪",
+            "列王",
+
+            "免罪",
+            "刑罰",
+            "所爲",
+            "仁慈",
+
+            "言約",
+            "列邦",
+            "會衆",
+            "恩惠",
+
+            "豫備",
+            "慈悲",
+            "眞實",
+            "容恕"
+        ]
+    }
+]
