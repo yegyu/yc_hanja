@@ -311,15 +311,11 @@
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-01.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-02.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-03.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-04.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-05.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-06.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-07.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-08.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-09.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-10.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-11.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-12.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-13.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-14.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-15.svg",
@@ -328,7 +324,7 @@
             },
             {
                 "hanja": "牧",
-                "name": "칠 목/땅 이름 목",
+                "name": "칠 목",
                 "sub": "牜 [牛,⺧] (소우3, 4획)",
                 "count": "8획",
                 "draw_list": [
@@ -344,7 +340,7 @@
             },
             {
                 "hanja": "者",
-                "name": "놈 자",
+                "name": "사람 자",
                 "sub": "耂 [老] (늙을로엄, 4획)",
                 "count": "8획",
                 "draw_list": [
