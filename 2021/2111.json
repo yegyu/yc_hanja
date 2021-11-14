@@ -227,8 +227,8 @@
                 "a": "하나님이 우리와 함께 계십니다."
             },
             {
-                "q":"요셉의 잘한 점은 무엇인가?",
-                "a":"주의 사자의 말씀에 순종한 것입니다."
+                "q": "요셉의 잘한 점은 무엇인가?",
+                "a": "주의 사자의 말씀에 순종한 것입니다."
             }
         ],
         "yojeol": {
@@ -268,6 +268,147 @@
             "慈悲",
             "眞實",
             "용서"
+        ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 2장 1-6절",
+        "voca_list": [
+            {
+                "hanja": "記錄",
+                "mean": "사실을 적음"
+            },
+            {
+                "hanja": "牧者",
+                "mean": "양을 치는 사람"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "記",
+                "name": "기록할 기",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-10.svg"
+                ]
+            },
+            {
+                "hanja": "錄",
+                "name": "기록할 록(녹), 사실할 려(여)",
+                "sub": "金 [钅] (쇠금, 8획)",
+                "count": "16획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9300/9304-16.svg"
+                ]
+            },
+            {
+                "hanja": "牧",
+                "name": "칠 목/땅 이름 목",
+                "sub": "牜 [牛,⺧] (소우3, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-08.svg"
+                ]
+            },
+            {
+                "hanja": "者",
+                "name": "놈 자",
+                "sub": "耂 [老] (늙을로엄, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-08.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "동방박사(東方博士)들은 무엇을 따라왔는가?",
+                "a": "별을 따라 왔습니다."
+            },
+            {
+                "q": "예언(豫言)에 따라 예수님이 태어나신 곳은 어디인가?",
+                "a": "유대 베들레헴입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "엎드려 아기게 경배하고",
+                "where": "마태복음 2장 11절"
+            },
+            "child_afternoon": {
+                "words": "누구든지 성령을 훼방하는 자는 사하심을 영원히 얻지 못하고 영원한 죄에 처하느니라",
+                "where": "마가복음 3장 29절"
+            },
+            "youth_afternoon": {
+                "words": "믿고 세례를 받는 사람은 구원을 얻을 것이요 믿지 않는 사람은 정죄를 받으리라",
+                "where": "마가복음 16장 16절"
+            },
+            "adult": {
+                "words": "한 별이 야곱에게서 나오며 한 홀(笏)이 이스라엘에게서 일어나서 모압을 이 편(便)에서 저 편(便)까지 쳐서 파(破)하고 또 소동(騷動)하는 자식(子息)들을 다 멸(滅)하리로다",
+                "where": "민수기 24장17절",
+                "answer": "사도행전 4장 12절"
+            }
+        },
+        "back_hanja_list": [
+            "출애굽기 36장",
+            "記錄",
+            "牧者",
+            "百姓",
+            "救援",
+
+            "聖所",
+            "自願",
+            "各其",
+            "男女",
+
+            "北便",
+            "南便",
+            "靑色",
+            "紅色",
+
+            "聖幕",
+            "長短",
+            "仰帳",
+            "皀角木"
         ]
     }
 ]
