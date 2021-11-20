@@ -1,68 +1,135 @@
 [
     {
         "week": 1,
+        "main_words": "(test)마태복음 1장 21-25절",
+        "voca_list": [
+            {
+                "hanja": "秋收感謝",
+                "mean": "기독교(基督敎) 신도(信徒)들이 한 해에 한 번씩 가을 곡식(穀食)을 거둔 뒤에 하나님께 감사제(感謝祭)를 올리는 날. 미국(美國)에서는 11월 중(中)의 주일(主日)로 함. 추수(秋收) 감사일(感謝日)."
+            }
+        ],
         "front_hanja_list": [
             {
-                "hanja": "道",
-                "name": "하늘 천",
-                "count": 4,
-                "draw_list": [],
-                "sub_hanja": "大"
+                "hanja": "百",
+                "name": "일백 백",
+                "sub": "白 (흰백, 5획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-06.svg"
+                ]
             },
             {
-                "hanja": "地",
-                "name": "땅 지",
-                "count": 12,
-                "draw_list": [],
-                "sub_hanja": "土"
+                "hanja": "姓",
+                "name": "백성 성/성씨 성",
+                "sub": "女 (여자녀, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59D3-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59D3-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59D3-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59D3-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59D3-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59D3-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59D3-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59D3-08.svg"
+                ]
             },
             {
-                "hanja": "創",
-                "name": "비로소 창",
-                "count": 10,
-                "draw_list": [],
-                "sub_hanja": "川"
+                "hanja": "救",
+                "name": "건질 구",
+                "sub": "攵 [攴] (등글월문, 4획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-11.svg"
+                ]
             },
             {
-                "hanja": "造",
-                "name": "지을조",
-                "count": 14,
-                "draw_list": [],
-                "sub_hanja": "告"
+                "hanja": "援",
+                "name": "도울 원",
+                "sub": "扌 [手] (재방변, 3획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-12.svg"
+                ]
             }
         ],
         "questions": [
             {
-                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
-                "a": "하나님이십니다."
+                "q": "예수라는 이름은 무슨 뜻인가?",
+                "a": "자기 백성을 저희 죄에서 구원할 자이십니다."
             },
             {
-                "q": "누가 천지(天地)를 창조(創造)하셨는가?",
-                "a": "하나님이십니다."
+                "q": "임마누엘은 무슨 뜻인가?",
+                "a": "하나님이 우리와 함께 계십니다."
+            },
+            {
+                "q": "요셉의 잘한 점은 무엇인가?",
+                "a": "주의 사자의 말씀에 순종한 것입니다."
             }
         ],
         "yojeol": {
             "morning": {
-                "words": "태초에 하나님이 천지를 창조하시니라",
-                "where": "창세기1장1절"
+                "words": "또 유대 땅 베들레헴아 너는 유대 고을 중에 가장 작지 아니하도다",
+                "where": "마태복음 2장 6절"
             },
             "child_afternoon": {
-                "words": "영혼을 거스려 싸우는 육체의 정욕을 제어하라",
-                "where": "베드로전서2장11절"
+                "words": "하나님의 아들 예수 그리스도 복음의 시작이라",
+                "where": "마가복음 1장 1절"
             },
             "youth_afternoon": {
-                "words": "낮추는 자는 높아지리라",
-                "where": "마태복음23장12절"
+                "words": "이 사람은 진실로 하나님의 아들이었도다 하더라",
+                "where": "마가복음 15장 39절"
             },
             "adult": {
-                "words": "낮추는 자(者)는 높아지리라",
-                "where": "마태복음23장12절"
+                "words": "다른이로서는 구원(救援)을 얻을 수 없나니 천하(天下) 인간(人間)에 구원(救援)을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라 하였더라",
+                "where": "사도행전 4장 12절",
+                "answer": "요한복음 1장 14절"
             }
         },
         "back_hanja_list": [
-            "創造",
-            "戰爭",
-            "救援"
+            "출애굽기 34장",
+            "百姓",
+            "救援",
+            "聖靈",
+            "孕胎",
+            "면죄",
+            "刑罰",
+            "소위",
+            "仁慈",
+            "言約",
+            "列邦",
+            "會衆",
+            "恩惠",
+            "豫備",
+            "慈悲",
+            "眞實",
+            "용서"
         ]
     }
 ]
