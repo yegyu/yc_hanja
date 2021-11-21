@@ -390,17 +390,151 @@
             "牧者",
             "百姓",
             "救援",
-
             "聖所",
             "自願",
             "各其",
             "男女",
-
             "北便",
             "南便",
             "靑色",
             "紅色",
-
+            "聖幕",
+            "長短",
+            "仰帳",
+            "皀角木"
+        ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 2장 7-12절",
+        "voca_list": [
+            {
+                "hanja": "敬拜",
+                "mean": "공경히 절함 (예배)"
+            },
+            {
+                "hanja": "禮物",
+                "mean": "예를 갖춰 바치는 물건"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "敬",
+                "name": "공경 경",
+                "sub": "攵 [攴] (등글월문2, 4획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-12.svg"
+                ]
+            },
+            {
+                "hanja": "拜",
+                "name": "절 배",
+                "sub": "手 [扌] (손수, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-09.svg"
+                ]
+            },
+            {
+                "hanja": "禮",
+                "name": "예도 예(례)",
+                "sub": "示 [礻,𥘅] (보일시, 5획)",
+                "count": "18획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-18.svg"
+                ]
+            },
+            {
+                "hanja": "物",
+                "name": "물건 물",
+                "sub": "牜 [牛,⺧] (소우3, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-08.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "동방박사(東方博士)들은 무엇을 따라왔는가?",
+                "a": "별을 따라 왔습니다."
+            },
+            {
+                "q": "예언(豫言)에 따라 예수님이 태어나신 곳은 어디인가?",
+                "a": "유대 베들레헴입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "애굽으로 피하여 내가 네게 이르기까지 거기 있으라 하시니",
+                "where": "마태복음 2장 13절"
+            },
+            "child_afternoon": {
+                "words": "누구든지 성령을 훼방하는 자는 사하심을 영원히 얻지 못하고 영원한 죄에 처하느니라",
+                "where": "마가복음 3장 29절"
+            },
+            "youth_afternoon": {
+                "words": "믿고 세례를 받는 사람은 구원을 얻을 것이요 믿지 않는 사람은 정죄를 받으리라",
+                "where": "마가복음 16장 16절"
+            },
+            "adult": {
+                "words": "죽임을 당(當)하신 어린 양(羊)이 능력(能力)과 부(富)와 지혜(智慧)와 힘과 존귀(尊貴)와 영광(榮光)과 찬송(讚頌)을 받으시기에 합당(合當)하도다",
+                "where": "요한계시록 5장12절",
+                "answer": "민수기 24장17절"
+            }
+        },
+        "back_hanja_list": [
+            "출애굽기 36장",
+            "敬拜",
+            "禮物",
+            "記錄",
+            "牧者",
+            "聖所",
+            "自願",
+            "各其",
+            "남여",
+            "북편",
+            "南便",
+            "청색",
+            "紅色",
             "聖幕",
             "長短",
             "仰帳",
