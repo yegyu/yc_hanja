@@ -1,0 +1,134 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 2장 13-18절",
+        "voca_list": [
+            {
+                "hanja": "現夢",
+                "mean": "꿈에 나타남"
+            },
+            {
+                "hanja": "母親",
+                "mean": "어머니"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "現",
+                "name": "나타날 현",
+                "sub": "𤣩 [玉] (구슬옥변, 4획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73FE-11.svg"
+                ]
+            },
+            {
+                "hanja": "夢",
+                "name": "꿈 몽",
+                "sub": "夕 (저녁석, 3획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5922-13.svg"
+                ]
+            },
+            {
+                "hanja": "母",
+                "name": "어머니 모",
+                "sub": "母 [毋] (말무2, 5획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCD-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCD-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCD-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCD-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCD-05.svg"
+                ]
+            },
+            {
+                "hanja": "親",
+                "name": "친할 친",
+                "sub": "見 [见] (볼견, 7획)",
+                "count": "16획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8900/89AA-16.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "꿈을 꾼 후(後) 요셉은 아기 예수를 데리고 어디로 피신(避身)하였는가?",
+                "a": "애굽입니다."
+            },
+            {
+                "q": "동방박사(東方博士)들이 돌아간 후(後) 속은 헤롯왕(王)이 취(取)한 조치(措置)는 무엇인가?",
+                "a": "두 살 이하의 남자아이들을 다 죽였습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "일어나 아기와 그 모친을 데리고 이스라엘 땅으로 가라",
+                "where": "마태복음 2장 20절"
+            },
+            "child_afternoon": {
+                "words": "미정",
+                "where": "마가복음 3장 29절"
+            },
+            "youth_afternoon": {
+                "words": "대저 하나님의 모든 말씀은 능치못하심이 없느니라",
+                "where": "누가복음 1장 37절"
+            },
+            "adult": {
+                "words": "사람이 감당(堪當)할 시험(試驗) 밖에는 너희에게 당(當)한 것이 없나니 오직 하나님은 미쁘사 너희가 감당(堪當)치 못할 시험(試驗) 당(當)함을 허락(許諾)지 아니하시고 시험(試驗) 당(當)할 즈음에 또한 피(避)할 길을 내사 너희로 능(能)히 감당(堪當)하게 하시느니라",
+                "where": "고린도전서 10장13절",
+                "answer": "요한계시록 5장12절"
+            }
+        },
+        "back_hanja_list": [
+            "출애굽기 36장",
+            "現夢",
+            "母親",
+            "敬拜",
+            "禮物",
+            "牲畜",
+            "欠",
+            "羊",
+            "壇",
+            "燔祭",
+            "火祭",
+            "四面",
+            "香氣"
+        ]
+    }
+]
