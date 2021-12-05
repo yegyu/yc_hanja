@@ -121,17 +121,134 @@
             "母親",
             "敬拜",
             "禮物",
-            
             "牲畜",
             "祭司",
             "四面",
             "香氣",
-
             "言約",
             "至極",
             "記念",
             "全部",
-
+            "燔祭",
+            "火祭",
+            "素祭",
+            "乳香"
+        ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 2장 19-23절",
+        "voca_list": [
+            {
+                "hanja": "指示",
+                "mean": "가리켜 보임, 일러서 시킴"
+            },
+            {
+                "hanja": "地方",
+                "mean": "어느 방면의 땅"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "指",
+                "name": "가리킬 지",
+                "sub": "扌 [手] (재방변, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/6307-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/6307-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/6307-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/6307-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/6307-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/6307-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/6307-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/6307-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/6307-09.svg"
+                ]
+            },
+            {
+                "hanja": "示",
+                "name": "보일 시",
+                "sub": "示 [礻,𥘅] (보일시, 5획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/793A-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/793A-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/793A-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/793A-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/793A-05.svg"
+                ]
+            },
+            {
+                "hanja": "地",
+                "name": "땅 지",
+                "sub": "土 (흙토, 3획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/5730-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/5730-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/5730-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/5730-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/5730-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/5730-06.svg"
+                ]
+            },
+            {
+                "hanja": "方",
+                "name": "모 방/곳 방",
+                "sub": "方 (모방, 4획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B9-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B9-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B9-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B9-04.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "아기 예수의 이동(移動)은 무엇을 통(通)해 이루어졌는가?",
+                "a": "꿈의 계시입니다."
+            },
+            {
+                "q": "예수님은 어디로 가서 사셨는가?",
+                "a": "갈릴리 나사렛입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "회개하라 천국이 가까왔느니라 하였으니",
+                "where": "마태복음 3장 2절"
+            },
+            "child_afternoon": {
+                "words": "이는 내가 그의 옷에만 손을 대어도 구원을 얻으리라 함일러라",
+                "where": "마가복음 5장 28절"
+            },
+            "youth_afternoon": {
+                "words": "대저 하나님의 모든 말씀은 능치못하심이 없느니라",
+                "where": "누가복음 1장 37절"
+            },
+            "adult": {
+                "words": "이러므로 하나님이 그를 지극(至極)히 높여 모든 이름 위에 뛰어난 이름을 주사",
+                "where": "빌립보서 2장 9절",
+                "answer": "고린도전서 10장 13절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 1-2장",
+            "指示",
+            "地方",
+            "現夢",
+            "母親",
+            "牲畜",
+            "祭司",
+            "四面",
+            "香氣",
+            "言約",
+            "至極",
+            "記念",
+            "全部",
             "燔祭",
             "火祭",
             "素祭",
