@@ -254,5 +254,149 @@
             "素祭",
             "乳香"
         ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 3장 1-4절",
+        "voca_list": [
+            {
+                "hanja": "聖誕",
+                "mean": "예수님의 탄생을 기념하는 날"
+            },
+            {
+                "hanja": "讚頌",
+                "mean": "하나님께 영광을 돌리기 위해 부르느 거룩한 노래"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "聖",
+                "name": "거룩할 성",
+                "sub": "耳 (귀이, 6획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-13.svg"
+                ]
+            },
+            {
+                "hanja": "誕",
+                "name": "낳을 탄/거짓 탄",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-14.svg"
+                ]
+            },
+            {
+                "hanja": "讚",
+                "name": "기릴 찬",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "26획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-20.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-21.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-24.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-25.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-26.svg"
+                ]
+            },
+            {
+                "hanja": "頌",
+                "name": "칭송할 송/기릴 송, 얼굴 용",
+                "sub": "頁 [页] (머리혈, 9획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-13.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "세례(洗禮)요한이 활동(活動)한 곳은 어디인가?",
+                "a": "유대 광야와 요단강입니다."
+            },
+            {
+                "q": "세례(洗禮)요한은 무엇이라고 외쳤는가?",
+                "a": "회개하라 천국이 가까왔다고 했습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "그러므로 회개에 합당한 열매를 맺고",
+                "where": "마태복음 3장 8절"
+            },
+            "child_afternoon": {
+                "words": "아무든지 나를 따라 오려거든 자기를 부인하고 자기 십자가를 지고 나를 좇을 것이니라",
+                "where": "마가복음 8장 34절"
+            },
+            "youth_afternoon": {
+                "words": "지극히 높은 곳에서는 하나님께 영광이요 땅에서는 기뻐하심을 입은 사람들 중에 평화로다 하니라",
+                "where": "누가복음 2장 14절"
+            },
+            "adult": {
+                "words": "보라 여호와의 크고 두려운 날이 이르기 전(前)에 내가 선지(先知) 엘리야를 너희에게 보내리니",
+                "where": "말라기 4장 5절",
+                "answer": "빌립보서 2장 9절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 5장",
+            "聖誕",
+            "讚頌",
+            "指示",
+            "地方",
+            "相當",
+            "證人",
+            "不淨",
+            "死體",
+            "聖所",
+            "家畜",
+            "指定",
+            "不知中",
+            "昆蟲",
+            "價値",
+            "犯過",
+            "祭物"
+        ]
     }
 ]
