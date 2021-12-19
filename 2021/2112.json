@@ -398,5 +398,143 @@
             "犯過",
             "祭物"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 3장 5-10절",
+        "voca_list": [
+            {
+                "hanja": "悔改",
+                "mean": "잘못을 뉘우치고 고침(죄를 향한 것에서 하나님께로 돌이킴)"
+            },
+            {
+                "hanja": "洗禮",
+                "mean": "물로 씻음을 받는 성결의식(하나님을 믿음으로 하나님을 나의 주인으로 섬기겠다는 표)"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "悔",
+                "name": "뉘우칠 회",
+                "sub": "忄 [心,㣺] (심방변, 3획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6094-10.svg"
+                ]
+            },
+            {
+                "hanja": "改",
+                "name": "고칠 개",
+                "sub": "攵 [攴] (등글월문2, 4획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6539-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6539-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6539-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6539-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6539-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6539-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6539-07.svg"
+                ]
+            },
+            {
+                "hanja": "洗",
+                "name": "씻을 세, 깨끗할 선",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D17-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D17-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D17-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D17-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D17-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D17-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D17-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D17-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D17-09.svg"
+                ]
+            },
+            {
+                "hanja": "禮",
+                "name": "예도 예(례)",
+                "sub": "示 [礻,𥘅] (보일시, 5획)",
+                "count": "18획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F9B6-18.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "많은 유대 백성(百姓)이 세례(洗禮) 요한에게 나아와 죄(罪)를 자복(自服) 하고 무슨 세례(洗禮)를 받았는가?",
+                "a": "물 세례입니다."
+            },
+            {
+                "q": "바리새인(人)과 사두개인(人)들은 회개(悔改) 하고 세례(洗禮)를 받았습니까?",
+                "a": "아닙니다."
+            },
+            {
+                "q": "세례(洗禮) 요한은 그들에게 무엇이라 했습니까?",
+                "a": "독사의 자식들이라 했습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "그는 성령과 불로 너희에게 세례를 주실 것이요",
+                "where": "마태복음 3장 11절"
+            },
+            "child_afternoon": {
+                "words": "아무든지 나를 따라 오려거든 자기를 부인하고 자기 십자가를 지고 나를 좇을 것이니라",
+                "where": "마가복음 8장 34절"
+            },
+            "youth_afternoon": {
+                "words": "지극히 높은 곳에서는 하나님께 영광이요 땅에서는 기뻐하심을 입은 사람들 중에 평화로다 하니라",
+                "where": "누가복음 2장 14절"
+            },
+            "adult": {
+                "words": "세례(洗禮) 요한이 이르러 광야(曠野)에서 죄(罪) 사(赦)함을 받게 하는 회개(悔改)의 세례(洗禮)를 전파(傳播)하니",
+                "where": "마가복음 1장 4절",
+                "answer": "말라기 4장 5절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 5장",
+            "悔改",
+            "洗禮",
+            "聖誕",
+            "讚頌",
+            "상당",
+            "證人",
+            "不淨",
+            "死體",
+            "聖所",
+            "家畜",
+            "指定",
+            "부지중",
+            "昆蟲",
+            "價値",
+            "犯過",
+            "祭物"
+        ]
     }
 ]
