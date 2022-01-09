@@ -213,7 +213,6 @@
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/F900/F95D-15.svg"
                 ]
             }
-            
         ],
         "questions": [
             {
@@ -262,6 +261,124 @@
             "禮物",
             "典當",
             "折半"
+        ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 3장 16-17절",
+        "voca_list": [
+            {
+                "hanja": "榮光",
+                "mean": "빛나는 영예"
+            },
+            {
+                "hanja": "臨",
+                "mean": "임하다"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "榮",
+                "name": "영화 영/꽃 영",
+                "sub": "木 (나무목, 4획)",
+                "count": "14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/69AE-14.svg"
+                ]
+            },
+            {
+                "hanja": "光",
+                "name": "빛 광",
+                "sub": "儿 (어진사람인발, 2획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5149-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5149-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5149-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5149-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5149-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5149-06.svg"
+                ]
+            },
+            {
+                "hanja": "臨",
+                "name": "임할 림(임)",
+                "sub": "臣 (신하신, 6획)",
+                "count": "17획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81E8-17.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님이 세례(洗禮) 받고 나올 때 어떤 현상(現象)이 있었습니까?",
+                "a": "성령과 하나님 말씀이 임하였습니다."
+            },
+            {
+                "q": "예수님이 세례(洗禮)를 받은 후(後) 나타나신 분들은 누구입니까?",
+                "a": "삼위일체 하나님이십니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "사람이 떡으로만 살것이 아니요 하나님의 입으로 나오는 모든 말씀으로 살 것이라",
+                "where": "마태복음 4장 4절"
+            },
+            "child_afternoon": {
+                "words": "먼저 된 자로서 나중 되고 나중 된 자로서 먼저 될 자가 많으니라",
+                "where": "마가복음 10장 31절"
+            },
+            "youth_afternoon": {
+                "words": "사람이 떡으로만 살 것이 아니라 하였느니라",
+                "where": "누가복음 4장 4절"
+            },
+            "adult": {
+                "words": "나를 보내어 물로 세례(洗禮)를 주라 하신 그이가 나에게 말씀하시되 성령(聖靈)이 내려서 누구 위에든지 머무는 것을 보거든 그가 곧 성령(聖靈)으로 세례(洗禮)를 주는 이인줄 알라",
+                "where": "요한복음 1장 33절",
+                "answer": "마태복음 3장 15절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 6장",
+            "榮光",
+            "臨",
+            "義",
+            "許諾",
+
+            "衣服",
+            "死亡",
+            "命令",
+            "按手",
+            "羊",
+            "右便",
+            "祭祀",
+            "晝夜",
+            "壇",
+            "周圍",
+            "會幕",
+            "付託"
         ]
     }
 ]
