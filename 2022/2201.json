@@ -366,12 +366,154 @@
             "臨",
             "義",
             "許諾",
-
             "衣服",
             "死亡",
             "命令",
             "按手",
             "羊",
+            "右便",
+            "祭祀",
+            "晝夜",
+            "壇",
+            "周圍",
+            "會幕",
+            "付託"
+        ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 4장 1-4절",
+        "voca_list": [
+            {
+                "hanja": "試驗",
+                "mean": "실력 따위를 검사하고 평가하는 일(연단을 위한 시련 또는 욕심에 의한 유혹)"
+            },
+            {
+                "hanja": "禁食",
+                "mean": "음식을 먹지 않음"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "試",
+                "name": "시험 시",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-13.svg"
+                ]
+            },
+            {
+                "hanja": "驗",
+                "name": "시험 험",
+                "sub": "馬 [马] (말마, 10획)",
+                "count": "23획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-17.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-20.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-23.svg"
+                ]
+            },
+            {
+                "hanja": "禁",
+                "name": "금할 금",
+                "sub": "示 [礻,𥘅] (보일시, 5획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-13.svg"
+                ]
+            },
+            {
+                "hanja": "食",
+                "name": "밥 식/먹을 식",
+                "sub": "食 [飠,饣,𩙿] (밥식, 9획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님은 성령(聖靈)에 이끌리어 시험(試驗) 받으러 어디로 가셨는가?",
+                "a": "광야로 가셨습니다."
+            },
+            {
+                "q": "사십일(四十日) 금식(禁食)하신 예수님께 마귀(魔鬼)는 무엇으로 유혹(誘惑)하였는가?",
+                "a": "돌들이 떡덩이가 되게 하라고 하였습니다."
+            },
+            {
+                "q": "이에 대한 예수님의 답변(答辯)은 무엇이었습니까?",
+                "a": "사람이 떡으로만 살것이 아니요 하나님의 입으로 나오는 모든 말씀으로 살 것이라"
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "주 너의 하나님을 시험치 말라 하였느니라",
+                "where": "마태복음 4장 7절"
+            },
+            "child_afternoon": {
+                "words": "먼저 된 자로서 나중 되고 나중 된 자로서 먼저 될 자가 많으니라",
+                "where": "마가복음 10장 31절"
+            },
+            "youth_afternoon": {
+                "words": "사람이 떡으로만 살 것이 아니라 하였느니라",
+                "where": "누가복음 4장 4절"
+            },
+            "adult": {
+                "words": "너희는 먼저 그의 나라와 그의 의(義)를 구(求)하라 그리하면 이 모든 것을 너희에게 더하시리라",
+                "where": "마태복음 6장 33절",
+                "answer": "요한복음 1장 33절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 8장",
+            "試驗",
+            "禁食",
+            "榮光",
+            "臨",
+            "衣服",
+            "사망",
+            "命令",
+            "按手",
+            "양",
             "右便",
             "祭祀",
             "晝夜",
