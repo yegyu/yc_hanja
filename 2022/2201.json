@@ -522,5 +522,142 @@
             "會幕",
             "付託"
         ]
+    },
+    {
+        "week": 5,
+        "main_words": "마태복음 4장 5-7절",
+        "voca_list": [
+            {
+                "hanja": "聖殿:",
+                "mean": "거룩한 곳"
+            },
+            {
+                "hanja": "使者",
+                "mean": "심부름하는사람(존재)"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "聖",
+                "name": "거룩할 성",
+                "sub": "耳 (귀이, 6획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-13.svg"
+                ]
+            },
+            {
+                "hanja": "殿",
+                "name": "전각 전",
+                "sub": "殳 (갖은등글월문, 4획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBF-13.svg"
+                ]
+            },
+            {
+                "hanja": "使",
+                "name": "부릴 사",
+                "sub": "亻 [人] (사람인변, 2획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4F00/4F7F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4F00/4F7F-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4F00/4F7F-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4F00/4F7F-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4F00/4F7F-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4F00/4F7F-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4F00/4F7F-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4F00/4F7F-08.svg"
+                ]
+            },
+            {
+                "hanja": "者",
+                "name": "사람 자",
+                "sub": "耂 [老] (늙을로엄, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "둘째 시험(試驗)은 무엇인가?",
+                "a": "성전 꼭대기에서 뛰어 내리는 것입니다."
+            },
+            {
+                "q": "하나님을 시험(試驗)하면 되는가?",
+                "a": "안됩니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "주 너의 하나님께 경배하고 다만 그를 섬기라 하였느니라",
+                "where": "마태복음 4장 10절"
+            },
+            "child_afternoon": {
+                "words": "먼저 된 자로서 나중 되고 나중 된 자로서 먼저 될 자가 많으니라",
+                "where": "마가복음 10장 31절"
+            },
+            "youth_afternoon": {
+                "words": "사람이 떡으로만 살 것이 아니라 하였느니라",
+                "where": "누가복음 4장 4절"
+            },
+            "adult": {
+                "words": "여호와여 내 마음이 교만(驕慢)치 아니하고 내 눈이 높지 아니하오며 내가 큰 일과 미치지 못할 기이(奇異)한 일을 힘쓰지 아니하나이다",
+                "where": "시편 131편 1절",
+                "answer": "마태복음 6장 33절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 11-12장",
+            "使者",
+            "聖殿",
+            "試驗",
+            "禁食",
+            "可憎",
+            "不淨",
+            "水中",
+            "陸地",
+            "生物",
+            "物件",
+            "生産",
+            "祭物",
+            "種類",
+            "沙漠",
+            "期限",
+            "贖罪"
+        ]
     }
 ]
