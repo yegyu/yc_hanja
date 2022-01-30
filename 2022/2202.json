@@ -1,0 +1,145 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 4장 8-11절",
+        "voca_list": [
+            {
+                "hanja": "敬拜",
+                "mean": "공경히 절함"
+            },
+            {
+                "hanja": "隨從",
+                "mean": "어떤 대상을 곁에서 섬기는 일"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "敬",
+                "name": "공경 경",
+                "sub": "攵 [攴] (등글월문2, 4획)",
+                "count": "12,13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/656C-12.svg"
+                ]
+            },
+            {
+                "hanja": "拜",
+                "name": "절 배",
+                "sub": "手 [扌] (손수, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/62DC-09.svg"
+                ]
+            },
+            {
+                "hanja": "隨",
+                "name": "따를 수",
+                "sub": "阝 [阜,𨸏] (좌부변, 3획)",
+                "count": "16획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96A8-16.svg"
+                ]
+            },
+            {
+                "hanja": "從",
+                "name": "좇을 종",
+                "sub": "彳 (두인변, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-11.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "마귀(魔鬼)는 천하(天下) 만국(萬國)을 어떻게하면 다 준다고 하였는가?",
+                "a": "마귀에게 경배하면 준다고 하였습니다."
+            },
+            {
+                "q": "예수님은 무슨 말씀으로 이것을 물리치셨는가?",
+                "a": "주 너의 하나님께 경배하고 다만 그를 섬기라 하였습니다."
+            },{
+                "q":"예수님은 세 가지 시험(試驗)을 무엇으로 물리치셨습니까?",
+                "a":"진리의 말씀입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "회개하라 천국이 가까왔느니라 하시더라",
+                "where": "마태복음 4장 17절"
+            },
+            "child_afternoon": {
+                "words": "나중에",
+                "where": "마가복음 10장 31절"
+            },
+            "youth_afternoon": {
+                "words": "말씀에 의지하여 내가 그물을 내리리이다",
+                "where": "누가복음 5장 5절"
+            },
+            "adult": {
+                "words": "여호와여 광대(廣大)하심과 권능(權能)과 영광(榮光)과 이김과 위엄(威嚴)이 다 주(主)께 속(屬)하였사오니 천지(天地)에 있는 것이 다 주(主)의 것이로소이다",
+                "where": "역대상 29장 11절",
+                "answer": "시편 131편 1절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 11-12장",
+            "敬拜",
+            "隨從",
+            "使者",
+            "聖殿",
+            "可憎",
+            "不淨",
+            "수중",
+            "陸地",
+            "생물",
+            "物件",
+            "生産",
+            "祭物",
+            "種類",
+            "沙漠",
+            "期限",
+            "贖罪"
+        ]
+    }
+]
