@@ -98,9 +98,10 @@
             {
                 "q": "예수님은 무슨 말씀으로 이것을 물리치셨는가?",
                 "a": "주 너의 하나님께 경배하고 다만 그를 섬기라 하였습니다."
-            },{
-                "q":"예수님은 세 가지 시험(試驗)을 무엇으로 물리치셨습니까?",
-                "a":"진리의 말씀입니다."
+            },
+            {
+                "q": "예수님은 세 가지 시험(試驗)을 무엇으로 물리치셨습니까?",
+                "a": "진리의 말씀입니다."
             }
         ],
         "yojeol": {
@@ -140,6 +141,150 @@
             "沙漠",
             "期限",
             "贖罪"
+        ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 4장 12-17절",
+        "voca_list": [
+            {
+                "hanja": "黑暗",
+                "mean": "매우 어두움"
+            },
+            {
+                "hanja": "傳播",
+                "mean": "전하여 널리 퍼뜨림"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "黑",
+                "name": "검을 흑",
+                "sub": "黑 (검을흑, 12획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9ED1-12.svg"
+                ]
+            },
+            {
+                "hanja": "暗",
+                "name": "어두울 암",
+                "sub": "日 [⺜] (날일, 4획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6697-13.svg"
+                ]
+            },
+            {
+                "hanja": "傳",
+                "name": "전할 전",
+                "sub": "亻 [人] (사람인변, 2획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5000/50B3-13.svg"
+                ]
+            },
+            {
+                "hanja": "播",
+                "name": "뿌릴 파",
+                "sub": "扌 [手] (재방변, 3획)",
+                "count": "15획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6400/64AD-15.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님께서는 갈릴리 나사렛에서 이디로 옮기셨는가? ",
+                "a": "가버나움입니다."
+            },
+            {
+                "q": "예수님께서 이때부터 전파(傳播)하신 말씀은 무엇인가?",
+                "a": "회개하라 천국이 가까왔다고 하셨습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "나를 따라 오너라 내가 너희로 사람을 낚는 어부가 되게 하리라",
+                "where": "마태복음 4장 19절"
+            },
+            "child_afternoon": {
+                "words": "주의하라 깨어 있으라 그 때가 언제인지 알지 못함이니라",
+                "where": "마가복음 13장 33절"
+            },
+            "youth_afternoon": {
+                "words": "말씀에 의지하여 내가 그물을 내리리이다",
+                "where": "누가복음 5장 5절"
+            },
+            "adult": {
+                "words": "내가 의인(義人)을 부르러 온 것이 아니요 죄인(罪人)을 불러 회개(悔改)시키러 왔노라",
+                "where": "누가복음 5장 32절",
+                "answer": "역대상 29장 11절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 11-12장",
+            "黑暗",
+            "傳播",
+            "敬拜",
+            "隨從",
+            "左便",
+            "右便",
+            "材木",
+            "不足",
+            "欠",
+            "病",
+            "色點",
+            "衣服",
+            "患者",
+            "患處",
+            "如前",
+            "果然"
         ]
     }
 ]
