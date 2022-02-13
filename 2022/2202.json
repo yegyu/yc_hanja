@@ -286,5 +286,129 @@
             "如前",
             "果然"
         ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 4장 18-22절",
+        "voca_list": [
+            {
+                "hanja": "兄弟",
+                "mean": "형과 동생"
+            },
+            {
+                "hanja": "漁夫",
+                "mean": "고기잡는 일을 하는 사람"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "兄",
+                "name": "형 형",
+                "sub": "儿 (어진사람인발, 2획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5144-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5144-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5144-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5144-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5144-05.svg"
+                ]
+            },
+            {
+                "hanja": "弟",
+                "name": "아우 제",
+                "sub": "弓 (활궁, 3획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F1F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F1F-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F1F-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F1F-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F1F-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F1F-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F1F-07.svg"
+                ]
+            },
+            {
+                "hanja": "漁",
+                "name": "고기 잡을 어",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F01-14.svg"
+                ]
+            },
+            {
+                "hanja": "夫",
+                "name": "지아비 부",
+                "sub": "大 (큰대, 3획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/592B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/592B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/592B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/592B-04.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님은 갈릴리 해변(海邊)에서 누구를 제자(弟子)로 부르셨는가?",
+                "a": "베드로, 안드레, 요한, 야고보입니다."
+            },
+            {
+                "q": "예수님은 무슨 말씀으로 부르셨는가?",
+                "a": "나를 따라오너라 내가 너희로 사람을 낚는 어부가 되게 하리라"
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "천국 복음을 전파하시며 백성 중에 모든 병과 모든 약한 것을 고치시니",
+                "where": "마태복음 4장 23절"
+            },
+            "child_afternoon": {
+                "words": "너희는 온 천하에 다니며 만민에게 복음을 전파하라",
+                "where": "마가복음 16장 15절"
+            },
+            "youth_afternoon": {
+                "words": "내 말을 듣고 행하는 자마다 누구와 같은 것을 너희에게 보이리라 ◎ 집을 짓되 깊이 파고 주초를 반석 위에 놓은 사람과 같으니",
+                "where": "누가복음 6장 47,48절"
+            },
+            "adult": {
+                "words": "내 이름을 위(爲)하여 집이나 형제(兄弟)나 자매(姉妹)나 부모(父母)나 자식(子息)이나 전토(田土)를 버린 자(者)마다 여러 배를 받고 또 영생(永生)을 상속(相續)하리라",
+                "where": "마태복음 19장 29절",
+                "answer": "누가복음 5장 32절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 13-14장",
+            "兄弟", 
+            "漁夫",
+            "黑暗",
+            "傳播",
+            "左便",
+            "우편",
+            "材木",
+            "부족",
+            "欠",
+            "病",
+            "色點",
+            "衣服",
+            "患者",
+            "患處",
+            "如前",
+            "果然"
+        ]
     }
 ]
