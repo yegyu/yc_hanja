@@ -393,7 +393,7 @@
         },
         "back_hanja_list": [
             "레위기 13-14장",
-            "兄弟", 
+            "兄弟",
             "漁夫",
             "黑暗",
             "傳播",
@@ -409,6 +409,142 @@
             "患處",
             "如前",
             "果然"
+        ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 4장 23-25절",
+        "voca_list": [
+            {
+                "hanja": "會堂",
+                "mean": "유대인들이 구약성경을 가르치고 배우기 위해 모이는 장소"
+            },
+            {
+                "hanja": "福音",
+                "mean": "복된 소식 (예수님의 죄인을 구원해주시고 부활하심으로 죄인이 영생을 얻는다는 소식)"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "會",
+                "name": "모일 회",
+                "sub": "曰 (가로왈, 4획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/6703-13.svg"
+                ]
+            },
+            {
+                "hanja": "堂",
+                "name": "집 당",
+                "sub": "土 (흙토, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5800/5802-11.svg"
+                ]
+            },
+            {
+                "hanja": "福",
+                "name": "복 복",
+                "sub": "示 [礻,𥘅] (보일시, 5획)",
+                "count": "13,14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-14.svg"
+                ]
+            },
+            {
+                "hanja": "音",
+                "name": "소리 음",
+                "sub": "音 (소리음, 9획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/97F3-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/97F3-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/97F3-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/97F3-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/97F3-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/97F3-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/97F3-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/97F3-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/97F3-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님이 갈릴리에서 하신 세 가지 일은 무엇인가?",
+                "a": "회당에서 가르치시고, 천국복음을 전파하시고, 병자들을 고치셨습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "심령이 가난한 자는 복이 있나니 천국이 저희 것임이요",
+                "where": "마태복음 5장 3절"
+            },
+            "child_afternoon": {
+                "words": "너희는 온 천하에 다니며 만민에게 복음을 전파하라",
+                "where": "마가복음 16장 15절"
+            },
+            "youth_afternoon": {
+                "words": "내 말을 듣고 행하는 자마다 ... ◎ 집을 짓되 깊이 파고 주초를 반석 위에 놓은 사람과 같으니",
+                "where": "누가복음 6장 47,48절"
+            },
+            "adult": {
+                "words": "예수께서 저희의 믿음을 보시고 중풍병자(中風病者)에게 이르시되 소자(小子)야 네 죄(罪) 사(赦)함을 받았느니라 하시니",
+                "where": "마가복음 2장 5절",
+                "answer": "마태복음 19장 29절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 15-16장",
+            "會堂",
+            "福音",
+            "兄弟",
+            "漁夫",
+            "告",
+            "因",
+            "取",
+            "免",
+            "無時",
+            "死亡",
+            "祭司長",
+            "男女",
+            "同寢",
+            "泄精",
+            "流出",
+            "不淨"
         ]
     }
 ]
