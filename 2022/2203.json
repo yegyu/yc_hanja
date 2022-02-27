@@ -1,0 +1,129 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 5장 1-3절",
+        "voca_list": [
+            {
+                "hanja": "心靈",
+                "mean": "마음, 영혼"
+            },
+            {
+                "hanja": "天國",
+                "mean": "하늘 나라"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "心",
+                "name": "마음 심",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FC3-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FC3-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FC3-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FC3-04.svg"
+                ]
+            },
+            {
+                "hanja": "靈",
+                "name": "신령 령(영)",
+                "sub": "雨 (비우, 8획)",
+                "count": "24획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-19.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-20.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9700/9748-24.svg"
+                ]
+            },
+            {
+                "hanja": "天",
+                "name": "하늘 천",
+                "sub": "大 (큰대, 3획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5929-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5929-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5929-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5929-04.svg"
+                ]
+            },
+            {
+                "hanja": "國",
+                "name": "나라 국",
+                "sub": "囗 (큰입구몸, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5700/570B-11.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님이 산(山) 위에서 몇 가지 복(福)에 대해서 말씀하셨는가?",
+                "a": "팔복입니다."
+            },
+            {
+                "q": "첫 번째 복(福)에 대해 무엇이라고 하셨습니까?",
+                "a": "'심령이 가난한 자는 복이 있나니 천국이 저희 것임이요' 하셨습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "온유한 자는 복이 있나니 저희가 땅을 기업으로 받을 것임이요",
+                "where": "마태복음 5장 5절"
+            },
+            "child_afternoon": {
+                "words": "대저 하나님의 모든 말씀은 능치 못하심이 없느니라",
+                "where": "누가복음 1장 37절"
+            },
+            "youth_afternoon": {
+                "words": "",
+                "where": "누가복음 6장 47,48절"
+            },
+            "adult": {
+                "words": "하나님이여 사슴이 시냇물을 찾기에 갈급(渴急)함 같이 내 영혼(靈魂)이 주(主)를 찾기에 갈급(渴急)하니이다",
+                "where": "시편 42편 1절",
+                "answer": "마가복음 2장 5절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 15-16장",
+            "心靈",
+            "天國",
+            "會堂",
+            "복음",
+            "告",
+            "因",
+            "取",
+            "免",
+            "無時",
+            "死亡",
+            "祭司",
+            "남여",
+            "同寢",
+            "泄精",
+            "流出",
+            "不淨"
+        ]
+    }
+]
