@@ -125,5 +125,143 @@
             "流出",
             "不淨"
         ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 5장 4-5절",
+        "voca_list": [
+            {
+                "hanja": "哀痛",
+                "mean": "슬프고 아픔"
+            },
+            {
+                "hanja": "溫柔",
+                "mean": "따뜻하고 부드러움"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "哀",
+                "name": "슬플 애",
+                "sub": "口 (입구, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/54C0-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/54C0-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/54C0-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/54C0-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/54C0-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/54C0-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/54C0-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/54C0-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/54C0-09.svg"
+                ]
+            },
+            {
+                "hanja": "痛",
+                "name": "아플 통",
+                "sub": "疒 (병질엄, 5획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75DB-12.svg"
+                ]
+            },
+            {
+                "hanja": "溫",
+                "name": "따뜻할 온",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EAB-13.svg"
+                ]
+            },
+            {
+                "hanja": "柔",
+                "name": "부드러울 유",
+                "sub": "木 (나무목, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/67D4-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/67D4-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/67D4-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/67D4-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/67D4-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/67D4-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/67D4-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/67D4-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/67D4-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님이 산(山) 위에서 몇 가지 복(福)에 대해서 말씀하셨는가?",
+                "a": "하나님의 위로를 받습니다."
+            },
+            {
+                "q": "하나님 앞에 온유(溫柔)한 사람은 어떤 복(福)을 받는가?",
+                "a": "땅을 기업으로 받습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "의에 주리고 목마른 자는 복이 있나니 저희가 배부를 것임이요",
+                "where": "마태복음 5장 6절"
+            },
+            "child_afternoon": {
+                "words": "대저 하나님의 모든 말씀은 능치 못하심이 없느니라",
+                "where": "누가복음 1장 37절"
+            },
+            "youth_afternoon": {
+                "words": "누구든지 나를 인하여 실족하지 아니하는 자는 복이 있도다 하시니라",
+                "where": "누가복음 7장 23절"
+            },
+            "adult": {
+                "words": "하나님의 구(求)하시는 제사(祭祀)는 상(傷)한 심령(心靈)이라 하나님이여 상(傷)하고 통회(痛悔)하는 마음을 주(主)께서 멸시(蔑視)치 아니하시리이다",
+                "where": "시편 51편 17절",
+                "answer": "시편 42편 1절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 18장",
+            "哀痛",
+            "溫柔",
+            "心靈",
+            "天國",
+            "前",
+            "犯",
+            "惡",
+            "行",
+            "他人",
+            "下體",
+            "出生",
+            "女人",
+            "風俗",
+            "規例",
+            "生存",
+            "孫女"
+        ]
     }
 ]
