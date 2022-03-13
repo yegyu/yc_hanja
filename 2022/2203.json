@@ -263,5 +263,123 @@
             "生存",
             "孫女"
         ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 5장 6-7절",
+        "voca_list": [
+            {
+                "hanja": "義",
+                "mean": "옳음(하나님의 뜻)"
+            },
+            {
+                "hanja": "矜恤",
+                "mean": "불쌍히 여겨 도와줌"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "義",
+                "name": "옳을 의",
+                "sub": "𦍌 [羊,𦍍,𦍋] (양양2, 6획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-13.svg"
+                ]
+            },
+            {
+                "hanja": "矜",
+                "name": "불쌍히 여길 긍",
+                "sub": "矛 (창모, 5획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/77DC-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/77DC-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/77DC-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/77DC-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/77DC-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/77DC-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/77DC-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/77DC-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/77DC-09.svg"
+                ]
+            },
+            {
+                "hanja": "恤",
+                "name": "불쌍할 휼",
+                "sub": "忄 [心,㣺] (심방변, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6064-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6064-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6064-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6064-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6064-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6064-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6064-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6064-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6064-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "의(義)에 주리고 목마른 자는 어떤 복(福)을 받습니까?",
+                "a": "저희가 의로 배부를 것입니다."
+            },
+            {
+                "q": "긍휼(矜恤)히 여기는 자는 어떤 복(福)이 있습니까?",
+                "a": "저희가 긍휼히 여김을 받을 것입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "마음이 청결한 자는 복이 있나니 저희가 하나님을 볼 것임이요",
+                "where": "마태복음 5장 8절"
+            },
+            "child_afternoon": {
+                "words": "오늘날 다윗의 동네에 너희를 위하여 구주가 나셨으니 곧 그리스도 주시니라",
+                "where": "누가복음 2장 11절"
+            },
+            "youth_afternoon": {
+                "words": "누구든지 나를 인하여 실족하지 아니하는 자는 복이 있도다 하시니라",
+                "where": "누가복음 7장 23절"
+            },
+            "adult": {
+                "words": "야곱이 가로되 당신(當身)이 내게 축복(祝福)하지 아니하면 가게 하지 아니하겠나이다",
+                "where": "창세기 32편 26절",
+                "answer": "시편 51편 17절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 18장",
+            "義",
+            "矜恤",
+            "哀痛",
+            "溫柔",
+            "前",
+            "犯",
+            "악",
+            "행",
+            "他人",
+            "下體",
+            "出生",
+            "여인",
+            "風俗",
+            "規例",
+            "生存",
+            "孫女"
+        ]
     }
 ]
