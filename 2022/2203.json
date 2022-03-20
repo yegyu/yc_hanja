@@ -381,5 +381,137 @@
             "生存",
             "孫女"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 5장 8-9절",
+        "voca_list": [
+            {
+                "hanja": "淸潔",
+                "mean": "맑고 깨끗함"
+            },
+            {
+                "hanja": "和平",
+                "mean": "화목하고 평안함"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "淸",
+                "name": "맑을 청",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DF8-11.svg"
+                ]
+            },
+            {
+                "hanja": "潔",
+                "name": "깨끗할 결",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "15획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F54-15.svg"
+                ]
+            },
+            {
+                "hanja": "和",
+                "name": "화할 화",
+                "sub": "口 (입구, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-08.svg"
+                ]
+            },
+            {
+                "hanja": "平",
+                "name": "평평할 평",
+                "sub": "干 (방패간, 3획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5E73-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5E73-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5E73-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5E73-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5E73-05.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "마음이 청결(淸潔)한 자(者)는 어떤 복(福)이 있습니까?",
+                "a": "하나님을 볼 수 있습니다."
+            },
+            {
+                "q": "화평(和平)케하는 자(者)는 어떤 복(福)이 있습니까?",
+                "a": "하나님의 아들이라 일컬음을 받습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "의를 위하여 핍박을 받은 자는 복이 있나니 천국이 저희 것임이라",
+                "where": "마태복음 5장 10절"
+            },
+            "child_afternoon": {
+                "words": "오늘날 다윗의 동네에 너희를 위하여 구주가 나셨으니 곧 그리스도 주시니라",
+                "where": "누가복음 2장 11절"
+            },
+            "youth_afternoon": {
+                "words": "이는 저희로 보아도 보지 못하고 들어도 깨닫지 못하게 하려 함이니라",
+                "where": "누가복음 8장 10절"
+            },
+            "adult": {
+                "words": "모든 사람으로 더불어 화평(和平)함과 거룩함을 좇으라 이것이 없이는 아무도 주(主)를 보지 못하리라",
+                "where": "히브리서 12장 14절",
+                "answer": "창세기 32편 26절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 19장",
+            "淸潔",
+            "和平",
+            "義",
+            "矜恤",
+            "羊",
+            "客",
+            "老人",
+            "恭敬",
+            "全國",
+            "果實",
+            "果木",
+            "罪惡",
+            "敬畏",
+            "神像",
+            "對敵",
+            "公義"
+        ]
     }
 ]
