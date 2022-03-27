@@ -1,0 +1,124 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 5장 10-12절",
+        "voca_list": [
+            {
+                "hanja": "逼迫",
+                "mean": "육체적, 물질적, 정신적 고통을 주며 괴롭힘"
+            },
+            {
+                "hanja": "福",
+                "mean": "하나님의 은혜"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "逼",
+                "name": "핍박할 핍",
+                "sub": "辶 [辵,辶,⻎] (책받침2, 4획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/903C-13.svg"
+                ]
+            },
+            {
+                "hanja": "迫",
+                "name": "핍박할 박",
+                "sub": "辶 [辵,辶,⻎] (책받침2, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8F00/8FEB-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8F00/8FEB-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8F00/8FEB-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8F00/8FEB-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8F00/8FEB-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8F00/8FEB-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8F00/8FEB-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8F00/8FEB-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8F00/8FEB-09.svg"
+                ]
+            },
+            {
+                "hanja": "福",
+                "name": "복 복",
+                "sub": "示 [礻,𥘅] (보일시, 5획)",
+                "count": "13,14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-14.svg"
+                ]
+            }
+            
+        ],
+        "questions": [
+            {
+                "q": "의(義)를 위하여 핍박(逼迫)을 받는 자는 어떤 상(賞)을 받는다고 하셨는가?",
+                "a": "천국이 저희 것임이라"
+            },
+            {
+                "q": "핍박(逼迫)을 받으면서 기뻐하고 즐거워해야 하는 이유는 무엇인가?",
+                "a": "하늘에서 주시는 상이 크기 때문입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "너희는 세상의 소금이니",
+                "where": "마태복음 5장 13절"
+            },
+            "child_afternoon": {
+                "words": "오늘날 다윗의 동네에 너희를 위하여 구주가 나셨으니 곧 그리스도 주시니라",
+                "where": "누가복음 2장 11절"
+            },
+            "youth_afternoon": {
+                "words": "이는 저희로 보아도 보지 못하고 들어도 깨닫지 못하게 하려 함이니라",
+                "where": "누가복음 8장 10절"
+            },
+            "adult": {
+                "words": "무릇 그리스도 예수 안에서 경건(敬虔)하게 살고자 하는 자(者)는 핍박(逼迫)을 받으리라",
+                "where": "디모데후서 3장 12절",
+                "answer": "히브리서 12장 14절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 19장",
+            "逼迫",
+            "福",
+            "淸潔",
+            "和平",
+            "양",
+            "客",
+            "老人",
+            "恭敬",
+            "全國",
+            "果實",
+            "과목",
+            "罪惡",
+            "敬畏",
+            "神像",
+            "對敵",
+            "公義"
+        ]
+    }
+]
