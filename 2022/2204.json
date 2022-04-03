@@ -125,15 +125,37 @@
         "main_words": "마태복음 5장 13절",
         "voca_list": [
             {
-                "hanja": "萬一",
-                "mean": "있을지도 모르는 뜻밖의 경우"
-            },
-            {
                 "hanja": "鹽",
                 "mean": "소금"
+            },
+            {
+                "hanja": "萬一",
+                "mean": "있을지도 모르는 뜻밖의 경우"
             }
+            
         ],
         "front_hanja_list": [
+
+            {
+                "hanja": "鹽",
+                "name": "소금 염",
+                "sub": "鹵 [卤] (짠땅로ㆍ소금밭로, 11획)",
+                "count": "24획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-17.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-18.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-19.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-24.svg"
+                ]
+            },
             {
                 "hanja": "萬",
                 "name": "일 만 만",
@@ -161,26 +183,6 @@
                 "count": "1획",
                 "draw_list": [
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E00-01.svg"
-                ]
-            },
-            {
-                "hanja": "鹽",
-                "name": "소금 염",
-                "sub": "鹵 [卤] (짠땅로ㆍ소금밭로, 11획)",
-                "count": "24획",
-                "draw_list": [
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-05.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-08.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-09.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-10.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-13.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-14.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-15.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-16.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-17.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-18.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-19.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-24.svg"
                 ]
             }
         ],
