@@ -70,7 +70,6 @@
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA1B-14.svg"
                 ]
             }
-            
         ],
         "questions": [
             {
@@ -119,6 +118,119 @@
             "神像",
             "對敵",
             "公義"
+        ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 5장 13절",
+        "voca_list": [
+            {
+                "hanja": "萬一",
+                "mean": "있을지도 모르는 뜻밖의 경우"
+            },
+            {
+                "hanja": "鹽",
+                "mean": "소금"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "萬",
+                "name": "일 만 만",
+                "sub": "艹 [艸,䒑,艹,艹] (초두머리, 3획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8400/842C-12.svg"
+                ]
+            },
+            {
+                "hanja": "一",
+                "name": "한 일",
+                "sub": "一 (한일, 1획)",
+                "count": "1획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E00-01.svg"
+                ]
+            },
+            {
+                "hanja": "鹽",
+                "name": "소금 염",
+                "sub": "鹵 [卤] (짠땅로ㆍ소금밭로, 11획)",
+                "count": "24획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-17.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-18.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-19.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9E00/9E7D-24.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "성도(聖徒)는 세상(世上)에 무엇이라고 하였는가?",
+                "a": "소금입니다."
+            },
+            {
+                "q": "성도(聖徒)가 소금의 역할(役割)을 하지 못하면 어찌 되는가?",
+                "a": "사람들의 발아래 짓밟히게 됩니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "너희는 세상의 빛이라",
+                "where": "마태복음 5장 14절"
+            },
+            "child_afternoon": {
+                "words": "내가 의인을 부르러 온 것이 아니요 죄인을 불러 회개시키러 왔노라",
+                "where": "누가복음 5장 32절"
+            },
+            "youth_afternoon": {
+                "words": "이는 저희로 보아도 보지 못하고 들어도 깨닫지 못하게 하려 함이니라",
+                "where": "누가복음 8장 10절"
+            },
+            "adult": {
+                "words": "너희 말을 항상(恒常) 은혜(恩惠) 가운데서 소금으로 고루게 함같이 하라 그리하면 각(各) 사람에게 마땅히 대답(對答)할 것을 알리라",
+                "where": "골로새서 4장 6절",
+                "answer": "디모데후서 3장 12절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 23장",
+            "萬一",
+            "鹽",
+            "逼迫",
+            "福",
+            "正月",
+            "土地",
+            "十分",
+            "安息日",
+            "居",
+            "合",
+            "爲",
+            "公布",
+            "引導",
+            "聖會",
+            "勞動",
+            "處所"
         ]
     }
 ]
