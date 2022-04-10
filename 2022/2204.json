@@ -132,10 +132,8 @@
                 "hanja": "萬一",
                 "mean": "있을지도 모르는 뜻밖의 경우"
             }
-            
         ],
         "front_hanja_list": [
-
             {
                 "hanja": "鹽",
                 "name": "소금 염",
@@ -226,6 +224,128 @@
             "爲",
             "正月",
             "土地",
+            "十分",
+            "安息",
+            "公布",
+            "引導",
+            "聖會",
+            "勞動",
+            "處所"
+        ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 5장 14-16절",
+        "voca_list": [
+            {
+                "hanja": "復活主日",
+                "mean": "예수님 부활을 기념하는 주일"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "復",
+                "name": "다시 부",
+                "sub": "彳 (두인변, 3획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-12.svg"
+                ]
+            },
+            {
+                "hanja": "活",
+                "name": "살 활",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D3B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D3B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D3B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D3B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D3B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D3B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D3B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D3B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6D3B-09.svg"
+                ]
+            },
+            {
+                "hanja": "主",
+                "name": "주인 주",
+                "sub": "丶 (점주, 1획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-05.svg"
+                ]
+            },
+            {
+                "hanja": "日",
+                "name": "날 일",
+                "sub": "日 [⺜] (날일, 4획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-04.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "성도(聖徒)는 세상(世上)의 무엇이라고 하였는가?",
+                "a": "세상의 빛입니다."
+            },
+            {
+                "q": "사람이 등(燈)불을 말 아래 두라고 하였는가?",
+                "a": "등경 위에 두라고 하였습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "폐하러 온 것이 아니요 완전케 하려 함이로라",
+                "where": "마태복음 5장 17절"
+            },
+            "child_afternoon": {
+                "words": "너희 원수를 사랑하며 너희를 미워하는 자를 선대하며",
+                "where": "누가복음 6장 27절"
+            },
+            "youth_afternoon": {
+                "words": "기도하실 때에 용모가 변화되고 그 옷이 희어져 광채가 나더라",
+                "where": "누가복음 9장 29절"
+            },
+            "adult": {
+                "words": "너희가 전(前)에는 어두움이더니 이제는 주(主) 안에서 빛이라 빛의 자녀(子女)들처럼 행(行)하라",
+                "where": "에베소서 5장 8절",
+                "answer": "골로새서 4장 6절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 23장",
+            "復活",
+            "主日",
+            "鹽",
+            "萬一",
+            "居",
+            "合",
+            "爲",
+            "正月",
+            "토지",
             "十分",
             "安息",
             "公布",
