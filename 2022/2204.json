@@ -354,5 +354,122 @@
             "勞動",
             "處所"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 5장 17-18절",
+        "voca_list": [
+            {
+                "hanja": "律法",
+                "mean": "하나님의 법"
+            },
+            {
+                "hanja": "廢",
+                "mean": "폐하다, 버리다, 멈추다, 무너지다"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "律",
+                "name": "법 률(율)",
+                "sub": "彳 (두인변, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-09.svg"
+                ]
+            },
+            {
+                "hanja": "法",
+                "name": "법 법",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-08.svg"
+                ]
+            },
+            {
+                "hanja": "廢",
+                "name": "폐할 폐/버릴 폐",
+                "sub": "广 (엄호, 3획)",
+                "count": "15획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EE2-15.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님께서 세상(世上)에 오신 이유(理由)는 율법을 폐(廢)하기 위함인가요?",
+                "a": "아닙니다. 완전케 하려고 오셨습니다."
+            },
+            {
+                "q": "하나님께서 율법(律法)을 주신 목적(目的)은 무엇입니까?",
+                "a": "죄를 깨달아 그리스도를 믿게 하려 하심입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "누구든지 이를 행하며 가르치는 자는 천국에서 크다 일컬음을 받으리라",
+                "where": "마태복음 5장 19절"
+            },
+            "child_afternoon": {
+                "words": "너희 원수를 사랑하며 너희를 미워하는 자를 선대하며",
+                "where": "누가복음 6장 27절"
+            },
+            "youth_afternoon": {
+                "words": "기도하실 때에 용모가 변화되고 그 옷이 희어져 광채가 나더라",
+                "where": "누가복음 9장 29절"
+            },
+            "adult": {
+                "words": "우리가 율법(律法)의 행위(行爲)에서 아니고 그리스도를 믿음으로서 의(義)롭다 함을 얻으려 함이라 율법(律法)의 행위(行爲)로서는 의(義)롭다 함을 얻을 육체(肉體)가 없느니라",
+                "where": "갈라디아서 2장 16",
+                "answer": "에베소서 5장 8절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 25장",
+            "律法",
+            "廢",
+            "復活",
+            "主日",
+            "所出",
+            "所産",
+            "每年",
+            "自由",
+            "各其",
+            "基業",
+            "年數",
+            "多少",
+            "産物",
+            "寓居",
+            "贖良",
+            "近族"
+        ]
     }
 ]
