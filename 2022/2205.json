@@ -1,0 +1,136 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 5장 19-20절",
+        "voca_list": [
+            {
+                "hanja": "誡命",
+                "mean": "하나님의 명령"
+            },
+            {
+                "hanja": "至極",
+                "mean": "어떠한 정도나 상태 따위가 극도에 이름"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "誡",
+                "name": "경계할 계",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8AA1-14.svg"
+                ]
+            },
+            {
+                "hanja": "命",
+                "name": "목숨 명",
+                "sub": "口 (입구, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/547D-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/547D-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/547D-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/547D-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/547D-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/547D-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/547D-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/547D-08.svg"
+                ]
+            },
+            {
+                "hanja": "至",
+                "name": "이를 지",
+                "sub": "至 (이를지, 6획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81F3-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81F3-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81F3-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81F3-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81F3-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8100/81F3-06.svg"
+                ]
+            },
+            {
+                "hanja": "極",
+                "name": "극진할 극/다할 극",
+                "sub": "木 (나무목, 4획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6900/6975-13.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "천국(天國)에서 큰 자(者)는 누구입니까?",
+                "a": "작은 계명이라도 행하며 가르치는 자입니다."
+            },
+            {
+                "q": "우리의 의(義)가 누구보다 커야 천국(天國)에 들어갑니까?",
+                "a": "서기관과 바리새인입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "형제에게 노하는 자마다 심판을 받게 되고",
+                "where": "마태복음 5장 22절"
+            },
+            "child_afternoon": {
+                "words": "아무든지 나를 따라 오려거든 자기를 부인하고 자기 십자가를 지고 나를 좇을 것이니라 ",
+                "where": "누가복음 9장 23절"
+            },
+            "youth_afternoon": {
+                "words": "",
+                "where": ""
+            },
+            "adult": {
+                "words": "화(禍) 있을찐저 외식(外飾)하는 서기관(書記官)들과 바리새인(人)들이여 너희가 박하(薄荷)와 회향(茴香)과 근채(芹菜)의 십일조(十一條)를 드리되 율법(律法)의 더 중(重)한바 의(義)와 인(仁)과 신(信)은 버렸도다 그러나 이것도 행(行)하고 저것도 버리지 말아야 할찌니라",
+                "where": "마태복음 23장 23절",
+                "answer": "갈라디아서 2장 16절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 25장",
+            "誡命",
+            "至極",
+            "律法",
+            "廢",
+            "所出",
+            "所産",
+            "每年",
+            "자유",
+            "各其",
+            "基業",
+            "年數",
+            "다소",
+            "産物",
+            "寓居",
+            "贖良",
+            "近族"
+        ]
+    }
+]
