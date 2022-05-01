@@ -132,5 +132,133 @@
             "贖良",
             "近族"
         ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 5장 21-22절",
+        "voca_list": [
+            {
+                "hanja": "殺人",
+                "mean": "사람을 죽임"
+            },
+            {
+                "hanja": "審判",
+                "mean": "선안간에 옳고 그름을 판단하는 일"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "殺",
+                "name": "죽일 살",
+                "sub": "殳 (갖은등글월문, 4획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BBA-11.svg"
+                ]
+            },
+            {
+                "hanja": "人",
+                "name": "사람 인",
+                "sub": "人 [亻] (사람인, 2획)",
+                "count": "2획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4EBA-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4EBA-02.svg"
+                ]
+            },
+            {
+                "hanja": "審",
+                "name": "살필 심",
+                "sub": "宀 (갓머리, 3획)",
+                "count": "15획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BE9-15.svg"
+                ]
+            },
+            {
+                "hanja": "判",
+                "name": "판단할 판",
+                "sub": "刂 [刀,⺈] (선칼도방, 2획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-07.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "율법(律法)에 살인(殺人)한 자(者)는 어떻게 된다고 하였습니까?",
+                "a": "심판받는다고 하였습니다."
+            },
+            {
+                "q": "형제(兄弟)에게 노(怒)하거나 욕(辱)하면 됩니까?",
+                "a": "안됩니다. 끝까지 사랑해야 합니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "예물을 제단 앞에 두고 먼저 가서 형제와 화목하고",
+                "where": "마태복음 5장 24절"
+            },
+            "child_afternoon": {
+                "words": "아무든지 나를 따라 오려거든 자기를 부인하고 날마다 제 십자가를 지고 나를 좇을 것이니라",
+                "where": "누가복음 9장 23절"
+            },
+            "youth_afternoon": {
+                "words": "네 이웃을 네 몸과 같이 사랑하라",
+                "where": "누가복음 10장 27절"
+            },
+            "adult": {
+                "words": "그 형제(兄弟)를 미워하는 자(者)마다 살인(殺人)하는 자(者)니 살인(殺人)하는 자(者)마다 영생(永生)이 그 속에 거(居)하지 아니하는 것을 너희가 아는 바라",
+                "where": "요한1서 3장 15절",
+                "answer": "마태복음 23장 23절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 26장",
+            "殺人",
+            "審判",
+            "誡命",
+            "至極",
+            "安全",
+            "言約",
+            "昌大",
+            "本土",
+            "偶像",
+            "木像",
+            "柱像",
+            "石像",
+            "敬拜",
+            "恭敬",
+            "對敵",
+            "受苦"
+        ]
     }
 ]
