@@ -260,5 +260,135 @@
             "對敵",
             "受苦"
         ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 5장 23-26절",
+        "voca_list": [
+            {
+                "hanja": "訟事",
+                "mean": "분쟁에 대해 판결을 구하는 일"
+            },
+            {
+                "hanja": "私和",
+                "mean": "화해"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "訟",
+                "name": "송사할 송, 용납할 용",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A1F-11.svg"
+                ]
+            },
+            {
+                "hanja": "事",
+                "name": "일 사",
+                "sub": "亅 (갈고리궐, 1획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E8B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E8B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E8B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E8B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E8B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E8B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E8B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E8B-08.svg"
+                ]
+            },
+            {
+                "hanja": "私",
+                "name": "사사로울 사",
+                "sub": "禾 (벼화, 5획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79C1-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79C1-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79C1-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79C1-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79C1-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79C1-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79C1-07.svg"
+                ]
+            },
+            {
+                "hanja": "和",
+                "name": "화할 화",
+                "sub": "口 (입구, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/548C-08.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "율법(律法)에 살인(殺人)한 자(者)는 어떻게 된다고 하였습니까?",
+                "a": "심판받는다고 하였습니다."
+            },
+            {
+                "q": "형제(兄弟)에게 노(怒)하거나 욕(辱)하면 됩니까?",
+                "a": "안됩니다. 끝까지 사랑해야 합니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "여자를 보고 음욕을 품는 자마다 마음에 이미 간음하였느니라",
+                "where": "마태복음 5장 28절"
+            },
+            "child_afternoon": {
+                "words": "네 마음을 다하며 목숨을 다하며 힘을 다하며 뜻을 다하여 주 너의 하나님을 사랑하고",
+                "where": "누가복음 10장 27절"
+            },
+            "youth_afternoon": {
+                "words": "",
+                "where": ""
+            },
+            "adult": {
+                "words": "누구든지 하나님을 사랑하노라 하고 그 형제(兄弟)를 미워하면 이는 거짓말 하는 자(者)니 보는바 그 형제(兄弟)를 사랑치 아니하는 자(者)가 보지 못하는바 하나님을 사랑할 수가 없느니라",
+                "where": "요한1서 4장 20절",
+                "answer": "요한1서 3장 15절"
+            }
+        },
+        "back_hanja_list": [
+            "레위기 26장",
+            "訟事",
+            "私和",
+            "殺人",
+            "審判",
+            "安全",
+            "言約",
+            "昌大",
+            "본토",
+            "偶像",
+            "목상",
+            "柱像",
+            "石像",
+            "敬拜",
+            "恭敬",
+            "對敵",
+            "受苦"
+        ]
     }
 ]
