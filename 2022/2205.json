@@ -261,6 +261,7 @@
             "受苦"
         ]
     },
+    
     {
         "week": 3,
         "main_words": "마태복음 5장 23-26절",
@@ -389,6 +390,145 @@
             "恭敬",
             "對敵",
             "受苦"
+        ]
+    }
+    ,{
+        "week": 4,
+        "main_words": "마태복음 5장 27-30절",
+        "voca_list": [
+            {
+                "hanja": "淫慾",
+                "mean": "음란하고 방탕한 마음"
+            },
+            {
+                "hanja": "姦淫",
+                "mean": "배우자 이외의 사람과의 성적 관계"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "淫",
+                "name": "음란할 음",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-11.svg"
+                ]
+            },
+            {
+                "hanja": "慾",
+                "name": "욕심 욕",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "15획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/617E-15.svg"
+                ]
+            },
+            {
+                "hanja": "姦",
+                "name": "간음할 간",
+                "sub": "女 (여자녀, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59E6-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59E6-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59E6-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59E6-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59E6-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59E6-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59E6-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59E6-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/59E6-09.svg"
+                ]
+            },
+            {
+                "hanja": "淫",
+                "name": "음란할 음",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6D00/6DEB-11.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "여인(女人)을 보고 음욕(淫慾)을 품으면 무슨 죄(罪)가 됩니까?",
+                "a": "간음죄입니다."
+            },
+            {
+                "q": "마음과 몸으로 죄(罪)를 지으면 어찌 해야 하는가?",
+                "a": "회개하고 돌이켜야 합니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "누구든지 음행한 연고 없이 아내를 버리면 이는 저로 간음하게 함이요",
+                "where": "마태복음 5장 32절"
+            },
+            "child_afternoon": {
+                "words": "네 마음을 다하며 목숨을 다하며 힘을 다하며 뜻을 다하여 주 너의 하나님을 사랑하고",
+                "where": "누가복음 10장 27절"
+            },
+            "youth_afternoon": {
+                "words": "구하라 그러면 너희에게 주실 것이요 찾으라 그러면 찾을 것이요 문을 두드리라 그러면 너희에게 열릴 것이니",
+                "where": "누가복음 11장 9절"
+            },
+            "adult": {
+                "words": "마음에서 나오는 것은 악(惡)한 생각과 살인(殺人)과 간음(姦淫)과 음란(淫亂)과 도적(盜賊)질과 거짓 증거(證據)와 훼방(毁謗)이니",
+                "where": "마태복음 15장 19절",
+                "answer": "요한1서 4장 20절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 1장",
+            "淫慾",
+            "姦淫",
+            "訟事",
+            "私和",
+            "臨",
+            "對",
+            "命",
+            "四面",
+            "各其",
+            "家族",
+            "宗族",
+            "以上",
+            "指名",
+            "名數",
+            "計數",
+            "支派"
         ]
     }
 ]
