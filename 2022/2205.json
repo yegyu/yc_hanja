@@ -261,7 +261,6 @@
             "受苦"
         ]
     },
-    
     {
         "week": 3,
         "main_words": "마태복음 5장 23-26절",
@@ -391,8 +390,8 @@
             "對敵",
             "受苦"
         ]
-    }
-    ,{
+    },
+    {
         "week": 4,
         "main_words": "마태복음 5장 27-30절",
         "voca_list": [
@@ -517,6 +516,147 @@
             "姦淫",
             "訟事",
             "私和",
+            "臨",
+            "對",
+            "命",
+            "四面",
+            "各其",
+            "家族",
+            "宗族",
+            "以上",
+            "指名",
+            "名數",
+            "計數",
+            "支派"
+        ]
+    },
+    {
+        "week": 5,
+        "main_words": "마태복음 5장 31-32절",
+        "voca_list": [
+            {
+                "hanja": "離婚",
+                "mean": "부부가 혼인 관계를 끊는 일"
+            },
+            {
+                "hanja": "證書",
+                "mean": "증거가 되는 문서"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "離",
+                "name": "떠날 리(이)",
+                "sub": "隹 (새추, 8획)",
+                "count": "19획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96E2-18.svg"
+                ]
+            },
+            {
+                "hanja": "婚",
+                "name": "혼인할 혼",
+                "sub": "女 (여자 녀, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5A00/5A5A-11.svg"
+                ]
+            },
+            {
+                "hanja": "證",
+                "name": "증거 증",
+                "sub": "言 [訁,讠] (말씀언, 7획)",
+                "count": "19획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-17.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-18.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B49-19.svg"
+                ]
+            },
+            {
+                "hanja": "書",
+                "name": "글 서",
+                "sub": "曰 (가로왈, 4획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-10.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "음행(淫行)한 연고(緣故)없이 부인(夫人)과 이혼(離婚)하면 되는가?",
+                "a": "안됩니다."
+            },
+            {
+                "q": "하나님께서 함부로 이혼(離婚)하지 말것을 명(命)하신 이유(理由)는 무엇입니까?",
+                "a": "가정과 여인을 지키기 위한 것입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "나는 너희에게 이르노니 도무지 맹세하지 말찌니",
+                "where": "마태복음 5장 34절"
+            },
+            "child_afternoon": {
+                "words": "네 마음을 다하며 목숨을 다하며 힘을 다하며 뜻을 다하여 주 너의 하나님을 사랑하고",
+                "where": "누가복음 10장 27절"
+            },
+            "youth_afternoon": {
+                "words": "구하라 그러면 너희에게 주실 것이요 찾으라 그러면 찾을 것이요 문을 두드리라 그러면 너희에게 열릴 것이니",
+                "where": "누가복음 11장 9절"
+            },
+            "adult": {
+                "words": "이러므로 남자(男子)가 부모(父母)를 떠나 그 아내와 연합(聯合)하여 둘이 한 몸을 이룰찌로다",
+                "where": "창세기 2장 24절",
+                "answer": "마태복음 15장 19절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 1장",
+            "離婚",
+            "證書",
+            "淫慾",
+            "姦淫",
             "臨",
             "對",
             "命",
