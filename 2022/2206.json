@@ -1,0 +1,148 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 5장 33-37절",
+        "voca_list": [
+            {
+                "hanja": "盟誓",
+                "mean": "꼭 이루거나 지키겠다는 다짐(약속)"
+            },
+            {
+                "hanja": "寶座",
+                "mean": "권위자의 자리"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "盟",
+                "name": "맹세 맹",
+                "sub": "皿 (그릇명, 5획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DF-13.svg"
+                ]
+            },
+            {
+                "hanja": "誓",
+                "name": "맹세할 서",
+                "sub": "言 [訁,讠] (말씀언, 7획)",
+                "count": "14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A93-14.svg"
+                ]
+            },
+            {
+                "hanja": "寶",
+                "name": "보배 보",
+                "sub": "宀 (갓머리, 3획)",
+                "count": "20획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-18.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-19.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-20.svg"
+                ]
+            },
+            {
+                "hanja": "座",
+                "name": "자리 좌",
+                "sub": "广 (엄호, 3획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5E00/5EA7-10.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "함부로 맹세(盟誓)하면 되는가? ",
+                "a": "안됩니다."
+            },
+            {
+                "q": "한번(番) 맹세(盟誓)하면 어떻게 해야 되는가?",
+                "a": "반드시 지키려고 노력해야 합니다."
+            },
+            {
+                "q":"말할 때는 어떻게 해야 합니까?",
+                "a":"옳다, 아니다로 정직하게 말해야 합니다."
+
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "누구든지 네 오른편 뺨을 치거든 왼편도 돌려 대며",
+                "where": "마태복음 5장 39절"
+            },
+            "child_afternoon": {
+                "words": "좁은 문으로 들어가기를 힘쓰라 내가 너희에게 이르노니 들어가기를 구하여도 못한느 자가 많으리라",
+                "where": "누가복음 13장 24절"
+            },
+            "youth_afternoon": {
+                "words": "오직 너희는 그의 나라를 구하라 그리하면 이런 것을 너희에게 더하시리라",
+                "where": "누가복음 12장 31절"
+            },
+            "adult": {
+                "words": "사람들은 자기(自己)보다 더 큰 자(者)를 가리켜 맹세(盟誓)하나니 맹세(盟誓)는 저희 모든 다투는 일에 최후(最後) 확정(確定)이니라",
+                "where": "히브리서 6장 16절",
+                "answer": "창세기 2장 24절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 1장",
+            "盟誓",
+            "寶座",
+            "離婚",
+            "證書",
+            "每名",
+            "一個月",
+            "取",
+            "家畜",
+            "合計",
+            "侍從",
+            "四面",
+            "曠野",
+            "職分",
+            "委任",
+            "奉事"
+        ]
+    }
+]
