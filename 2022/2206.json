@@ -102,9 +102,8 @@
                 "a": "반드시 지키려고 노력해야 합니다."
             },
             {
-                "q":"말할 때는 어떻게 해야 합니까?",
-                "a":"옳다, 아니다로 정직하게 말해야 합니다."
-
+                "q": "말할 때는 어떻게 해야 합니까?",
+                "a": "옳다, 아니다로 정직하게 말해야 합니다."
             }
         ],
         "yojeol": {
@@ -115,12 +114,12 @@
             "child_afternoon": {
                 "words": "좁은 문으로 들어가기를 힘쓰라 내가 너희에게 이르노니 들어가기를 구하여도 못한느 자가 많으리라",
                 "where": "누가복음 13장 24절",
-                "next":"무릇 자기를 높이는 자는 낮아지고 자기를 낮추는 자는 높아지리라 눅14/11"
+                "next": "무릇 자기를 높이는 자는 낮아지고 자기를 낮추는 자는 높아지리라 눅14/11"
             },
             "youth_afternoon": {
                 "words": "내가 참으로 너희에게 이르노니 그를 두려워하라",
                 "where": "누가복음 12장 5절",
-                "next":"오직 너희는 그의 나라를 구하라 그리하면 이런 것을 너희에게 더하시리라 (눅12/31)"
+                "next": "오직 너희는 그의 나라를 구하라 그리하면 이런 것을 너희에게 더하시리라 (눅12/31)"
             },
             "adult": {
                 "words": "사람들은 자기(自己)보다 더 큰 자(者)를 가리켜 맹세(盟誓)하나니 맹세(盟誓)는 저희 모든 다투는 일에 최후(最後) 확정(確定)이니라",
@@ -142,6 +141,140 @@
             "合計",
             "侍從",
             "四面",
+            "曠野",
+            "職分",
+            "委任",
+            "奉事"
+        ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 5장 38-42절",
+        "voca_list": [
+            {
+                "hanja": "對敵",
+                "mean": "적이나 어떤 세력, 힘 따위와 맞서 겨룸. 또는 그 상대"
+            },
+            {
+                "hanja": "同行",
+                "mean": "길을 같이 감"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "對",
+                "name": "대할 대",
+                "sub": "寸 (마디촌, 3획)",
+                "count": "14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0D-14.svg"
+                ]
+            },
+            {
+                "hanja": "敵",
+                "name": "대적할 적",
+                "sub": "攵 [攴] (등글월문2, 4획)",
+                "count": "15획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6575-15.svg"
+                ]
+            },
+            {
+                "hanja": "同",
+                "name": "한가지 동",
+                "sub": "口 (입구, 3획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540C-06.svg"
+                ]
+            },
+            {
+                "hanja": "行",
+                "name": "다닐 행, 항렬 항",
+                "sub": "行 (다닐행, 6획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-06.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "",
+                "a": ""
+            },
+            {
+                "q": "",
+                "a": ""
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "너희 원수를 사랑하며 너희를 핍박하는 자를 위하여 기도하라",
+                "where": "마태복음 5장 44절"
+            },
+            "child_afternoon": {
+                "words": "좁은 문으로 들어가기를 힘쓰라 내가 너희에게 이르노니 들어가기를 구하여도 못한느 자가 많으리라",
+                "where": "누가복음 13장 24절",
+                "next": "무릇 자기를 높이는 자는 낮아지고 자기를 낮추는 자는 높아지리라 눅14/11"
+            },
+            "youth_afternoon": {
+                "words": "내가 참으로 너희에게 이르노니 그를 두려워하라",
+                "where": "누가복음 12장 5절",
+                "next": "오직 너희는 그의 나라를 구하라 그리하면 이런 것을 너희에게 더하시리라 (눅12/31)"
+            },
+            "adult": {
+                "words": "사람들은 자기(自己)보다 더 큰 자(者)를 가리켜 맹세(盟誓)하나니 맹세(盟誓)는 저희 모든 다투는 일에 최후(最後) 확정(確定)이니라",
+                "where": "히브리서 6장 16절",
+                "answer": "창세기 2장 24절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 3장",
+            "對敵",
+            "同行",
+            "盟誓",
+            "寶座",
+            "팔천",
+            "每名",
+            "一個月",
+            "取",
+            "家畜",
+            "合計",
+            "侍從",
+            "사면",
             "曠野",
             "職分",
             "委任",
