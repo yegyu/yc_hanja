@@ -331,19 +331,20 @@
                 ]
             },
             {
-                "hanja": "祈",
+                "hanja": "祈",
                 "name": "빌 기",
-                "sub": "礻 [示,𥘅] (보일시변, 4획)",
-                "count": "8획",
+                "sub": "示 [礻] (보일시, 5획)",
+                "count": "9획",
                 "draw_list": [
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-01.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-02.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-03.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-04.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-05.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-06.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-07.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-08.svg"
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA4E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA4E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA4E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA4E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA4E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA4E-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA4E-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA4E-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA4E-09.svg"
                 ]
             },
             {
