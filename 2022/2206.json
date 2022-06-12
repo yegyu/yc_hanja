@@ -280,5 +280,140 @@
             "委任",
             "奉事"
         ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 5장 43-48절",
+        "voca_list": [
+            {
+                "hanja": "怨讐",
+                "mean": "원한이 맺힐 정도로 자기에게 해를 끼친 사람이나 집단"
+            },
+            {
+                "hanja": "祈禱",
+                "mean": "하나님께 비는 일(성도와 하나님과의 영적인 교제)"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "怨",
+                "name": "원망할 원",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6028-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6028-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6028-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6028-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6028-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6028-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6028-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6028-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6028-09.svg"
+                ]
+            },
+            {
+                "hanja": "讐",
+                "name": "원수 수",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "23획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-17.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-18.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-19.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-20.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-21.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-22.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B90-23.svg"
+                ]
+            },
+            {
+                "hanja": "祈",
+                "name": "빌 기",
+                "sub": "礻 [示,𥘅] (보일시변, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7948-08.svg"
+                ]
+            },
+            {
+                "hanja": "禱",
+                "name": "빌 도",
+                "sub": "示 [礻] (보일시, 5획)",
+                "count": "19획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-17.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-18.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79B1-19.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "우리는 하나님의 자녀(子女)로서 어떻게 살아야 합니까?",
+                "a": "계명을 온전하게 지켜야 합니다."
+            },
+            {
+                "q": "원수(怨讐)를 어떻게 하라고 하셨는가?",
+                "a": "사랑하라고 하셨습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "사람에게 보이려고 그들 앞에서 너희 의를 행치 않도록 주의하라",
+                "where": "마태복음 6장 1절"
+            },
+            "child_afternoon": {
+                "words": "무릇 자기를 높이는 자는 낮아지고 자기를 낮추는 자는 높아지리라",
+                "where": "누가복음 14장 11절"
+            },
+            "youth_afternoon": {
+                "words": "오직 너희는 그의 나라를 구하라 그리하면 이런 것을 너희에게 더하시리라",
+                "where": "누가복음 12장 31절"
+            },
+            "adult": {
+                "words": "예수께서 가라사대 아버지여 저희를 사(赦)하여 주옵소서 자기(自己)의 하는 것을 알지 못함이니이다",
+                "where": "누가복음 23장 34절",
+                "answer": "로마서 14장 8절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 3장",
+            "怨讐",
+            "祈禱",
+            "對敵",
+            "同行",
+            "後",
+            "不淨",
+            "五分之",
+            "流出病",
+            "患者",
+            "詛呪",
+            "害毒",
+            "記念",
+            "無罪",
+            "物件",
+            "情交",
+            "證人"
+        ]
     }
 ]
