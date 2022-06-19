@@ -262,7 +262,7 @@
             }
         },
         "back_hanja_list": [
-            "민수기 3장",
+            "민수기 5장",
             "對敵",
             "同行",
             "盟誓",
@@ -398,11 +398,153 @@
             }
         },
         "back_hanja_list": [
-            "민수기 3장",
+            "민수기 5장",
             "怨讐",
             "祈禱",
             "對敵",
             "同行",
+            "後",
+            "不淨",
+            "五分之",
+            "流出病",
+            "患者",
+            "詛呪",
+            "害毒",
+            "記念",
+            "無罪",
+            "物件",
+            "情交",
+            "證人"
+        ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 6장 1-4절",
+        "voca_list": [
+            {
+                "hanja": "救濟",
+                "mean": "가난하거나 어려움에 처한 이웃을 돕는 일"
+            },
+            {
+                "hanja": "隱密",
+                "mean": "숨어 있어서 겉으로 드러나지 않음"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "救",
+                "name": "구원할 구",
+                "sub": "攵 [攴] (등글월문2, 4획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-11.svg"
+                ]
+            },
+            {
+                "hanja": "濟",
+                "name": "건널 제,도울 제",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "17획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6FDF-17.svg"
+                ]
+            },
+            {
+                "hanja": "隱",
+                "name": "숨을 은",
+                "sub": "阝 [阜,𨸏] (좌부변, 3획)",
+                "count": "17획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9600/96B1-17.svg"
+                ]
+            },
+            {
+                "hanja": "密",
+                "name": "빽빽할 밀",
+                "sub": "宀 (갓머리, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BC6-11.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "우리는 구제(救濟)할 때 어떻게 해야 합니까?",
+                "a": "오른손이 하는 것을 왼손이 모르게 은밀하게 해야 합니다."
+            },
+            {
+                "q": "은밀(隱密)히 구제(救濟)하면 누가 갚으시는가?",
+                "a": "하나님께서 갚으십니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "너는 기도할 때에 네 골방에 들어가 문을 닫고 은밀한 중에 계신 네 아버지께 기도하라",
+                "where": "마태복음 6장 6절"
+            },
+            "child_afternoon": {
+                "words": "무릇 자기를 높이는 자는 낮아지고 자기를 낮추는 자는 높아지리라",
+                "where": "누가복음 14장 11절"
+            },
+            "youth_afternoon": {
+                "words": "오직 너희는 그의 나라를 구하라 그리하면 이런 것을 너희에게 더하시리라",
+                "where": "누가복음 12장 31절"
+            },
+            "adult": {
+                "words": "너희가 서로 영광(榮光)을 취(取)하고 유일(唯一)하신 하나님께로부터 오는 영광(榮光)은 구(求)하지 아니하니 어찌 나를 믿을 수 있느냐",
+                "where": "요한복음 5장 44절",
+                "answer": "누가복음 23장 34절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 5장",
+            "救濟",
+            "隱密",
+            "怨讐",
+            "祈禱",
             "後",
             "不淨",
             "五分之",
