@@ -1,0 +1,129 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 6장 5-8절",
+        "voca_list": [
+            {
+                "hanja": "重言復言",
+                "mean": "했던 말을 되풀이함"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "重",
+                "name": "무거울 중,거듭 중",
+                "sub": "里 (마을리, 7획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9100/91CD-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9100/91CD-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9100/91CD-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9100/91CD-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9100/91CD-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9100/91CD-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9100/91CD-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9100/91CD-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9100/91CD-09.svg"
+                ]
+            },
+            {
+                "hanja": "言",
+                "name": "말씀 언",
+                "sub": "言 [訁,讠] (말씀언, 7획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-07.svg"
+                ]
+            },
+            {
+                "hanja": "復",
+                "name": "회복할 복, 다시 부",
+                "sub": "彳 (두인변, 3획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FA9-12.svg"
+                ]
+            },
+            {
+                "hanja": "言",
+                "name": "말씀 언",
+                "sub": "言 [訁,讠] (말씀언, 7획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A00-07.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "우리는 구제(救濟)할 때 어떻게 해야 합니까?",
+                "a": "오른손이 하는 것을 왼손이 모르게 은밀하게 해야 합니다."
+            },
+            {
+                "q": "은밀(隱密)히 구제(救濟)하면 누가 갚으시는가?",
+                "a": "하나님께서 갚으십니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "너는 기도할 때에 네 골방에 들어가 문을 닫고 은밀한 중에 계신 네 아버지께 기도하라",
+                "where": "마태복음 6장 6절"
+            },
+            "child_afternoon": {
+                "words": "하나님이여 불쌍히 여기옵소서 나는 죄인이로소이다",
+                "where": "누가복음 18장 13절"
+            },
+            "youth_afternoon": {
+                "words": "",
+                "where": "누가복음 12장 31절"
+            },
+            "adult": {
+                "words": "내 아버지여 만일(萬一) 할만하시거든 이 잔(盞)을 내게서 지나가게 하옵소서 그러나 나의 원(願)대로 마옵시고 아버지의 원(願)대로 하옵소서",
+                "where": "마태복음 26장 39절",
+                "answer": "요한복음 5장 44절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 6장",
+            "重言復言",
+            "救濟",
+            "隱密",
+            "祈禱",
+            "男子",
+            "女子",
+            "特別",
+            "區別",
+            "所産",
+            "自己",
+            "恩惠",
+            "欠",
+            "平康",
+            "祝福",
+            "誓願",
+            "淨潔"
+        ]
+    }
+]
