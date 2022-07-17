@@ -366,5 +366,131 @@
             "和睦祭",
             "證據櫃"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 6장 11절",
+        "voca_list": [
+            {
+                "hanja": "日用",
+                "mean": "날마다 씀"
+            },
+            {
+                "hanja": "糧食",
+                "mean": "생명을 유지하기 위한 먹을거리"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "日",
+                "name": "날 일",
+                "sub": "日 [⺜] (날일, 4획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-04.svg"
+                ]
+            },
+            {
+                "hanja": "用",
+                "name": "쓸 용",
+                "sub": "用 (쓸용, 5획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7528-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7528-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7528-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7528-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7528-05.svg"
+                ]
+            },
+            {
+                "hanja": "糧",
+                "name": "양식 량(양)",
+                "sub": "米 (쌀미, 6획)",
+                "count": "18획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-17.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7C00/7CE7-18.svg"
+                ]
+            },
+            {
+                "hanja": "食",
+                "name": "밥 식/먹을 식",
+                "sub": "食 [飠,饣,𩙿] (밥식, 9획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "일용(日用)한 양식(糧食)은 무슨 뜻입니까?",
+                "a": "현실에서 필요한 것입니다."
+            },
+            {
+                "q": "내일(來日)의 양식(糧食)을 구(求)할 필요(必要)가 있습니까?",
+                "a": "없습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "우리가 우리에게 죄 지은 자를 사하여 준것 같이 우리 죄를 사하여 주옵시고",
+                "where": "마태복음 6장 12절"
+            },
+            "child_afternoon": {
+                "words": "너희는 스스로 조심하라 그렇지 않으면 방탕함과 술취함과 생활의 염려로 마음이 둔하여지고 뜻밖에 그 날이 덫과 같이 너희에게 임하리라",
+                "where": "누가복음 21장 34절"
+            },
+            "youth_afternoon": {
+                "words": "누구든지 자기 십자가를 지고 나를 좇지 않는 자도 능히 나의 제자가 되지 못하리라",
+                "where": "누가복음 14장 27절"
+            },
+            "adult": {
+                "words": "내가 너희를 위(爲)하여 하늘에서 양식(糧食)을 비 같이 내리리니 백성(百姓)이 나가서 일용(日用)할 것을 날마다 거둘 것이라 이같이 하여 그들이 나의 율법(律法)을 준행(遵行)하나 아니하나 내가 시험(試驗)하리라",
+                "where": "출애굽기 16장 4절",
+                "answer": "로마서 14장 17절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 7,8장",
+            "日用",
+            "糧食",
+            "統治",
+            "臨",
+            "代身",
+            "後",
+            "畢",
+            "器具",
+            "禮物",
+            "膳物",
+            "制度",
+            "全身",
+            "初胎生",
+            "燔祭",
+            "和睦祭",
+            "證據櫃"
+        ]
     }
 ]
