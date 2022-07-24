@@ -492,5 +492,135 @@
             "和睦祭",
             "證據櫃"
         ]
+    },
+    {
+        "week": 5,
+        "main_words": "마태복음 6장 12절",
+        "voca_list": [
+            {
+                "hanja": "每日",
+                "mean": "하루 하루(각각의 날)"
+            },
+            {
+                "hanja": "赦罪",
+                "mean": "죄를 용서함"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "每",
+                "name": "매양(늘) 매",
+                "sub": "母 [毋] (말무2, 5획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCF-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCF-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCF-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCF-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCF-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCF-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6BCF-07.svg"
+                ]
+            },
+            {
+                "hanja": "日",
+                "name": "날 일",
+                "sub": "日 [⺜] (날일, 4획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65E5-04.svg"
+                ]
+            },
+            {
+                "hanja": "赦",
+                "name": "용서할 사",
+                "sub": "赤 (붉을적, 7획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8D00/8D66-11.svg"
+                ]
+            },
+            {
+                "hanja": "罪",
+                "name": "허물 죄",
+                "sub": "罒 (그물망머리, 5획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-13.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "죄(罪)는 무엇을 뜻합니까?",
+                "a": "현실에서 필요한 하나님 말씀을 어기는 것입니다.."
+            },
+            {
+                "q": "우리가 죄(罪) 사(赦)함을 구(求)하기 전(前)에 무엇을 먼저 해야 합니까?",
+                "a": "남의 죄를 용서해야 합니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "우리를 시험에 들게 하지 마옵시고 다만 악에서 구하옵소서",
+                "where": "마태복음 6장 13절"
+            },
+            "child_afternoon": {
+                "words": "너희는 스스로 조심하라 그렇지 않으면 방탕함과 술취함과 생활의 염려로 마음이 둔하여지고 뜻밖에 그 날이 덫과 같이 너희에게 임하리라",
+                "where": "누가복음 21장 34절"
+            },
+            "youth_afternoon": {
+                "words": "누구든지 자기 십자가를 지고 나를 좇지 않는 자도 능히 나의 제자가 되지 못하리라",
+                "where": "누가복음 14장 27절"
+            },
+            "adult": {
+                "words": "너희가 각각(各各) 중심(中心)으로 형제(兄弟)를 용서(容恕)하지 아니하면 내 천부(天父)께서도 너희에게 이와 같이 하시리라",
+                "where": "마태복음 18장 35절",
+                "answer": "출애굽기 16장 4절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 9장",
+            "每日",
+            "赦罪",
+            "日用",
+            "糧食",
+            "律例",
+            "子孫",
+            "同時",
+            "永遠",
+            "第",
+            "陣",
+            "會衆",
+            "目前",
+            "祭司長",
+            "穩全",
+            "帳幕",
+            "不淨"
+        ]
     }
 ]
