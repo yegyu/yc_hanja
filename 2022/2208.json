@@ -1,0 +1,146 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 6장 13절",
+        "voca_list": [
+            {
+                "hanja": "試驗",
+                "mean": "실력 따위를 검사하고 평가하는 일(연단을 위한 시련, 욕심에 의한 유혹)"
+            },
+            {
+                "hanja": "權勢",
+                "mean": "권력과 세력"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "試",
+                "name": "시험 시",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A66-13.svg"
+                ]
+            },
+            {
+                "hanja": "驗",
+                "name": "시험 험",
+                "sub": "馬 [马] (말마, 10획)",
+                "count": "23획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-17.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-20.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9A00/9A57-23.svg"
+                ]
+            },
+            {
+                "hanja": "權",
+                "name": "권세 권",
+                "sub": "木 (나무목, 4획)",
+                "count": "21획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-19.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-20.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6B00/6B0A-21.svg"
+                ]
+            },
+            {
+                "hanja": "勢",
+                "name": "기세 세",
+                "sub": "力 (힘력, 2획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/52E2-13.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "우리가 기도(祈禱)해야 할 시험(試驗)이란 무엇입니까?",
+                "a": "마귀에게 유혹받는 것입니다."
+            },
+            {
+                "q": "이런 시험(試驗)은 어떻게 이겨야 합니까?",
+                "a": "하나님 말씀으로 이겨야 합니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "너희가 사람의 과실을 용서하면 너희 천부께서도 너희 과실을 용서하시려니와",
+                "where": "마태복음 6장 14절"
+            },
+            "child_afternoon": {
+                "words": "말씀이 육신이 되어 우리 가운데 거하시매",
+                "where": "요한복음 1장 14절"
+            },
+            "youth_afternoon": {
+                "words": "",
+                "where": ""
+            },
+            "adult": {
+                "words": "시험(試驗)에 들지 않게 깨어 있어 기도(祈禱)하라 마음에는 원(願)이로되 육신(肉身)이 약(弱)하도다 하시고",
+                "where": "마태복음 26장 41절",
+                "answer": "마태복음 18장 35절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 9장",
+            "試驗",
+            "權勢",
+            "每日",
+            "赦罪",
+            "律例",
+            "子孫",
+            "同時",
+            "永遠",
+            "第",
+            "陣",
+            "會衆",
+            "目前",
+            "祭司長",
+            "穩全",
+            "帳幕",
+            "不淨"
+        ]
+    }
+]
