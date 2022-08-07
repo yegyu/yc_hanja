@@ -112,14 +112,14 @@
             "child_afternoon": {
                 "words": "말씀이 육신이 되어 우리 가운데 거하시매",
                 "where": "요한복음 1장 14절",
-                "next_words":"우리가 그 영광을 보니 아버지의 독생자의 영광이요 은혜와 진리가 충만하더라",
-                "next_where":"요한복음 1장 14절"
+                "next_words": "우리가 그 영광을 보니 아버지의 독생자의 영광이요 은혜와 진리가 충만하더라",
+                "next_where": "요한복음 1장 14절"
             },
             "youth_afternoon": {
                 "words": "이제 저는 여기서 위로를 받고 너는 고민을 받느니라",
                 "where": "누가복음 16장 25절",
-                "next_words":"노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
-                "next_where":"누가복음 17장 26절"
+                "next_words": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
+                "next_where": "누가복음 17장 26절"
             },
             "adult": {
                 "words": "시험(試驗)에 들지 않게 깨어 있어 기도(祈禱)하라 마음에는 원(願)이로되 육신(肉身)이 약(弱)하도다 하시고",
@@ -145,6 +145,143 @@
             "穩全",
             "帳幕",
             "不淨"
+        ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 6장 14-15절",
+        "voca_list": [
+            {
+                "hanja": "過失",
+                "mean": "부주의나 태만 따위에서 비롯된 잘못이나 허물"
+            },
+            {
+                "hanja": "容恕",
+                "mean": "지은 죄나 잘못한 일에 대하여 꾸짖거나 벌하지 아니하고 덮어 줌"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "過",
+                "name": "지날 과",
+                "sub": "辶 [辵,辶,⻎] (책받침2, 4획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/904E-13.svg"
+                ]
+            },
+            {
+                "hanja": "失",
+                "name": "잃을 실",
+                "sub": "大 (큰대, 3획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5931-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5931-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5931-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5931-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5931-05.svg"
+                ]
+            },
+            {
+                "hanja": "容",
+                "name": "얼굴 용",
+                "sub": "宀 (갓머리, 3획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BB9-10.svg"
+                ]
+            },
+            {
+                "hanja": "恕",
+                "name": "용서할 서",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/6055-10.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "이미 모든 죄(罪) 용서(容恕)받은 우리들은 어떻게 해야 합니까?",
+                "a": "마땅히 타인의 죄를 용서해야 합니다."
+            },
+            {
+                "q": "하나님의 용서(容恕)는 무엇입니까?",
+                "a": "하니님이 죄지은 성도에게 긍휼과 자비를 베풀어주십니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "금식할 때에 너희는 외식하는 자들과 같이 슬픈 기색을 내지 말라",
+                "where": "마태복음 6장 16절"
+            },
+            "child_afternoon": {
+                "words": "말씀이 육신이 되어 우리 가운데 거하시매",
+                "where": "요한복음 1장 14절",
+                "next_words": "우리가 그 영광을 보니 아버지의 독생자의 영광이요 은혜와 진리가 충만하더라",
+                "next_where": "요한복음 1장 14절"
+            },
+            "youth_afternoon": {
+                "words": "이제 저는 여기서 위로를 받고 너는 고민을 받느니라",
+                "where": "누가복음 16장 25절",
+                "next_words": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
+                "next_where": "누가복음 17장 26절"
+            },
+            "adult": {
+                "words": "서로 인자(仁慈)하게 하며 불쌍히 여기며 서로 용서(容恕)하기를 하나님이 그리스도 안에서 너희를 용서(容恕)하심과 같이 하라",
+                "where": "에베소서 4장 32절",
+                "answer": "마태복음 26장 41절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 10장",
+            "過失",
+            "容恕",
+            "試驗",
+            "權勢",
+            "千夫長",
+            "族長",
+            "善待",
+            "同行",
+            "銀",
+            "召集",
+            "進行",
+            "當身",
+            "對敵",
+            "記憶",
+            "首頭",
+            "逃亡"
         ]
     }
 ]
