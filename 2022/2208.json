@@ -283,5 +283,136 @@
             "首頭",
             "逃亡"
         ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 6장 16-18절",
+        "voca_list": [
+            {
+                "hanja": "禁食",
+                "mean": "음식을 먹지 않음"
+            },
+            {
+                "hanja": "氣色",
+                "mean": "얼굴에 드러나는 빛"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "禁",
+                "name": "금할 금",
+                "sub": "示 [礻,𥘅] (보일시, 5획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-13.svg"
+                ]
+            },
+            {
+                "hanja": "食",
+                "name": "밥 식/먹을 식",
+                "sub": "食 [飠,饣,𩙿] (밥식, 9획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-09.svg"
+                ]
+            },
+            {
+                "hanja": "氣",
+                "name": "기운 기",
+                "sub": "气 (기운기엄ㆍ기운기밑, 4획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C23-10.svg"
+                ]
+            },
+            {
+                "hanja": "色",
+                "name": "빛 색",
+                "sub": "色 (빛색, 6획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8200/8272-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8200/8272-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8200/8272-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8200/8272-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8200/8272-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8200/8272-06.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "하나님 앞에 금식(禁食)은 왜 합니까?",
+                "a": "첫 번째 소원 아뢰기, 두 번째 회개하기, 세 번째 영적 훈련하기 위함입니다."
+            },
+            {
+                "q": "금식(禁食)할 때 사람에게 보이려고 해야 합니까?",
+                "a": "아닙니다. 하나님께만 보이려고 해야 합니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "오직 너희를 위하여 보물을 하늘에 쌓아 두라",
+                "where": "마태복음 6장 20절"
+            },
+            "child_afternoon": {
+                "words": "우리가 그 영광을 보니 아버지의 독생자의 영광이요 은혜와 진리가 충만하더라",
+                "where": "요한복음 1장 14절"
+            },
+            "youth_afternoon": {
+                "words": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
+                "where": "누가복음 16장 26절"
+            },
+            "adult": {
+                "words": "사십일(四十日)이 지나면 니느웨가 무너지리라 하였더니, 니느웨 백성(百姓)이 하나님을 믿고 금식(禁食)을 선포(宣布)하고",
+                "where": "요나 3장 4,5절",
+                "answer": "에베소서 4장 32절"
+            }
+        },
+        "back_hanja_list": [
+            "민수기 10장",
+            "禁食",
+            "氣色",
+            "過失",
+            "容恕",
+            "千夫長",
+            "族長",
+            "善待",
+            "同行",
+            "銀",
+            "召集",
+            "進行",
+            "當身",
+            "對敵",
+            "記憶",
+            "首頭",
+            "逃亡"
+        ]
     }
 ]
