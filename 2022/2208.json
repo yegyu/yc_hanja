@@ -414,5 +414,150 @@
             "首頭",
             "逃亡"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 6장 19-21절",
+        "voca_list": [
+            {
+                "hanja": "寶物",
+                "mean": "귀한 가치가 있는 보배로운 물건"
+            },
+            {
+                "hanja": "盜賊",
+                "mean": "도둑, 강도"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "寶",
+                "name": "보배 보",
+                "sub": "宀 (갓머리, 3획)",
+                "count": "20획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-18.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-19.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5BF6-20.svg"
+                ]
+            },
+            {
+                "hanja": "物",
+                "name": "물건 물",
+                "sub": "牜 [牛,⺧] (소우3, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-08.svg"
+                ]
+            },
+            {
+                "hanja": "盜",
+                "name": "도둑 도",
+                "sub": "皿 (그릇명, 5획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/76DC-12.svg"
+                ]
+            },
+            {
+                "hanja": "賊",
+                "name": "도둑 적",
+                "sub": "貝 [贝] (조개패, 7획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CCA-13.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "땅에 쌓은 보물(寶物)은 어떻게 됩니까?",
+                "a": "좀, 동록, 도적의 피해를 봅니다."
+            },
+            {
+                "q": "보물(寶物)을 잘 간직(看直)하려면 어디에 쌓아야 합니까?",
+                "a": "하나님 나라입니다."
+            },
+            {
+                "q": "보물(寶物)을 어떻게 하나님 나라에 쌓을 수 있습니까?",
+                "a": "하나님 뜻에 맞게 쓰면 됩니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "너희가 하나님과 재물을 겸하여 섬기지 못하느니라",
+                "where": "마태복음 6장 24절"
+            },
+            "child_afternoon": {
+                "words": "우리가 그 영광을 보니 아버지의 독생자의 영광이요 은혜와 진리가 충만하더라",
+                "where": "요한복음 1장 14절"
+            },
+            "youth_afternoon": {
+                "words": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
+                "where": "누가복음 16장 26절"
+            },
+            "adult": {
+                "words": "예수께서 가라사대 네가 온전(穩全)하고자 할찐대 가서 네 소유(所有)를 팔아 가난한 자(者)들을 주라 그리하면 하늘에서 보화(寶貨)가 네게 있으리라 그리고 와서 나를 좇으라 하시니",
+                "where": "마태복음 19장 21절",
+                "answer": "요나 3장 4,5절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 11장",
+            "寶物",
+            "盜賊",
+            "禁食",
+            "氣色",
+            "少年",
+            "恩惠",
+            "百姓",
+            "困苦",
+            "四方",
+            "各其",
+            "四面",
+            "有司",
+            "震怒",
+            "祈禱",
+            "精力",
+            "怨望"
+        ]
     }
 ]
