@@ -1,0 +1,125 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 6장 22-24절",
+        "voca_list": [
+            {
+                "hanja": "財物",
+                "mean": "돈이나 그 밖의 값나가는 모든 물건"
+            },
+            {
+                "hanja": "兼",
+                "mean": "두가지 이상을 아우르는 말"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "財",
+                "name": "재물 재",
+                "sub": "貝 [贝] (조개패, 7획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8C00/8CA1-10.svg"
+                ]
+            },
+            {
+                "hanja": "物",
+                "name": "물건 물",
+                "sub": "牜 [牛,⺧] (소우3, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7269-08.svg"
+                ]
+            },
+            {
+                "hanja": "兼",
+                "name": "겸할 겸",
+                "sub": "八 (여덟팔, 2획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/517C-10.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "본문(本文)에서 눈은 어떤 눈인가?",
+                "a": "육신의 눈이 아니고 마음의 눈입니다."
+            },
+            {
+                "q": "마음 눈이 성하면 어떻게 됩니까?",
+                "a": "하나님 말씀을 따라 살 수 있습니다."
+            },
+            {
+                "q": "우리가 하나님과 재물(財物)을 겸(兼)하여 섬길 수 있습니까?",
+                "a": "없습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "목숨을 위하여 무엇을 먹을까 무엇을 마실까 몸을 위하여 무엇을 입을까 염려하지 말라",
+                "where": "마태복음 6장 25절"
+            },
+            "child_afternoon": {
+                "words": "사람이 물과 성령으로 나지 아니하면 하나님 나라에 들어갈 수 없느니라",
+                "where": "요한복음 3장 5절",
+                "next_words":"내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라",
+                "next_where":"요한복음 5장 24절"
+            },
+            "youth_afternoon": {
+                "words": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
+                "where": "누가복음 16장 26절"
+            },
+            "adult": {
+                "words": "돈을 사랑함이 일만(一萬) 악(惡)의 뿌리가 되나니 이것을 사모(思慕)하는 자(者)들이 미혹(迷惑)을 받아 믿음에서 떠나 많은 근심으로써 자기(自己)를 찔렀도다",
+                "where": "디모데전서 6장 10절",
+                "answer": "마태복음 19장 21절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 11장",
+            "財物",
+            "兼",
+            "寶物",
+            "盜賊",
+            "少年",
+            "恩惠",
+            "百姓",
+            "困苦",
+            "四方",
+            "各其",
+            "四面",
+            "有司",
+            "震怒",
+            "祈禱",
+            "精力",
+            "怨望"
+        ]
+    }
+]
