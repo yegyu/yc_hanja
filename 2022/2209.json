@@ -88,8 +88,8 @@
             "child_afternoon": {
                 "words": "사람이 물과 성령으로 나지 아니하면 하나님 나라에 들어갈 수 없느니라",
                 "where": "요한복음 3장 5절",
-                "next_words":"내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라",
-                "next_where":"요한복음 5장 24절"
+                "next_words": "내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라",
+                "next_where": "요한복음 5장 24절"
             },
             "youth_afternoon": {
                 "words": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
@@ -120,6 +120,143 @@
             "祈禱",
             "精力",
             "怨望"
+        ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 6장 25-30절",
+        "voca_list": [
+            {
+                "hanja": "念慮",
+                "mean": "여러 가지로 헤아려 걱정하는 것. 또는 그 걱정"
+            },
+            {
+                "hanja": "衣服",
+                "mean": "인간이 입은 것(옷)"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "念",
+                "name": "생각 념(염)",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-08.svg"
+                ]
+            },
+            {
+                "hanja": "慮",
+                "name": "생각할 려(여)",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "15획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-15.svg"
+                ]
+            },
+            {
+                "hanja": "衣",
+                "name": "옷 의",
+                "sub": "衣 [衤] (옷의, 6획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-06.svg"
+                ]
+            },
+            {
+                "hanja": "服",
+                "name": "옷 복",
+                "sub": "月 [肉] (육달월, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-08.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "우리의 주(主)된 염려(念慮)는 무엇입니까?",
+                "a": "먹는 것과 입는 것입니다."
+            },
+            {
+                "q": "공중(空中)의 새와 들의 백합화(百合花)는 이것들에 대해 염려(念慮)합니까?",
+                "a": "안 합니다."
+            },
+            {
+                "q": "이런 세상(世上) 염려(念慮)를 하는 자(者)들은 어떤 자(者)들입니까?",
+                "a": "믿음이 적은 자들입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "너희는 먼저 그의 나라와 그의 의를 구하라 그리하면 이 모든 것을 너희에게 더하시리라",
+                "where": "마태복음 6장 33절"
+            },
+            "child_afternoon": {
+                "words": "사람이 물과 성령으로 나지 아니하면 하나님 나라에 들어갈 수 없느니라",
+                "where": "요한복음 3장 5절",
+                "next_words": "내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라",
+                "next_where": "요한복음 5장 24절"
+            },
+            "youth_afternoon": {
+                "words": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라",
+                "where": "누가복음 16장 26절"
+            },
+            "adult": {
+                "words": "그러나 지족(知足)하는 마음이 있으면 경건(敬虔)이 큰 이익(利益)이 되느니라",
+                "where": "디모데전서 6장 6절",
+                "answer": "디모데전서 6장 10절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 12장",
+            "念慮",
+            "衣服",
+            "財物",
+            "兼",
+            "盟誓",
+            "責任",
+            "少年",
+            "陣中",
+            "豫言",
+            "百姓",
+            "卽時",
+            "願",
+            "終日",
+            "終夜",
+            "貪慾",
+            "貌樣"
         ]
     }
 ]
