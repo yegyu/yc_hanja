@@ -260,83 +260,81 @@
         ]
     },
     {
-        "week": 2,
-        "main_words": "마태복음 6장 25-30절",
+        "week": 3,
+        "main_words": "마태복음 6장 31-34절",
         "voca_list": [
             {
-                "hanja": "念慮",
-                "mean": "여러 가지로 헤아려 걱정하는 것. 또는 그 걱정"
+                "hanja": "異邦人",
+                "mean": "다른 나라 사람(믿지 않는 사람)"
             },
             {
-                "hanja": "衣服",
-                "mean": "인간이 입은 것(옷)"
+                "hanja": "義",
+                "mean": "옳음(하나님의 뜻)"
             }
         ],
         "front_hanja_list": [
             {
-                "hanja": "念",
-                "name": "생각 념(염)",
-                "sub": "心 [忄,㣺] (마음심, 4획)",
-                "count": "8획",
+                "hanja": "異",
+                "name": "다를 이(리)",
+                "sub": "田 (밭전, 5획)",
+                "count": "11획",
                 "draw_list": [
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-01.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-02.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-03.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-04.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-05.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-06.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-07.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5FF5-08.svg"
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-11.svg"
                 ]
             },
             {
-                "hanja": "慮",
-                "name": "생각할 려(여)",
-                "sub": "心 [忄,㣺] (마음심, 4획)",
-                "count": "15획",
+                "hanja": "邦",
+                "name": "나라 방",
+                "sub": "⻏ [邑] (우부방, 3획)",
+                "count": "7획",
                 "draw_list": [
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-01.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-02.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-03.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-04.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-05.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-06.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-07.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-08.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-09.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-10.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-11.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/616E-15.svg"
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90A6-07.svg"
                 ]
             },
             {
-                "hanja": "衣",
-                "name": "옷 의",
-                "sub": "衣 [衤] (옷의, 6획)",
-                "count": "6획",
+                "hanja": "人",
+                "name": "사람 인",
+                "sub": "人 [亻] (사람인, 2획)",
+                "count": "2획",
                 "draw_list": [
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-01.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-02.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-03.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-04.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-05.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8863-06.svg"
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4EBA-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4EBA-02.svg"
                 ]
             },
             {
-                "hanja": "服",
-                "name": "옷 복",
-                "sub": "月 [肉] (육달월, 4획)",
-                "count": "8획",
+                "hanja": "義",
+                "name": "옳을 의",
+                "sub": "𦍌 [羊,𦍍,𦍋] (양양2, 6획)",
+                "count": "13획",
                 "draw_list": [
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-01.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-02.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-03.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-04.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-05.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-06.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-07.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6700/670D-08.svg"
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7FA9-13.svg"
                 ]
             }
         ],
@@ -346,7 +344,7 @@
                 "a": "안 믿는 자들입니다."
             },
             {
-                "q": "믿는 자(者)의 우선순위(優先順位) 중 가장 중요(重要)한 것은 무엇입니까?",
+                "q": "믿는 자(者)의 우선순위(優先順位) 중(中) 가장 중요(重要)한 것은 무엇입니까?",
                 "a": "먼저 그의 나라와 그의 의를 구하는 것입니다."
             },
             {
@@ -372,18 +370,18 @@
                 "where": "누가복음 18장 17절"
             },
             "adult": {
-                "words": "",
-                "where": "",
+                "words": "복음(福音)에는 하나님의 의(義)가 나타나서 믿음으로 믿음에 이르게 하나니 기록(記錄)된바 오직 의인(義人)은 믿음으로 말미암아 살리라 함과 같으니라",
+                "where": "로마서 1장 17절",
                 "answer": "디모데전서 6장 6절"
             }
         },
         "_back_hanja_list_repeat_count": 2,
         "back_hanja_list": [
             "민수기 12장",
+            "異邦人",
+            "義",
             "念慮",
             "衣服",
-            "財物",
-            "兼",
             "盟誓",
             "責任",
             "少年",
