@@ -358,8 +358,8 @@
                 "where": "마태복음 7장 1절"
             },
             "child_afternoon": {
-                "before_words":"사람이 물과 성령으로 나지 아니하면 하나님 나라에 들어갈 수 없느니라",
-                "before_where":"요한복음 3장 5절",
+                "before_words": "사람이 물과 성령으로 나지 아니하면 하나님 나라에 들어갈 수 없느니라",
+                "before_where": "요한복음 3장 5절",
                 "words": "내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라",
                 "where": "요한복음 5장 24절",
                 "next_words": "내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라",
@@ -394,6 +394,140 @@
             "終夜",
             "貪慾",
             "貌樣"
+        ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 7장 1-2절",
+        "voca_list": [
+            {
+                "hanja": "批判",
+                "mean": "남의 잘못을 지적함"
+            },
+            {
+                "hanja": "判斷",
+                "mean": "전후 사정을 종합해 자기 생각을 마음으로 정함"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "批",
+                "name": "비평할 비",
+                "sub": "扌 [手] (재방변, 3획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6279-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6279-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6279-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6279-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6279-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6279-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6279-07.svg"
+                ]
+            },
+            {
+                "hanja": "判",
+                "name": "판단할 판",
+                "sub": "刂 [刀,⺈] (선칼도방, 2획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-07.svg"
+                ]
+            },
+            {
+                "hanja": "判",
+                "name": "판단할 판",
+                "sub": "刂 [刀,⺈] (선칼도방, 2획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5224-07.svg"
+                ]
+            },
+            {
+                "hanja": "斷",
+                "name": "끊을 단",
+                "sub": "斤 (날근, 4획)",
+                "count": "18획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-17.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B7-18.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "남을 비판(批判)할 것인가요?",
+                "a": "아닙니다."
+            },
+            {
+                "q": "내가 남을 비판(批判)하면 어떻게 됩니까?",
+                "a": "남으로부터 비판받습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "어찌하여 형제의 눈속에 있는 티는 보고 네 눈속에 있는 들보는 깨닫지 못하느냐",
+                "where": "마태복음 7장 3절"
+            },
+            "child_afternoon": {
+                "before_words": "사람이 물과 성령으로 나지 아니하면 하나님 나라에 들어갈 수 없느니라",
+                "before_where": "요한복음 3장 5절",
+                "words": "내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라",
+                "where": "요한복음 5장 24절",
+                "next_words": "내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라",
+                "next_where": "요한복음 5장 24절"
+            },
+            "youth_afternoon": {
+                "words": "누구든지 하나님의 나라를 어린 아이와 같이 받들지 않는 자는 결단코 들어가지 못하리라 하시니라",
+                "where": "누가복음 18장 17절"
+            },
+            "adult": {
+                "words": "입법자(立法者)와 재판자(裁判者)는 오직 하나이시니 능(能)히 구원(救援)하기도 하시며 멸(滅)하기도 하시느니라 너는 누구관대 이웃을 판단(判斷)하느냐",
+                "where": "야고보서 4장 12절",
+                "answer": "로마서 1장 17절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 13장",
+            "批判",
+            "判斷",
+            "異邦人",
+            "義",
+            "身長",
+            "長大",
+            "大丈夫",
+            "土地",
+            "居民",
+            "實果",
+            "多少",
+            "强弱",
+            "支派",
+            "探知",
+            "族長",
+            "曠野"
         ]
     }
 ]
