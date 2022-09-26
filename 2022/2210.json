@@ -1,0 +1,144 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 7장 3-5절",
+        "voca_list": [
+            {
+                "hanja": "定罪",
+                "mean": "죄인으로 규정함"
+            },
+            {
+                "hanja": "愚昧",
+                "mean": "어리석고 사리에 어두움"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "定",
+                "name": "정할 정",
+                "sub": "宀 (갓머리, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B9A-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B9A-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B9A-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B9A-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B9A-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B9A-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B9A-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B9A-08.svg"
+                ]
+            },
+            {
+                "hanja": "罪",
+                "name": "허물 죄",
+                "sub": "罒 (그물망머리, 5획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7F00/7F6A-13.svg"
+                ]
+            },
+            {
+                "hanja": "愚",
+                "name": "어리석을 우",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611A-13.svg"
+                ]
+            },
+            {
+                "hanja": "昧",
+                "name": "어두울 매",
+                "sub": "日 (날일, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6627-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6627-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6627-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6627-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6627-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6627-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6627-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6627-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/6627-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "남의 눈의 티를 빼려고 하기 전(前)에 무엇을 해야 합니까?",
+                "a": "내 눈 속의 들보를 빼내야 합니다."
+            },
+            {
+                "q": "내 눈 속의 들보를 빼기 위해 어떻게 해야 합니까?",
+                "a": "자기 잘못을 돌아보아 회개해야 합니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "너희 진주를 돼지 앞에 던지지 말라",
+                "where": "마태복음 7장 6절"
+            },
+            "child_afternoon": {
+                "before_words": "사람이 물과 성령으로 나지 아니하면 하나님 나라에 들어갈 수 없느니라",
+                "before_where": "요한복음 3장 5절",
+                "words": "",
+                "where": "요한복음 5장 24절",
+                "next_words": "내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라",
+                "next_where": "요한복음 5장 24절"
+            },
+            "youth_afternoon": {
+                "words": "",
+                "where": "누가복음 18장 17절"
+            },
+            "adult": {
+                "words": "아무 일에든지 다툼이나 허영(虛榮)으로 하지 말고 오직 겸손(謙遜)한 마음으로 각각(各各) 자기(自己)보다 남을 낫게 여기고",
+                "where": "빌립보서 2장 3절",
+                "answer": "야고보서 4장 12절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 13장",
+            "定罪",
+            "愚昧",
+            "批判",
+            "判斷",
+            "신장",
+            "장대",
+            "大丈夫",
+            "토지",
+            "居民",
+            "實果",
+            "多少",
+            "强弱",
+            "支派",
+            "探知",
+            "族長",
+            "曠野"
+        ]
+    }
+]
