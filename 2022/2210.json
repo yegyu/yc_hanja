@@ -140,5 +140,137 @@
             "族長",
             "曠野"
         ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 7장 6절",
+        "voca_list": [
+            {
+                "hanja": "眞珠",
+                "mean": "조개에서 추출된 천연의 보석"
+            },
+            {
+                "hanja": "分別",
+                "mean": "서로 구별을 지어 가르는 것"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "眞",
+                "name": "참 진",
+                "sub": "目 (눈목, 5획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7700/771E-10.svg"
+                ]
+            },
+            {
+                "hanja": "珠",
+                "name": "구슬 주",
+                "sub": "𤣩 [玉] (구슬옥변, 4획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7300/73E0-10.svg"
+                ]
+            },
+            {
+                "hanja": "分",
+                "name": "나눌 분, 푼 푼",
+                "sub": "刀 [刂] (칼도, 2획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5206-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5206-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5206-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5206-04.svg"
+                ]
+            },
+            {
+                "hanja": "別",
+                "name": "나눌 별/다를 별",
+                "sub": "刂 [刀,⺈] (선칼도방, 2획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5225-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5225-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5225-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5225-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5225-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5225-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5200/5225-07.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "거룩한 것이나 진주(眞珠)는 무엇을 뜻합니까?",
+                "a": "복음과 같은 영적 가치가 있는 것입니다."
+            },
+            {
+                "q": "개, 돼지는 무엇을 뜻합니까?",
+                "a": "복음을 무시하고 대적하는 자들입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "구하라 그러면 너희에게 주실 것이요 찾으라 그러면 찾을 것이요",
+                "where": "마태복음 7장 7절"
+            },
+            "child_afternoon": {
+                "before_words": "진리를 알찌니 진리가 너희를 자유케 하리라",
+                "before_where": "요한복음 8장 32절",
+                "words": "진리를 알찌니 진리가 너희를 자유케 하리라",
+                "where": "요한복음 8장 32절",
+                "next_words": "내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라",
+                "next_where": "요한복음 10장 10절"
+            },
+            "youth_afternoon": {
+                "words": "인자의 온 것은 잃어버린 자를 찾아 구원하려 함이니라",
+                "where": "누가복음 19장 10절"
+            },
+            "adult": {
+                "words": "미련한 자(者)의 귀에 말하지 말지니 이는 그가 네 지혜(智慧)로운 말을 업신여길 것임이니라",
+                "where": "잠언 23장 9절",
+                "answer": "빌립보서 2장 3절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 13장",
+            "眞珠",
+            "分別",
+            "定罪",
+            "愚昧",
+            "禮物",
+            "指示",
+            "祭祀",
+            "祭物",
+            "不知中",
+            "香氣",
+            "數爻",
+            "本土",
+            "誓願",
+            "寓居",
+            "毁謗",
+            "葡萄酒"
+        ]
     }
 ]
