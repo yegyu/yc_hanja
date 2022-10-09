@@ -254,11 +254,152 @@
         },
         "_back_hanja_list_repeat_count": 1,
         "back_hanja_list": [
-            "민수기 13장",
+            "민수기 14장",
             "眞珠",
             "分別",
             "定罪",
             "愚昧",
+            "禮物",
+            "指示",
+            "祭祀",
+            "祭物",
+            "不知中",
+            "香氣",
+            "數爻",
+            "本土",
+            "誓願",
+            "寓居",
+            "毁謗",
+            "葡萄酒"
+        ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 7장 7-11절",
+        "voca_list": [
+            {
+                "hanja": "求",
+                "mean": "구하다"
+            },
+            {
+                "hanja": "門",
+                "mean": "문"
+            },
+            {
+                "hanja": "子息",
+                "mean": "아들과 딸의 총칭"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "求",
+                "name": "구할 구",
+                "sub": "氺 [水,氵] (아래물수, 5획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-07.svg"
+                ]
+            },
+            {
+                "hanja": "門",
+                "name": "문 문",
+                "sub": "門 [门] (문문, 8획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9580-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9580-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9580-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9580-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9580-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9580-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9580-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9580-08.svg"
+                ]
+            },
+            {
+                "hanja": "子",
+                "name": "아들 자",
+                "count": 3,
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-03.svg"
+                ],
+                "sub": "子 (아들자, 3획)",
+                "sub_hanja": "子",
+                "sub_name": "아들자"
+            },
+            {
+                "hanja": "息",
+                "name": "쉴 식",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6000/606F-10.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "성도(聖徒)가 적극적(積極的)으로 해야 할 일은 무엇입니까?",
+                "a": "기도하는 것입니다."
+            },
+            {
+                "q": "누구에게 구(求)해야 합니까?",
+                "a": "아버지 하나님입니다."
+            },
+            {
+                "q": "성도(聖徒)가 구(求)하면 무엇을 주십니까?",
+                "a": "좋은 것을 주십니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "그러므로 무엇이든지 남에게 대접을 받고자 하는대로 너희도 남을 대접하라 이것이 율법이요 선지자니라",
+                "where": "마태복음 7장 12절"
+            },
+            "child_afternoon": {
+                "before_words": "진리를 알찌니 진리가 너희를 자유케 하리라",
+                "before_where": "요한복음 8장 32절",
+                "words": "내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라",
+                "where": "요한복음 10장 10절",
+                "next_words": "내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라",
+                "next_where": "요한복음 10장 10절"
+            },
+            "youth_afternoon": {
+                "before_words": "인자의 온 것은 잃어버린 자를 찾아 구원하려 함이니라",
+                "before_where": "누가복음 19장 10절",
+                "words": "",
+                "where": ""
+            },
+            "adult": {
+                "words": "너희가 내 안에 거(居)하고 내 말이 너희 안에 거(居)하면 무엇이든지 원(願)하는대로 구(求)하라 그리하면 이루리라",
+                "where": "요한복음 15장 7절",
+                "answer": "잠언 23장 9절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 15장",
+            "求",
+            "門",
+            "子息",
+            "眞珠",
             "禮物",
             "指示",
             "祭祀",
