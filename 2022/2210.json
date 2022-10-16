@@ -413,5 +413,149 @@
             "毁謗",
             "葡萄酒"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 7장 12절",
+        "voca_list": [
+            {
+                "hanja": "待接",
+                "mean": "마땅한 예로써 대함"
+            },
+            {
+                "hanja": "律法",
+                "mean": "하나님의 법"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "待",
+                "name": "대접할 대/기다릴 대",
+                "sub": "彳 (두인변, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F85-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F85-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F85-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F85-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F85-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F85-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F85-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F85-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F85-09.svg"
+                ]
+            },
+            {
+                "hanja": "接",
+                "name": "대접할 접,이을 접",
+                "sub": "扌 [手] (재방변, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63A5-11.svg"
+                ]
+            },
+            {
+                "hanja": "律",
+                "name": "법 률(율)",
+                "sub": "彳 (두인변, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F8B-09.svg"
+                ]
+            },
+            {
+                "hanja": "法",
+                "name": "법 법",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-08.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "율법(律法)과 선지자(先知者)의 주요(主要) 내용(內容)은 무엇입니까?",
+                "a": "하나님과 이웃을 사랑하는 것입니다."
+            },
+            {
+                "q": "대인관계(對人關係)의 기본(基本) 가르침은 무엇입니까?",
+                "a": "내가 싫어하는 것을 타인에게 하지 말라는 것입니다."
+            },
+            {
+                "q": "예수님의 가르침은 무엇입니까?",
+                "a": "남에게 대접을 받고자 하는 대로 먼저 남을 대접하라는 것입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "좁은 문으로 들어가라 멸망으로 인도하는 문은 크고 그 길이 넓어 그리로 들어가는 자가 많고",
+                "where": "마태복음 7장 13절"
+            },
+            "child_afternoon": {
+                "before_words": "진리를 알찌니 진리가 너희를 자유케 하리라",
+                "before_where": "요한복음 8장 32절",
+                "words": "내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라",
+                "where": "요한복음 10장 10절",
+                "next_words": "내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라",
+                "next_where": "요한복음 10장 10절"
+            },
+            "youth_afternoon": {
+                "before_words": "인자의 온 것은 잃어버린 자를 찾아 구원하려 함이니라",
+                "before_where": "누가복음 19장 10절",
+                "words": "그런즉 가이사의 것은 가이사에게, 하나님의 것은 하나님께 바치라 하시니",
+                "where": "누가복음 20장 25절"
+            },
+            "adult": {
+                "words": "인자(人子)가 온것은 섬김을 받으려 함이 아니라 도리어 섬기려 하고 자기(自己) 목숨을 많은 사람의 대속물(代贖物)로 주려 함이니라",
+                "where": "마태복음 20장 28절, 마가복음 10장 45절",
+                "answer": "요한복음 15장 7절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 15장",
+            "待接",
+            "律法",
+            "求",
+            "門",
+            "孫子",
+            "黨",
+            "有名",
+            "來日",
+            "會衆",
+            "分數",
+            "各各",
+            "各其",
+            "總會",
+            "曠野",
+            "震怒",
+            "始作"
+        ]
     }
 ]
