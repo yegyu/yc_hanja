@@ -538,8 +538,147 @@
             }
         },
         "_back_hanja_list_repeat_count": 1,
+        "_comment": "원래 장은 민수기 16장",
         "back_hanja_list": [
             "민수기 15장",
+            "待接",
+            "律法",
+            "求",
+            "門",
+            "孫子",
+            "黨",
+            "有名",
+            "來日",
+            "會衆",
+            "分數",
+            "各各",
+            "各其",
+            "總會",
+            "曠野",
+            "震怒",
+            "始作"
+        ]
+    },
+    {
+        "week": 5,
+        "main_words": "마태복음 7장 13-14절",
+        "voca_list": [
+            {
+                "hanja": "滅亡",
+                "mean": "망하여 없어짐"
+            },
+            {
+                "hanja": "狹窄",
+                "mean": "매우 좁음"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "滅",
+                "name": "꺼질 멸/멸할 멸",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6E00/6EC5-13.svg"
+                ]
+            },
+            {
+                "hanja": "亡",
+                "name": "망할 망, 없을 무",
+                "sub": "亠 (돼지해머리, 2획)",
+                "count": "3획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4EA1-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4EA1-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4EA1-03.svg"
+                ]
+            },
+            {
+                "hanja": "狹",
+                "name": "좁을 협",
+                "sub": "犭 [犬] (개사슴록변, 3획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/72F9-10.svg"
+                ]
+            },
+            {
+                "hanja": "窄",
+                "name": "좁을 착",
+                "sub": "穴 (구멍혈, 5획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A84-10.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "넓은 문(門)은 무엇입니까?",
+                "a": "멸망으로 인도하는 사망의 문입니다."
+            },
+            {
+                "q": "좁은 문(門)은 무엇입니까?",
+                "a": "생명으로 인도하는 구원의 문입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "거짓 선지자들을 삼가라 양의 옷을 입고 너희에게 나아오나 속에는 노략질하는 이리라",
+                "where": "마태복음 7장 15절"
+            },
+            "child_afternoon": {
+                "before_words": "진리를 알찌니 진리가 너희를 자유케 하리라",
+                "before_where": "요한복음 8장 32절",
+                "words": "내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라",
+                "where": "요한복음 10장 10절",
+                "next_words": "내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라",
+                "next_where": "요한복음 10장 10절"
+            },
+            "youth_afternoon": {
+                "before_words": "인자의 온 것은 잃어버린 자를 찾아 구원하려 함이니라",
+                "before_where": "누가복음 19장 10절",
+                "words": "그런즉 가이사의 것은 가이사에게, 하나님의 것은 하나님께 바치라 하시니",
+                "where": "누가복음 20장 25절"
+            },
+            "adult": {
+                "words": "어떤 길은 사람의 보기에 바르나 필경(畢竟)은 사망(死亡)의 길이니라",
+                "where": "잠언 14장 12절",
+                "answer": "마태복음 20장 28절, 마가복음 10장 45절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 16장",
             "待接",
             "律法",
             "求",
