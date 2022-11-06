@@ -122,5 +122,135 @@
             "擔當",
             "十一條"
         ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 7장 21-23절",
+        "voca_list": [
+            {
+                "hanja": "主",
+                "mean": "대상,물건 등을 소유한 존재(하나님, 예수 그리스도)"
+            },
+            {
+                "hanja": "行",
+                "mean": "행하다, 다니다"
+            },
+            {
+                "hanja": "不法",
+                "mean": "법에 어긋남"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "主",
+                "name": "주인 주",
+                "sub": "丶 (점주, 1획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E3B-05.svg"
+                ]
+            },
+            {
+                "hanja": "行",
+                "name": "다닐 행,행할 행",
+                "sub": "行 (다닐행, 6획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/884C-06.svg"
+                ]
+            },
+            {
+                "hanja": "不",
+                "name": "아닐 부, 아닐 불",
+                "sub": "一 (한일, 1획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E0D-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E0D-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E0D-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4E0D-04.svg"
+                ]
+            },
+            {
+                "hanja": "法",
+                "name": "법 법",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6CD5-08.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "아버지의 뜻대로 행(行)한다는 것이 무슨 뜻입니까?",
+                "a": "행함으로 믿음의 열매를 맺는 것입니다."
+            },
+            {
+                "q": "주(主)의 이름으로 많은 능력(能力)을 행(行)해도 천국(天國) 가지 못하는 자는 어떤 자(者)입니까?",
+                "a": "하나님의 뜻대로 행치 않는 자입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "그러므로 누구든지 나의 이 말을 듣고 행하는 자는 그 집을 반석 위에 지은 지혜로운 사람 같으리니",
+                "where": "마태복음 7장 24절"
+            },
+            "child_afternoon": {
+                "before_words": "자기 생명을 사랑하는 자는 잃어버릴 것이요 이 세상에서 자기 생명을 미워하는 자는 영생하도록 보존하리라",
+                "before_where": "요한복음 12장 25절",
+                "words": "자기 생명을 사랑하는 자는 잃어버릴 것이요 이 세상에서 자기 생명을 미워하는 자는 영생하도록 보존하리라",
+                "where": "요한복음 12장 25절",
+                "next_words": "내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라",
+                "next_where": "요한복음 14장 6절"
+            },
+            "youth_afternoon": {
+                "before_words": "",
+                "before_where": "누가복음 19장 10절",
+                "words": "",
+                "where": "누가복음 20장 25절"
+            },
+            "adult": {
+                "words": "네가 보거니와 믿음이 그의 행(行)함과 함께 일하고 행(行)함으로 믿음이 온전(穩全)케 되었느니라",
+                "where": "야고보서 2장 22절",
+                "answer": "고린도후서 11장 15절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 18장",
+            "主",
+            "不法",
+            "羊",
+            "擄掠",
+            "合同",
+            "代贖",
+            "取",
+            "죄",
+            "생물",
+            "외인",
+            "部分",
+            "永永",
+            "禮物",
+            "膳物",
+            "擔當",
+            "十一條"
+        ]
     }
 ]
