@@ -252,5 +252,144 @@
             "擔當",
             "十一條"
         ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 7장 24-27절",
+        "voca_list": [
+            {
+                "hanja": "秋收感謝",
+                "mean": "한 해의 수확을 끝내고 지금까지 베풀어 주신 하나님의 은혜에 감사드리는 절기"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "秋",
+                "name": "가을 추",
+                "sub": "禾 (벼화, 5획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-09.svg"
+                ]
+            },
+            {
+                "hanja": "收",
+                "name": "거둘 수",
+                "sub": "攵 [攴] (등글월문2, 4획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-06.svg"
+                ]
+            },
+            {
+                "hanja": "感",
+                "name": "느낄 감",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/611F-13.svg"
+                ]
+            },
+            {
+                "hanja": "謝",
+                "name": "사례할 사",
+                "sub": "言 [訁,讠] (말씀언, 7획)",
+                "count": "17획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-15.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-16.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B1D-17.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "말씀을 듣고 행(行)하는 자(者)는 어떤 자(者)입니까?",
+                "a": "반석 위에 집을 지은자입니다."
+            },
+            {
+                "q": "말씀을 듣고 행(行)치 않는 자(者)는 어떤 자(者)입니까?",
+                "a": "모래 위에 집을 지은 자입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "무리들이 그 가르치심에 놀래니",
+                "where": "마태복음 7장 28절"
+            },
+            "child_afternoon": {
+                "before_words": "자기 생명을 사랑하는 자는 잃어버릴 것이요 이 세상에서 자기 생명을 미워하는 자는 영생하도록 보존하리라",
+                "before_where": "요한복음 12장 25절",
+                "words": "내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라",
+                "where": "요한복음 14장 6절",
+                "next_words": "내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라",
+                "next_where": "요한복음 14장 6절"
+            },
+            "youth_afternoon": {
+                "before_words": "너희의 인내로 너희 영혼을 얻으리라",
+                "before_where": "누가복음 21장 19절",
+                "words": "",
+                "where": ""
+            },
+            "adult": {
+                "words": "기록(記錄)된바 보라 내가 부딪히는 돌과 거치는 반석(磐石)을 시온에 두노니 저를 믿는 자(者)는 부끄러움을 당(當)치 아니하리라 함과 같으니라",
+                "where": "로마서 9장 33절",
+                "answer": "야고보서 2장 22절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 19장",
+            "秋收感謝",
+            "主",
+            "不法",
+            "擄掠",
+            "寓居",
+            "永遠",
+            "目前",
+            "不淨",
+            "命",
+            "第",
+            "者",
+            "陣",
+            "穩全",
+            "帳幕",
+            "律例",
+            "祭司長"
+            
+        ]
     }
 ]
