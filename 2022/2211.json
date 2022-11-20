@@ -389,7 +389,126 @@
             "帳幕",
             "律例",
             "祭司長"
+        ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 7장 28절 - 8장 1절",
+        "voca_list": [
+            {
+                "hanja": "書記官",
+                "mean": "율법을 복사(필사)하거나 연구하여 가르치는 전문 율법학자"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "書",
+                "name": "글 서",
+                "sub": "曰 (가로왈, 4획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6600/66F8-10.svg"
+                ]
+            },
+            {
+                "hanja": "記",
+                "name": "기록할 기",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A18-10.svg"
+                ]
+            },
+            {
+                "hanja": "官",
+                "name": "벼슬 관",
+                "sub": "宀 (갓머리, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B98-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B98-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B98-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B98-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B98-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B98-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B98-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B98-08.svg"
+                ]
+            }
             
+        ],
+        "questions": [
+            {
+                "q": "예수님의 가르치심은 어떠하였습니까?",
+                "a": "권세 있는 자와 같습니다."
+            },
+            {
+                "q": "예수님 가르침의 특성(特性)은 무엇입니까?",
+                "a": "은혜와 구원을 가르치십니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "주여 원하시면 저를 깨끗케 하실 수 있나이다",
+                "where": "마태복음 8장 2절"
+            },
+            "child_afternoon": {
+                "before_words": "자기 생명을 사랑하는 자는 잃어버릴 것이요 이 세상에서 자기 생명을 미워하는 자는 영생하도록 보존하리라",
+                "before_where": "요한복음 12장 25절",
+                "words": "내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라",
+                "where": "요한복음 14장 6절",
+                "next_words": "내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라",
+                "next_where": "요한복음 14장 6절"
+            },
+            "youth_afternoon": {
+                "before_words": "너희의 인내로 너희 영혼을 얻으리라",
+                "before_where": "누가복음 21장 19절",
+                "words": "천지는 없어지겠으나 내 말은 없어지지 아니하리라",
+                "where": "누가복음 21장 33절"
+            },
+            "adult": {
+                "words": "내가 너희에게 이르는 말이 스스로 하는 것이 아니라 아버지께서 내 안에 계셔 그의 일을 하시는 것이라",
+                "where": "요한복음 14장 10절",
+                "answer": "로마서 9장 33절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 19장",
+            "書記官",
+            "秋收感謝",
+            "主",
+            "不法",
+            "寓居",
+            "永遠",
+            "目前",
+            "不淨",
+            "命",
+            "第",
+            "者",
+            "陣",
+            "穩全",
+            "帳幕",
+            "律例",
+            "祭司長"
         ]
     }
 ]
