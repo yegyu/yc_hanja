@@ -1,0 +1,139 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 8장 1-4절",
+        "voca_list": [
+            {
+                "hanja": "病",
+                "mean": "병"
+            },
+            {
+                "hanja": "祭司長",
+                "mean": "하나님께 제사 드리기 위해 특별히 구별된 사람이다."
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "病",
+                "name": "병 병",
+                "sub": "疒 (병질엄, 5획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C5-10.svg"
+                ]
+            },
+            {
+                "hanja": "祭",
+                "name": "제사 제",
+                "sub": "示 [礻] (보일시, 5획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/796D-11.svg"
+                ]
+            },
+            {
+                "hanja": "司",
+                "name": "맡을 사",
+                "sub": "口 (입구, 3획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5300/53F8-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5300/53F8-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5300/53F8-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5300/53F8-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5300/53F8-05.svg"
+                ]
+            },
+            {
+                "hanja": "長",
+                "name": "길 장/어른 장",
+                "sub": "長 [镸,长] (길장, 8획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-08.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "문둥병자(病者)는 예수님에게 무엇을 요청(要請)했습니까?",
+                "a": "깨끗게 해달라고 했습니다. "
+            },
+            {
+                "q": "문둥병자(病者)는 깨끗게 해 주시리라고 믿었습니까? ",
+                "a": "네, 믿었습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "다만 말씀으로만 하옵소서",
+                "where": "마태복음 8장 8절"
+            },
+            "child_afternoon": {
+                "before_words": "",
+                "before_where": "",
+                "words": "",
+                "where": "",
+                "next_words": "",
+                "next_where": ""
+            },
+            "youth_afternoon": {
+                "before_words": "",
+                "before_where": "",
+                "words": "",
+                "where": ""
+            },
+            "adult": {
+                "words": "문둥 환자(患者)는 옷을 찢고 머리를 풀며 윗입술을 가리우고 외치기를 부정(不淨)하다 부정(不淨)하다 할 것이요",
+                "where": "레위기 13장 45절",
+                "answer": "요한복음 14장 10절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 20-21장",
+            "祭司長",
+            "病",
+            "書記官",
+            "秋收感謝",
+            "山",
+            "王",
+            "目前",
+            "當身",
+            "南方",
+            "城邑",
+            "進行",
+            "通過",
+            "詩人",
+            "磐石",
+            "總會",
+            "列祖"
+        ]
+    }
+]
