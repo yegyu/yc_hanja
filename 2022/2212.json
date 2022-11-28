@@ -9,7 +9,7 @@
             },
             {
                 "hanja": "祭司長",
-                "mean": "하나님께 제사 드리기 위해 특별히 구별된 사람이다."
+                "mean": "하나님께 제사 드리기 위해 특별히 구별된 사람"
             }
         ],
         "front_hanja_list": [
@@ -96,12 +96,12 @@
                 "where": "마태복음 8장 8절"
             },
             "child_afternoon": {
-                "before_words": "",
-                "before_where": "",
-                "words": "",
-                "where": "",
-                "next_words": "",
-                "next_where": ""
+                "before_words": "세상에서는 너희가 환난을 당하나 담대하라 내가 세상을 이기었노라 하시니라",
+                "before_where": "요한복음 16장 33절",
+                "words": "세상에서는 너희가 환난을 당하나 담대하라 내가 세상을 이기었노라 하시니라",
+                "where": "요한복음 16장 33절",
+                "next_words": "영생은 곧 유일하신 참 하나님과 그의 보내신 자 예수 그리스도를 아는 것이니이다",
+                "next_where": "요한복음 17장 3절"
             },
             "youth_afternoon": {
                 "before_words": "",
