@@ -135,5 +135,114 @@
             "總會",
             "列祖"
         ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 8장 5-13절",
+        "voca_list": [
+            {
+                "hanja": "百夫長",
+                "mean": "구약의 이스라엘 재판관 또는 신약의 로마 군대 조직에서 100명의 군대를 거느린 지휘관"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "百",
+                "name": "일백 백",
+                "sub": "白 (흰백, 5획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7600/767E-06.svg"
+                ]
+            },
+            {
+                "hanja": "夫",
+                "name": "지아비 부",
+                "sub": "大 (큰대, 3획)",
+                "count": "4획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/592B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/592B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/592B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/592B-04.svg"
+                ]
+            },
+            {
+                "hanja": "長",
+                "name": "길 장/어른 장",
+                "sub": "長 [镸,长] (길장, 8획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9500/9577-08.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "병(病)든 하인(下人)을 위해 백부장(百夫長)은 예수님께 어떻게 요청(要請)했습니까?",
+                "a": "오시지 말고 말씀으로만 명해 달라고 했습니다."
+            },
+            {
+                "q": "이에 대한 예수님의 반응(反應)은 어떠했습니까?",
+                "a": "이만한 믿음을 이스라엘 중에서 만나보지 못하였다고 했습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "그의 손을 만지시니 열병이 떠나가고",
+                "where": "마태복음 8장 15절"
+            },
+            "child_afternoon": {
+                "before_words": "세상에서는 너희가 환난을 당하나 담대하라 내가 세상을 이기었노라 하시니라",
+                "before_where": "요한복음 16장 33절",
+                "words": "세상에서는 너희가 환난을 당하나 담대하라 내가 세상을 이기었노라 하시니라",
+                "where": "요한복음 16장 33절",
+                "next_words": "영생은 곧 유일하신 참 하나님과 그의 보내신 자 예수 그리스도를 아는 것이니이다",
+                "next_where": "요한복음 17장 3절"
+            },
+            "youth_afternoon": {
+                "before_words": "내 원대로 마옵시고 아버지의 원대로 되기를 원하나이다",
+                "before_where": "누가복음 22장 42절",
+                "words": "내 원대로 마옵시고 아버지의 원대로 되기를 원하나이다",
+                "where": "누가복음 22장 42절"
+            },
+            "adult": {
+                "words": "진실(眞實)로 그의 구원(救援)이 그를 경외(敬畏)하는 자(者)에게 가까우니 이에 영광(榮光)이 우리 땅에 거(居)하리이다",
+                "where": "시편 85장 9절",
+                "answer": "레위기 13장 45절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 20-21장",
+            "百夫長",
+            "祭司長",
+            "病",
+            "書記官",
+            "山",
+            "王",
+            "目前",
+            "當身",
+            "南方",
+            "城邑",
+            "進行",
+            "通過",
+            "詩人",
+            "磐石",
+            "總會",
+            "列祖"
+        ]
     }
 ]
