@@ -390,5 +390,156 @@
             "禮物",
             "震怒"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 8장 18-22절",
+        "voca_list": [
+            {
+                "hanja": "聖誕",
+                "mean": "예수님의 탄생"
+            },
+            {
+                "hanja": "讚頌",
+                "mean": "하나님께 영광을 돌리기 위해 부르는 거룩한 노래"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "聖",
+                "name": "거룩할 성",
+                "sub": "耳 (귀이, 6획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8056-13.svg"
+                ]
+            },
+            {
+                "hanja": "誕",
+                "name": "낳을 탄",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8A00/8A95-14.svg"
+                ]
+            },
+            {
+                "hanja": "讚",
+                "name": "기릴 찬",
+                "sub": "言 [讠] (말씀언, 7획)",
+                "count": "26획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-20.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-21.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-24.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-25.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B9A-26.svg"
+                ]
+            },
+            {
+                "hanja": "頌",
+                "name": "칭송할 송/기릴 송",
+                "sub": "頁 [页] (머리혈, 9획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/980C-13.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님은 어디든지 따르려는 서기관(書記官)에게 뭐라고 하셨습니까?",
+                "a": "인자는 머리 둘 곳이 없다고 하셨습니다."
+            },
+            {
+                "q": "먼저 부모(父母)를 장사(葬事)하겠다는 자(者)에게 하신 말씀은 무엇입니까?",
+                "a": "세상 일보다 먼저 주님을 따르라는 것입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "어찌하여 무서워하느냐 믿음이 작은 자들아",
+                "where": "마태복음 8장 26절"
+            },
+            "child_afternoon": {
+                "before_words": "세상에서는 너희가 환난을 당하나 담대하라 내가 세상을 이기었노라 하시니라",
+                "before_where": "요한복음 16장 33절",
+                "words": "영생은 곧 유일하신 참 하나님과 그의 보내신 자 예수 그리스도를 아는 것이니이다",
+                "where": "요한복음 17장 3절",
+                "next_words": "영생은 곧 유일하신 참 하나님과 그의 보내신 자 예수 그리스도를 아는 것이니이다",
+                "next_where": "요한복음 17장 3절"
+            },
+            "youth_afternoon": {
+                "before_words": "내 원대로 마옵시고 아버지의 원대로 되기를 원하나이다",
+                "before_where": "누가복음 22장 42절",
+                "words": "예수께서 이르시되 내가 진실로 네게 이르노니 오늘 네가 나와 함께 낙원에 있으리라 하시니라",
+                "where": "누가복음 23장 43절"
+            },
+            "adult": {
+                "words": "또 자기(自己) 십자가(十字架)를 지고 나를 좇지 않는 자(者)도 내게 합당(合當)치 아니하니라",
+                "where": "마태복음 10장 38절",
+                "answer": "출애굽기 15장 26절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 22장",
+            "聖誕",
+            "讚頌",
+            "熱病",
+            "軟弱",
+            "평지",
+            "百姓",
+            "子孫",
+            "民族",
+            "長老",
+            "使者",
+            "貴族",
+            "범죄",
+            "拒絶",
+            "詛呪",
+            "禮物",
+            "震怒"
+        ]
     }
 ]
