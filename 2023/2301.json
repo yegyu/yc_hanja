@@ -1,0 +1,151 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 8장 23-27절",
+        "voca_list": [
+            {
+                "hanja": "救援",
+                "mean": "죄, 어려움 등 에서 건짐을 받는 것"
+            },
+            {
+                "hanja": "順從",
+                "mean": "순순히 따름"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "救",
+                "name": "건질 구",
+                "sub": "攵 [攴] (등글월문, 4획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6551-11.svg"
+                ]
+            },
+            {
+                "hanja": "援",
+                "name": "도울 원",
+                "sub": "扌 [手] (재방변, 3획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6300/63F4-12.svg"
+                ]
+            },
+            {
+                "hanja": "順",
+                "name": "순할 순",
+                "sub": "頁 [页] (머리혈, 9획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/9806-12.svg"
+                ]
+            },
+            {
+                "hanja": "從",
+                "name": "좇을 종",
+                "sub": "彳 (두인변, 3획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5F00/5F9E-11.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님이 제자(弟子)들을 왜 꾸중하셨습니까?",
+                "a": "믿음이 적기 때문입니다."
+            },
+            {
+                "q": "예수님은 바다와 파도(波濤)에게 뭐라고 하셨습니까?",
+                "a": "잔잔하라고 하셨습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "하나님의 아들이여 우리와 당신과 무슨 상관이 있나이까",
+                "where": "마태복음 8장 29절"
+            },
+            "child_afternoon": {
+                "before_words": "너희에게 평강이 있을찌어다 아버지께서 나를 보내신 것 같이 나도 너희를 보내노라",
+                "before_where": "요한복음 20장 21절",
+                "words": "너희에게 평강이 있을찌어다 아버지께서 나를 보내신 것 같이 나도 너희를 보내노라",
+                "where": "요한복음 20장 21절",
+                "next_words": "오직 성령이 너희에게 임하시면 너희가 권능을 받고 예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 증인이 되리라 하시니라",
+                "next_where": "사도행정 1장 8절"
+            },
+            "youth_afternoon": {
+                "before_words": "",
+                "before_where": "누가복음 22장 42절",
+                "words": "",
+                "where": "누가복음 23장 43절"
+            },
+            "adult": {
+                "words": "환난(患難) 날에 나를 부르라 내가 너를 건지리니 네가 나를 영화(榮華)롭게 하리로다",
+                "where": "시편 50장 15절",
+                "answer": "마태복음 10장 38절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 23장",
+            "救援",
+            "順從",
+            "聖誕",
+            "讚頌",
+            "後",
+            "羊",
+            "告",
+            "臨",
+            "當身",
+            "東便",
+            "列邦",
+            "義人",
+            "怨讐",
+            "祝福",
+            "詛呪",
+            "悖逆"
+        ]
+    }
+]
