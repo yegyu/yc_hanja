@@ -120,8 +120,8 @@
                 "before_where": "누가복음 24장 34절",
                 "words": "주께서 과연 살아나시고 시몬에게 나타나셨다 하는지라",
                 "where": "누가복음 24장 34절",
-                "next_words":"내가 보고 그가 하나님의 아들이심을 증거하였노라 하니라",
-                "next_where":"요한복음 1장 34절"
+                "next_words": "내가 보고 그가 하나님의 아들이심을 증거하였노라 하니라",
+                "next_where": "요한복음 1장 34절"
             },
             "adult": {
                 "words": "환난(患難) 날에 나를 부르라 내가 너를 건지리니 네가 나를 영화(榮華)롭게 하리로다",
@@ -138,6 +138,149 @@
             "讚頌",
             "後",
             "羊",
+            "告",
+            "臨",
+            "當身",
+            "東便",
+            "列邦",
+            "義人",
+            "怨讐",
+            "祝福",
+            "詛呪",
+            "悖逆"
+        ]
+    },
+    {
+        "week": 2,
+        "main_words": "마태복음 8장 28-34절",
+        "voca_list": [
+            {
+                "hanja": "鬼神",
+                "mean": "마귀 아래 있는 타락한 천사들"
+            },
+            {
+                "hanja": "懇求",
+                "mean": "간절히 바람"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "鬼",
+                "name": "귀신 귀",
+                "sub": "鬼 [⻤] (귀신귀, 10획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-10.svg"
+                ]
+            },
+            {
+                "hanja": "神",
+                "name": "귀신 신",
+                "sub": "礻 [示,𥘅] (보일시변, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-09.svg"
+                ]
+            },
+            {
+                "hanja": "懇",
+                "name": "간절할 간",
+                "sub": "心 [忄,㣺] (마음심, 4획)",
+                "count": "17획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6100/61C7-17.svg"
+                ]
+            },
+            {
+                "hanja": "求",
+                "name": "구할 구",
+                "sub": "氺 [水,氵] (아래물수, 5획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6C00/6C42-07.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님은 귀신(鬼神)이 돼지떼에 들어가기를 간청(懇請)하자 뭐라고 하셨습니까?",
+                "a": "가라 하셨습니다."
+            },
+            {
+                "q": "예수님에 대해 지역(地域) 사람들은 어떻게 했습니까?",
+                "a": "떠나시기를 간구했습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "소자야 안심하라 네 죄 사함을 받았느니라",
+                "where": "마태복음 9장 2절"
+            },
+            "child_afternoon": {
+                "before_words": "너희에게 평강이 있을찌어다 아버지께서 나를 보내신 것 같이 나도 너희를 보내노라",
+                "before_where": "요한복음 20장 21절",
+                "words": "너희에게 평강이 있을찌어다 아버지께서 나를 보내신 것 같이 나도 너희를 보내노라",
+                "where": "요한복음 20장 21절",
+                "next_words": "오직 성령이 너희에게 임하시면 너희가 권능을 받고 예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 증인이 되리라 하시니라",
+                "next_where": "사도행정 1장 8절"
+            },
+            "youth_afternoon": {
+                "before_words": "",
+                "before_where": "누가복음 24장 34절",
+                "words": "",
+                "where": "누가복음 24장 34절",
+                "next_words": "",
+                "next_where": "요한복음 1장 34절"
+            },
+            "adult": {
+                "words": "네가 하나님은 한 분이신 줄을 믿느냐 잘하는도다 귀신(鬼神)들도 믿고 떠느니라",
+                "where": "야고보서 2장 19절",
+                "answer": "시편 50장 15절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 23장",
+            "鬼神",
+            "懇求",
+            "救援",
+            "順從",
+            "後",
+            "양",
             "告",
             "臨",
             "當身",
