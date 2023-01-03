@@ -259,12 +259,13 @@
                 "next_where": "사도행정 1장 8절"
             },
             "youth_afternoon": {
-                "before_words": "",
-                "before_where": "누가복음 24장 34절",
-                "words": "",
-                "where": "누가복음 24장 34절",
-                "next_words": "",
-                "next_where": "요한복음 1장 34절"
+                "before_words": "여기 계시지 않고 살아나셨느니라",
+                "before_where": "누가복음 24장 6절",
+                "words": "여기 계시지 않고 살아나셨느니라",
+                "where": "누가복음 24장 6절",
+                "next_words": "영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
+                "next_where": "누가복음 24장 39절",
+                "has_total_recap":true
             },
             "adult": {
                 "words": "네가 하나님은 한 분이신 줄을 믿느냐 잘하는도다 귀신(鬼神)들도 믿고 떠느니라",
