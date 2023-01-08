@@ -265,7 +265,7 @@
                 "where": "누가복음 24장 6절",
                 "next_words": "영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
                 "next_where": "누가복음 24장 39절",
-                "has_total_recap":true
+                "has_total_recap": true
             },
             "adult": {
                 "words": "네가 하나님은 한 분이신 줄을 믿느냐 잘하는도다 귀신(鬼神)들도 믿고 떠느니라",
@@ -292,6 +292,135 @@
             "祝福",
             "詛呪",
             "悖逆"
+        ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 9장 1-8절",
+        "voca_list": [
+            {
+                "hanja": "小子",
+                "mean": "작은 사람 (연약한 자, 어린 자 등)"
+            },
+            {
+                "hanja": "人子",
+                "mean": "사람의 아들 (예수님의 경우 인성이 드러나는 호칭)"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "小",
+                "name": "작을 소",
+                "sub": "小 (작을소, 3획)",
+                "count": "3획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0F-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5C00/5C0F-03.svg"
+                ]
+            },
+            {
+                "hanja": "者",
+                "name": "사람 자",
+                "sub": "耂 [老] (늙을로엄, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-09.svg"
+                ]
+            },
+            {
+                "hanja": "人",
+                "name": "사람 인",
+                "sub": "人 [亻] (사람인, 2획)",
+                "count": "2획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4EBA-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/4E00/4EBA-02.svg"
+                ]
+            },
+            {
+                "hanja": "者",
+                "name": "사람 자",
+                "sub": "耂 [老] (늙을로엄, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님이 중풍병자(中風病者)와 그를 데리고 온 자(者)들을 어떻게 대하셨습니까?",
+                "a": "믿음이 있다고 칭찬하셨습니다."
+            },
+            {
+                "q": "예수님께서는 왜 중풍병(中風病)을 고치는 것보다 죄(罪)를 먼저 사(赦)하셨습니까?",
+                "a": "죄 사함이 더 중요하기 때문입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "나를 좇으라 하시니 일어나 좇으니라",
+                "where": "마태복음 9장 9절"
+            },
+            "child_afternoon": {
+                "before_words": "너희에게 평강이 있을찌어다 아버지께서 나를 보내신 것 같이 나도 너희를 보내노라",
+                "before_where": "요한복음 20장 21절",
+                "words": "오직 성령이 너희에게 임하시면 너희가 권능을 받고 예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 증인이 되리라 하시니라",
+                "where": "사도행전 1장 8절",
+                "next_words": "오직 성령이 너희에게 임하시면 너희가 권능을 받고 예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 증인이 되리라 하시니라",
+                "next_where": "사도행정 1장 8절"
+            },
+            "youth_afternoon": {
+                "before_words": "여기 계시지 않고 살아나셨느니라",
+                "before_where": "누가복음 24장 6절",
+                "words": "영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
+                "where": "누가복음 24장 39절",
+                "next_words": "영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
+                "next_where": "누가복음 24장 39절",
+                "has_total_recap": true
+            },
+            "adult": {
+                "words": "그 아들 안에서 우리가 구속(救贖) 곧 죄(罪) 사(赦)함을 얻었도다",
+                "where": "골로새서 1장 14절",
+                "answer": "야고보서 2장 19절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 24장",
+            "小子",
+            "人子",
+            "鬼神",
+            "懇求",
+            "王",
+            "江",
+            "怒",
+            "異像",
+            "銀金",
+            "任意",
+            "行動",
+            "百姓",
+            "族屬",
+            "虐待",
+            "勇敢",
+            "全能者"
         ]
     }
 ]
