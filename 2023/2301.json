@@ -320,21 +320,17 @@
                 ]
             },
             {
-                "hanja": "者",
-                "name": "사람 자",
-                "sub": "耂 [老] (늙을로엄, 4획)",
-                "count": "9획",
+                "hanja": "子",
+                "name": "아들 자",
+                "count": 3,
                 "draw_list": [
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-01.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-02.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-03.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-04.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-05.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-06.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-07.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-08.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-09.svg"
-                ]
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-03.svg"
+                ],
+                "sub": "子 (아들자, 3획)",
+                "sub_hanja": "子",
+                "sub_name": "아들자"
             },
             {
                 "hanja": "人",
@@ -347,21 +343,17 @@
                 ]
             },
             {
-                "hanja": "者",
-                "name": "사람 자",
-                "sub": "耂 [老] (늙을로엄, 4획)",
-                "count": "9획",
+                "hanja": "子",
+                "name": "아들 자",
+                "count": 3,
                 "draw_list": [
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-01.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-02.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-03.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-04.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-05.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-06.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-07.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-08.svg",
-                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/FA00/FA5B-09.svg"
-                ]
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-03.svg"
+                ],
+                "sub": "子 (아들자, 3획)",
+                "sub_hanja": "子",
+                "sub_name": "아들자"
             }
         ],
         "questions": [
