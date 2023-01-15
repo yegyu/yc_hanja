@@ -414,5 +414,140 @@
             "勇敢",
             "全能者"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 9장 9-13절",
+        "voca_list": [
+            {
+                "hanja": "稅吏",
+                "mean": "세금을 받는 관리"
+            },
+            {
+                "hanja": "先生",
+                "mean": "스승, 가르치는 사람 등"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "稅",
+                "name": "세금 세",
+                "sub": "禾 (벼화, 5획)",
+                "count": "12획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7A00/7A05-12.svg"
+                ]
+            },
+            {
+                "hanja": "吏",
+                "name": "벼슬아치 리(이)/관리 리(이)",
+                "sub": "口 (입구, 3획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540F-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540F-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540F-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540F-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5400/540F-06.svg"
+                ]
+            },
+            {
+                "hanja": "先",
+                "name": "먼저 선",
+                "sub": "儿 (어진사람인발, 2획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5148-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5148-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5148-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5148-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5148-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5100/5148-06.svg"
+                ]
+            },
+            {
+                "hanja": "生",
+                "name": "날 생",
+                "sub": "生 (날생, 5획)",
+                "count": "5획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/751F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/751F-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/751F-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/751F-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/751F-05.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님께서는 누구를 제자(弟子)로 부르셨습니까?",
+                "a": "세리 마태입니다."
+            },
+            {
+                "q": "예수님은 의인(義人)과 죄인(罪人) 중(中) 누구를 부르러 오셨습니까?",
+                "a": "죄인입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "어찌하여 당신의 제자들은 금식하지 아니하나이까",
+                "where": "마태복음 9장 14절"
+            },
+            "child_afternoon": {
+                "before_words": "너희에게 평강이 있을찌어다 아버지께서 나를 보내신 것 같이 나도 너희를 보내노라",
+                "before_where": "요한복음 20장 21절",
+                "words": "오직 성령이 너희에게 임하시면 너희가 권능을 받고 예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 증인이 되리라 하시니라",
+                "where": "사도행전 1장 8절",
+                "next_words": "오직 성령이 너희에게 임하시면 너희가 권능을 받고 예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 증인이 되리라 하시니라",
+                "next_where": "사도행정 1장 8절"
+            },
+            "youth_afternoon": {
+                "before_words": "여기 계시지 않고 살아나셨느니라",
+                "before_where": "누가복음 24장 6절",
+                "words": "영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
+                "where": "누가복음 24장 39절",
+                "next_words": "영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
+                "next_where": "누가복음 24장 39절",
+                "has_total_recap": true
+            },
+            "adult": {
+                "words": "인자(人子)가 온것은 섬김을 받으려 함이 아니라 도리어 섬기려 하고 자기(自己) 목숨을 많은 사람의 대속물(代贖物)로 주려 함이니라",
+                "where": "마태복음 20장 28절, 마가복음 10장 45절",
+                "answer": "골로새서 1장 14절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 24장",
+            "稅吏",
+            "先生",
+            "小子",
+            "人子",
+            "王",
+            "江",
+            "怒",
+            "異像",
+            "銀金",
+            "任意",
+            "行動",
+            "百姓",
+            "族屬",
+            "虐待",
+            "勇敢",
+            "全能者"
+        ]
     }
 ]
