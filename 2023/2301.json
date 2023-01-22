@@ -521,7 +521,7 @@
                 "where": "누가복음 24장 39절",
                 "next_words": "영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
                 "next_where": "누가복음 24장 39절",
-                "has_total_recap": true
+                "has_total_recap": 5
             },
             "adult": {
                 "words": "인자(人子)가 온것은 섬김을 받으려 함이 아니라 도리어 섬기려 하고 자기(自己) 목숨을 많은 사람의 대속물(代贖物)로 주려 함이니라",
@@ -548,6 +548,152 @@
             "虐待",
             "勇敢",
             "全能者"
+        ]
+    },
+    {
+        "week": 5,
+        "main_words": "마태복음 9장 14-17절",
+        "voca_list": [
+            {
+                "hanja": "禁食",
+                "mean": "음식을 먹지 않음"
+            },
+            {
+                "hanja": "新郞",
+                "mean": "갓 결혼한 남자"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "禁",
+                "name": "금할 금",
+                "sub": "示 [礻,𥘅] (보일시, 5획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/7981-13.svg"
+                ]
+            },
+            {
+                "hanja": "食",
+                "name": "밥 식/먹을 식",
+                "sub": "食 [飠,饣,𩙿] (밥식, 9획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9800/98DF-09.svg"
+                ]
+            },
+            {
+                "hanja": "新",
+                "name": "새 신",
+                "sub": "斤 (날근, 4획)",
+                "count": "13획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/65B0-13.svg"
+                ]
+            },
+            {
+                "hanja": "郎",
+                "name": "사내 랑(낭)",
+                "sub": "⻏ [邑] (우부방, 3획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90CE-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90CE-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90CE-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90CE-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90CE-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90CE-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90CE-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90CE-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9000/90CE-09.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님께서는 왜 금식(禁食)하지 않으셨습니까?",
+                "a": "신랑으로 오셨기 때문입니다."
+            },
+            {
+                "q": "새 포도주(葡萄酒)는 어디에 담아야 합니까?",
+                "a": "새 부대입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "안심하라 네 믿음이 너를 구원하였다",
+                "where": "마태복음9장22절"
+            },
+            "child_afternoon": {
+                "before_words": "너희에게 평강이 있을찌어다 아버지께서 나를 보내신 것 같이 나도 너희를 보내노라",
+                "before_where": "요한복음 20장 21절",
+                "words": "오직 성령이 너희에게 임하시면 너희가 권능을 받고 예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 증인이 되리라 하시니라",
+                "where": "사도행전 1장 8절",
+                "next_words": "오직 성령이 너희에게 임하시면 너희가 권능을 받고 예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 증인이 되리라 하시니라",
+                "next_where": "사도행정 1장 8절"
+            },
+            "youth_afternoon": {
+                "before_words": "여기 계시지 않고 살아나셨느니라",
+                "before_where": "누가복음 24장 6절",
+                "words": "영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
+                "where": "누가복음 24장 39절",
+                "next_words": "영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
+                "next_where": "누가복음 24장 39절",
+                "has_total_recap": 5
+            },
+            "adult": {
+                "words": "이제는 우리가 얽매였던 것에 대(對)하여 죽었으므로 율법(律法)에서 벗어났으니 이러므로 우리가 영(靈)의 새로운 것으로 섬길 것이요 의문(儀文)의 묵은 것으로 아니할찌니라",
+                "where": "로마서 7장 6절",
+                "answer": "마태복음 20장 28절, 마가복음 10장 45절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 25장",
+            "禁食",
+            "新郞",
+            "稅吏",
+            "先生",
+            "女子",
+            "男子",
+            "孫子",
+            "祭祀",
+            "言約",
+            "百姓",
+            "神",
+            "目前",
+            "淫行",
+            "始作",
+            "迫害",
+            "姉妹"
         ]
     }
 ]
