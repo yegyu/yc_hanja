@@ -1,0 +1,125 @@
+[
+    {
+        "week": 1,
+        "main_words": "마태복음 9장 18-26절",
+        "voca_list": [
+            {
+                "hanja": "血漏症",
+                "mean": "만성 자궁 출혈병 또는 하혈하면 멈추지 않고 출혈이 지속되는 부인병(여성이 걸리는 병)"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "血",
+                "name": "피 혈",
+                "sub": "血 (피혈, 6획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-06.svg"
+                ]
+            },
+            {
+                "hanja": "漏",
+                "name": "샐 루(누)",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-14.svg"
+                ]
+            },
+            {
+                "hanja": "症",
+                "name": "증세 증",
+                "sub": "疒 (병질엄, 5획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-10.svg"
+                ]
+            }
+            
+        ],
+        "questions": [
+            {
+                "q": "예수님께서는 왜 돌아보셨습니까?",
+                "a": "혈루증 여인 때문입니다."
+            },
+            {
+                "q": "죽었던 회당장(會堂長)의 딸을 예수님이 어떻게 하셨습니까?",
+                "a": "다시 살리셨습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "내가 능히 이 일 할 줄을 믿느냐",
+                "where": "마태복음9장28절"
+            },
+            "child_afternoon": {
+                "before_words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
+                "before_where": "사도행전 4장 12절",
+                "words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
+                "where": "사도행전 4장 12절",
+                "next_words": "사람보다 하나님을 순종하는 것이 마땅하니라",
+                "next_where": "사도행전 5장 29절"
+            },
+            "youth_afternoon": {
+                "before_words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
+                "before_where": "요한복음 1장 1절",
+                "words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
+                "where": "요한복음 1장 1절",
+                "next_words": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요",
+                "next_where": "요한복음 1장 14절",
+                "has_total_recap": -1
+            },
+            "adult": {
+                "words": "가라사대 너희가 너희 하나님 나 여호와의 말을 청종(聽從)하고 나의 보기에 의(義)를 행(行)하며 내 계명(誡命)에 귀를 기울이며 내 모든 규례(規例)를 지키면 내가 애굽 사람에게 내린 모든 질병(疾病)의 하나도 너희에게 내리지 아니하리니 나는 너희를 치료(治療)하는 여호와임이니라",
+                "where": "출애굽기 15장 26절",
+                "answer": "로마서 7장 6절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 25장",
+            "血漏症",
+            "禁食",
+            "新郞",
+            "稅吏",
+            "여자",
+            "남자",
+            "孫子",
+            "祭祀",
+            "言約",
+            "百姓",
+            "神",
+            "目前",
+            "淫行",
+            "始作",
+            "迫害",
+            "姉妹"
+        ]
+    }
+]
