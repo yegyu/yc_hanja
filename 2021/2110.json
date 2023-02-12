@@ -16,7 +16,7 @@
             {
                 "hanja": "子",
                 "name": "아들자",
-                "count": 4,
+                "count": "3획",
                 "draw_list": [
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",
@@ -143,7 +143,7 @@
             {
                 "hanja": "子",
                 "name": "아들자",
-                "count": 4,
+                "count": "3획",
                 "draw_list": [
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",
@@ -270,7 +270,7 @@
             {
                 "hanja": "子",
                 "name": "아들자",
-                "count": 4,
+                "count": "3획",
                 "draw_list": [
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
                     "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",

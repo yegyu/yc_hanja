@@ -1,264 +1,408 @@
 [
-  {
-    "week": 1,
-    "main_words": "마태복음 9장 18-26절",
-    "voca_list": [
-      {
-        "hanja": "血漏症",
-        "mean": "만성 자궁 출혈병 또는 하혈하면 멈추지 않고 출혈이 지속되는 부인병(여성이 걸리는 병)"
-      }
-    ],
-    "front_hanja_list": [
-      {
-        "hanja": "血",
-        "name": "피 혈",
-        "sub": "血 (피혈, 6획)",
-        "count": "6획",
-        "draw_list": [
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-01.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-02.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-03.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-04.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-05.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-06.svg"
-        ]
-      },
-      {
-        "hanja": "漏",
-        "name": "샐 루(누)",
-        "sub": "氵 [水,氺] (삼수변, 3획)",
-        "count": "14획",
-        "draw_list": [
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-01.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-03.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-04.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-05.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-06.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-07.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-09.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-10.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-11.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-12.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-13.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-14.svg"
-        ]
-      },
-      {
-        "hanja": "症",
-        "name": "증세 증",
-        "sub": "疒 (병질엄, 5획)",
-        "count": "10획",
-        "draw_list": [
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-01.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-02.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-03.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-04.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-05.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-06.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-07.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-08.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-09.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-10.svg"
-        ]
-      }
-    ],
-    "questions": [
-      {
-        "q": "예수님께서는 왜 돌아보셨습니까?",
-        "a": "혈루증 여인 때문입니다."
-      },
-      {
-        "q": "죽었던 회당장(會堂長)의 딸을 예수님이 어떻게 하셨습니까?",
-        "a": "다시 살리셨습니다."
-      }
-    ],
-    "yojeol": {
-      "morning": {
-        "words": "내가 능히 이 일 할 줄을 믿느냐",
-        "where": "마태복음 9장 28절"
-      },
-      "child_afternoon": {
-        "before_words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
-        "before_where": "사도행전 4장 12절",
-        "words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
-        "where": "사도행전 4장 12절",
-        "next_words": "사람보다 하나님을 순종하는 것이 마땅하니라",
-        "next_where": "사도행전 5장 29절"
-      },
-      "youth_afternoon": {
-        "before_words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
-        "before_where": "요한복음 1장 1절",
-        "words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
-        "where": "요한복음 1장 1절",
-        "next_words": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요",
-        "next_where": "요한복음 1장 14절",
-        "has_total_recap": -1
-      },
-      "adult": {
-        "words": "가라사대 너희가 너희 하나님 나 여호와의 말을 청종(聽從)하고 나의 보기에 의(義)를 행(行)하며 내 계명(誡命)에 귀를 기울이며 내 모든 규례(規例)를 지키면 내가 애굽 사람에게 내린 모든 질병(疾病)의 하나도 너희에게 내리지 아니하리니 나는 너희를 치료(治療)하는 여호와임이니라",
-        "where": "출애굽기 15장 26절",
-        "answer": "로마서 7장 6절"
-      }
-    },
-    "_back_hanja_list_repeat_count": 2,
-    "back_hanja_list": [
-      "민수기 25장",
-      "血漏症",
-      "禁食",
-      "新郞",
-      "稅吏",
-      "여자",
-      "남자",
-      "孫子",
-      "祭祀",
-      "言約",
-      "百姓",
-      "神",
-      "目前",
-      "淫行",
-      "始作",
-      "迫害",
-      "姉妹"
-    ]
-  },
-  {
-    "week": 2,
-    "main_words": "마태복음 9장 27-31절",
-    "voca_list": [
-      {
-        "hanja": "子孫",
-        "mean": "아들과 손자 (후손)"
-      },
-      {
-        "hanja": "警戒",
-        "mean": "조심, 주의, 거듭 경고 등"
-      }
-    ],
-    "front_hanja_list": [
-      {
-        "hanja": "子",
-        "name": "아들자",
-        "count": 4,
-        "draw_list": [
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-03.svg"
+    {
+        "week": 1,
+        "main_words": "마태복음 9장 18-26절",
+        "voca_list": [
+            {
+                "hanja": "血漏症",
+                "mean": "만성 자궁 출혈병 또는 하혈하면 멈추지 않고 출혈이 지속되는 부인병(여성이 걸리는 병)"
+            }
         ],
-        "sub": "子 (아들자, 3획)",
-        "sub_hanja": "子",
-        "sub_name": "아들자"
-      },
-      {
-        "hanja": "孫",
-        "name": "손자 손",
-        "sub": "子 (아들자, 3획)",
-        "count": "10획",
-        "draw_list": [
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-01.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-02.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-03.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-04.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-05.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-06.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-07.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-08.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-09.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-10.svg"
+        "front_hanja_list": [
+            {
+                "hanja": "血",
+                "name": "피 혈",
+                "sub": "血 (피혈, 6획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8800/8840-06.svg"
+                ]
+            },
+            {
+                "hanja": "漏",
+                "name": "샐 루(누)",
+                "sub": "氵 [水,氺] (삼수변, 3획)",
+                "count": "14획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6F00/6F0F-14.svg"
+                ]
+            },
+            {
+                "hanja": "症",
+                "name": "증세 증",
+                "sub": "疒 (병질엄, 5획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/75C7-10.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님께서는 왜 돌아보셨습니까?",
+                "a": "혈루증 여인 때문입니다."
+            },
+            {
+                "q": "죽었던 회당장(會堂長)의 딸을 예수님이 어떻게 하셨습니까?",
+                "a": "다시 살리셨습니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "내가 능히 이 일 할 줄을 믿느냐",
+                "where": "마태복음 9장 28절"
+            },
+            "child_afternoon": {
+                "before_words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
+                "before_where": "사도행전 4장 12절",
+                "words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
+                "where": "사도행전 4장 12절",
+                "next_words": "사람보다 하나님을 순종하는 것이 마땅하니라",
+                "next_where": "사도행전 5장 29절"
+            },
+            "youth_afternoon": {
+                "before_words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
+                "before_where": "요한복음 1장 1절",
+                "words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
+                "where": "요한복음 1장 1절",
+                "next_words": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요",
+                "next_where": "요한복음 1장 14절",
+                "has_total_recap": -1
+            },
+            "adult": {
+                "words": "가라사대 너희가 너희 하나님 나 여호와의 말을 청종(聽從)하고 나의 보기에 의(義)를 행(行)하며 내 계명(誡命)에 귀를 기울이며 내 모든 규례(規例)를 지키면 내가 애굽 사람에게 내린 모든 질병(疾病)의 하나도 너희에게 내리지 아니하리니 나는 너희를 치료(治療)하는 여호와임이니라",
+                "where": "출애굽기 15장 26절",
+                "answer": "로마서 7장 6절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 25장",
+            "血漏症",
+            "禁食",
+            "新郞",
+            "稅吏",
+            "여자",
+            "남자",
+            "孫子",
+            "祭祀",
+            "言約",
+            "百姓",
+            "神",
+            "目前",
+            "淫行",
+            "始作",
+            "迫害",
+            "姉妹"
         ]
-      },
-      {
-        "hanja": "警",
-        "name": "깨우칠 경/경계할 경",
-        "sub": "言 [訁,讠] (말씀언, 7획)",
-        "count": "19획",
-        "draw_list": [
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-02.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-01.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-03.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-04.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-05.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-09.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-10.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-11.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-12.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-13.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-14.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-19.svg"
-        ]
-      },
-      {
-        "hanja": "戒",
-        "name": "경계할 계",
-        "sub": "戈 (창과, 4획)",
-        "count": "7획",
-        "draw_list": [
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-01.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-02.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-03.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-04.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-05.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-06.svg",
-          "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-07.svg"
-        ]
-      }
-    ],
-    "questions": [
-      {
-        "q": "소경들은 예수님을 어떻게 불렀습니까?",
-        "a": "다윗의 자손이라고 불렀습니다."
-      },
-      {
-        "q": "예수님께서는 소경들의 무엇을 보셨습니까?",
-        "a": "믿음입니다."
-      }
-    ],
-    "yojeol": {
-      "morning": {
-        "words": "귀신이 쫓겨나고 벙어리가 말하거늘",
-        "where": "마태복음 9장 33절"
-      },
-      "child_afternoon": {
-        "before_words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
-        "before_where": "사도행전 4장 12절",
-        "words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
-        "where": "사도행전 4장 12절",
-        "next_words": "사람보다 하나님을 순종하는 것이 마땅하니라",
-        "next_where": "사도행전 5장 29절"
-      },
-      "youth_afternoon": {
-        "before_words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
-        "before_where": "요한복음 1장 1절",
-        "words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
-        "where": "요한복음 1장 1절",
-        "next_words": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요",
-        "next_where": "요한복음 1장 14절",
-        "has_total_recap": -1
-      },
-      "adult": {
-        "words": "예수께서 가라사대 내가 심판(審判)하러 이 세상(世上)에 왔으니 보지 못하는 자(者)들은 보게 하고 보는 자(者)들은 소경되게 하려 함이라 하시니",
-        "where": "요한복음 9장 39절",
-        "answer": "출애굽기 15장 26절"
-      }
     },
-    "_back_hanja_list_repeat_count": 1,
-    "back_hanja_list": [
-      "민수기 25장",
-      "子孫",
-      "警戒",
-      "血漏症",
-      "稅吏",
-      "六萬",
-      "三萬",
-      "二千",
-      "五百名",
-      "祭司長",
-      "家族",
-      "宗族",
-      "會衆",
-      "名數",
-      "總數",
-      "計數",
-      "懲戒"
-    ]
-  }
+    {
+        "week": 2,
+        "main_words": "마태복음 9장 27-31절",
+        "voca_list": [
+            {
+                "hanja": "子孫",
+                "mean": "아들과 손자 (후손)"
+            },
+            {
+                "hanja": "警戒",
+                "mean": "조심, 주의, 거듭 경고 등"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "子",
+                "name": "아들자",
+                "count": "3획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B50-03.svg"
+                ],
+                "sub": "子 (아들자, 3획)",
+                "sub_hanja": "子",
+                "sub_name": "아들자"
+            },
+            {
+                "hanja": "孫",
+                "name": "손자 손",
+                "sub": "子 (아들자, 3획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5B00/5B6B-10.svg"
+                ]
+            },
+            {
+                "hanja": "警",
+                "name": "깨우칠 경/경계할 경",
+                "sub": "言 [訁,讠] (말씀언, 7획)",
+                "count": "19획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-11.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-12.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-13.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-14.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8B00/8B66-19.svg"
+                ]
+            },
+            {
+                "hanja": "戒",
+                "name": "경계할 계",
+                "sub": "戈 (창과, 4획)",
+                "count": "7획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6200/6212-07.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "소경들은 예수님을 어떻게 불렀습니까?",
+                "a": "다윗의 자손이라고 불렀습니다."
+            },
+            {
+                "q": "예수님께서는 소경들의 무엇을 보셨습니까?",
+                "a": "믿음입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "귀신이 쫓겨나고 벙어리가 말하거늘",
+                "where": "마태복음 9장 33절"
+            },
+            "child_afternoon": {
+                "before_words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
+                "before_where": "사도행전 4장 12절",
+                "words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
+                "where": "사도행전 4장 12절",
+                "next_words": "사람보다 하나님을 순종하는 것이 마땅하니라",
+                "next_where": "사도행전 5장 29절"
+            },
+            "youth_afternoon": {
+                "before_words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
+                "before_where": "요한복음 1장 1절",
+                "words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
+                "where": "요한복음 1장 1절",
+                "next_words": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요",
+                "next_where": "요한복음 1장 14절",
+                "has_total_recap": -1
+            },
+            "adult": {
+                "words": "예수께서 가라사대 내가 심판(審判)하러 이 세상(世上)에 왔으니 보지 못하는 자(者)들은 보게 하고 보는 자(者)들은 소경되게 하려 함이라 하시니",
+                "where": "요한복음 9장 39절",
+                "answer": "출애굽기 15장 26절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 25장",
+            "子孫",
+            "警戒",
+            "血漏症",
+            "稅吏",
+            "六萬",
+            "三萬",
+            "二千",
+            "五百名",
+            "祭司長",
+            "家族",
+            "宗族",
+            "會衆",
+            "名數",
+            "總數",
+            "計數",
+            "懲戒"
+        ]
+    },
+    {
+        "week": 3,
+        "main_words": "마태복음 9장 32-34절",
+        "voca_list": [
+            {
+                "hanja": "鬼神",
+                "mean": "마귀 아래 있는 타락한 천사들"
+            },
+            {
+                "hanja": "奇異",
+                "mean": "기이하고 이상함"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "鬼",
+                "name": "귀신 귀",
+                "sub": "鬼 [⻤] (귀신귀, 10획)",
+                "count": "10획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/9B00/9B3C-10.svg"
+                ]
+            },
+            {
+                "hanja": "神",
+                "name": "귀신 신",
+                "sub": "礻 [示,𥘅] (보일시변, 4획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/795E-09.svg"
+                ]
+            },
+            {
+                "hanja": "奇",
+                "name": "기이할 기",
+                "sub": "大 (큰대, 3획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5947-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5947-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5947-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5947-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5947-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5947-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5947-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/5900/5947-08.svg"
+                ]
+            },
+            {
+                "hanja": "異",
+                "name": "다를 이(리)",
+                "sub": "田 (밭전, 5획)",
+                "count": "11획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-09.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-10.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7500/7570-11.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님께서는 누구를 고쳐주셨습니까?",
+                "a": "귀신 들려 벙어리 된 자입니다."
+            },
+            {
+                "q": "바리새인들은 예수님이 누구를 의지(依支)한다고 하였습니까?",
+                "a": "귀신의 왕입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "추수할 일군들을 보내어 주소서 하라 하시니라",
+                "where": "마태복음 9장 38절"
+            },
+            "child_afternoon": {
+                "before_words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
+                "before_where": "사도행전 4장 12절",
+                "words": "사람보다 하나님을 순종하는 것이 마땅하니라",
+                "where": "사도행전 5장 29절",
+                "next_words": "사람보다 하나님을 순종하는 것이 마땅하니라",
+                "next_where": "사도행전 5장 29절"
+            },
+            "youth_afternoon": {
+                "before_words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
+                "before_where": "요한복음 1장 1절",
+                "words": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요",
+                "where": "요한복음 1장 14절",
+                "next_words": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요",
+                "next_where": "요한복음 1장 14절",
+                "has_total_recap": -1
+            },
+            "adult": {
+                "words": "그러므로 내가 너희에게 이르노니 사람의 모든 죄(罪)와 훼방(毁謗)은 사(赦)하심을 얻되 성령(聖靈)을 훼방(毁謗)하는 것은 사(赦)하심을 얻지 못하겠고",
+                "where": "마태복음 12장 31절",
+                "answer": "요한복음 9장 39절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 2,
+        "back_hanja_list": [
+            "민수기 25장",
+            "鬼神",
+            "奇異",
+            "子孫",
+            "警戒",
+            "六萬",
+            "三萬",
+            "二千",
+            "五百名",
+            "祭司長",
+            "家族",
+            "宗族",
+            "會衆",
+            "名數",
+            "總數",
+            "計數",
+            "懲戒"
+        ]
+    }
 ]
