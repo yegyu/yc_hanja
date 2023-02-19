@@ -404,5 +404,142 @@
             "計數",
             "懲戒"
         ]
+    },
+    {
+        "week": 4,
+        "main_words": "마태복음 9장 35-38절",
+        "voca_list": [
+            {
+                "hanja": "牧者",
+                "mean": "양을 치는 사람"
+            },
+            {
+                "hanja": "秋收",
+                "mean": "익은 곡식을 수확하는 일"
+            }
+        ],
+        "front_hanja_list": [
+            {
+                "hanja": "牧",
+                "name": "칠 목",
+                "sub": "牜 [牛,⺧] (소우3, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7200/7267-08.svg"
+                ]
+            },
+            {
+                "hanja": "者",
+                "name": "사람 자",
+                "sub": "耂 [老] (늙을로엄, 4획)",
+                "count": "8획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/8000/8005-08.svg"
+                ]
+            },
+            {
+                "hanja": "秋",
+                "name": "가을 추",
+                "sub": "禾 (벼화, 5획)",
+                "count": "9획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-06.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-07.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-08.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/7900/79CB-09.svg"
+                ]
+            },
+            {
+                "hanja": "收",
+                "name": "거둘 수",
+                "sub": "攵 [攴] (등글월문2, 4획)",
+                "count": "6획",
+                "draw_list": [
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-01.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-02.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-03.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-04.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-05.svg",
+                    "https://ssl.pstatic.net/dicimg/cckodict/aniSVG/6500/6536-06.svg"
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "q": "예수님께서는 무리를 무엇에 비유(比喩)하셨습니까?",
+                "a": "목자 없는 양들입니다."
+            },
+            {
+                "q": "예수님께서는 하나님께 누구를 보내달라고 하셨습니까?",
+                "a": "추수할 일꾼입니다."
+            }
+        ],
+        "yojeol": {
+            "morning": {
+                "words": "예수께서 그 열 두 제자를 부르사",
+                "where": "마태복음 10장 1절"
+            },
+            "child_afternoon": {
+                "before_words": "다른이로서는 구원을 얻을 수 없나니 천하 인간에 구원을 얻을만한 다른 이름을 우리에게 주신 일이 없음이니라",
+                "before_where": "사도행전 4장 12절",
+                "words": "사람보다 하나님을 순종하는 것이 마땅하니라",
+                "where": "사도행전 5장 29절",
+                "next_words": "사람보다 하나님을 순종하는 것이 마땅하니라",
+                "next_where": "사도행전 5장 29절"
+            },
+            "youth_afternoon": {
+                "before_words": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라",
+                "before_where": "요한복음 1장 1절",
+                "words": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요",
+                "where": "요한복음 1장 14절",
+                "next_words": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요",
+                "next_where": "요한복음 1장 14절",
+                "has_total_recap": -1
+            },
+            "adult": {
+                "words": "내 양(羊)의 무리가 모든 산(山)과 높은 멧부리에마다 유리(流離)되었고 내 양(羊)의 무리가 온 지면(地面)에 흩어졌으되 찾고 찾는 자(者)가 없었도다",
+                "where": "에스겔 34장 6절",
+                "answer": "마태복음 12장 31절"
+            }
+        },
+        "_back_hanja_list_repeat_count": 1,
+        "back_hanja_list": [
+            "민수기 27장",
+            "牧者",
+            "秋收",
+            "鬼神",
+            "奇異",
+            "自己",
+            "出入",
+            "目前",
+            "服從",
+            "命",
+            "後",
+            "羊",
+            "兄弟",
+            "家族",
+            "玄孫",
+            "曾孫",
+            "削除"
+        ]
     }
 ]
